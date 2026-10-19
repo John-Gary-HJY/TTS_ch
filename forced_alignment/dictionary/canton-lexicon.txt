@@ -1,0 +1,4201 @@
+aa1 a:1
+aa2 a:2
+aa3 a:3
+aa4 a:4
+aa5 a:5
+aa6 a:6
+aai1 a:1 i:
+aai2 a:2 i:
+aai3 a:3 i:
+aai4 a:4 i:
+aai5 a:5 i:
+aai6 a:6 i:
+aak1 a:1 k
+aak2 a:2 k
+aak3 a:3 k
+aak4 a:4 k
+aak5 a:5 k
+aak6 a:6 k
+aam1 a:1 m
+aam2 a:2 m
+aam3 a:3 m
+aam4 a:4 m
+aam5 a:5 m
+aam6 a:6 m
+aan1 a:1 n
+aan2 a:2 n
+aan3 a:3 n
+aan4 a:4 n
+aan5 a:5 n
+aan6 a:6 n
+aang1 a:1 N
+aang2 a:2 N
+aang3 a:3 N
+aang4 a:4 N
+aang5 a:5 N
+aang6 a:6 N
+aap1 a:1 p
+aap2 a:2 p
+aap3 a:3 p
+aap4 a:4 p
+aap5 a:5 p
+aap6 a:6 p
+aat1 a:1 t
+aat2 a:2 t
+aat3 a:3 t
+aat4 a:4 t
+aat5 a:5 t
+aat6 a:6 t
+aau1 a:1 u:
+aau2 a:2 u:
+aau3 a:3 u:
+aau4 a:4 u:
+aau5 a:5 u:
+aau6 a:6 u:
+ai1 a1 i:
+ai2 a2 i:
+ai3 a3 i:
+ai4 a4 i:
+ai5 a5 i:
+ai6 a6 i:
+ak1 a1 k
+ak2 a2 k
+ak3 a3 k
+ak4 a4 k
+ak5 a5 k
+ak6 a6 k
+am1 a1 m
+am2 a2 m
+am3 a3 m
+am4 a4 m
+am5 a5 m
+am6 a6 m
+an1 a1 n
+an2 a2 n
+an3 a3 n
+an4 a4 n
+an5 a5 n
+an6 a6 n
+ang1 a1 N
+ang2 a2 N
+ang3 a3 N
+ang4 a4 N
+ang5 a5 N
+ang6 a6 N
+at1 a1 t
+at2 a2 t
+at3 a3 t
+at4 a4 t
+at5 a5 t
+at6 a6 t
+au1 a1 u:
+au2 a2 u:
+au3 a3 u:
+au4 a4 u:
+au5 a5 u:
+au6 a6 u:
+baa1 p a:1
+baa2 p a:2
+baa3 p a:3
+baa4 p a:4
+baa5 p a:5
+baa6 p a:6
+baai1 p a:1 i:
+baai2 p a:2 i:
+baai3 p a:3 i:
+baai4 p a:4 i:
+baai5 p a:5 i:
+baai6 p a:6 i:
+baak1 p a:1 k
+baak2 p a:2 k
+baak3 p a:3 k
+baak4 p a:4 k
+baak5 p a:5 k
+baak6 p a:6 k
+baan1 p a:1 n
+baan2 p a:2 n
+baan3 p a:3 n
+baan4 p a:4 n
+baan5 p a:5 n
+baan6 p a:6 n
+baap1 p a:1 p
+baap2 p a:2 p
+baap3 p a:3 p
+baap4 p a:4 p
+baap5 p a:5 p
+baap6 p a:6 p
+baat1 p a:1 t
+baat2 p a:2 t
+baat3 p a:3 t
+baat4 p a:4 t
+baat5 p a:5 t
+baat6 p a:6 t
+baau1 p a:1 u:
+baau2 p a:2 u:
+baau3 p a:3 u:
+baau4 p a:4 u:
+baau5 p a:5 u:
+baau6 p a:6 u:
+bai1 p a1 i:
+bai2 p a2 i:
+bai3 p a3 i:
+bai4 p a4 i:
+bai5 p a5 i:
+bai6 p a6 i:
+bak1 p a1 k
+bak2 p a2 k
+bak3 p a3 k
+bak4 p a4 k
+bak5 p a5 k
+bak6 p a6 k
+bam1 p a1 m
+bam2 p a2 m
+bam3 p a3 m
+bam4 p a4 m
+bam5 p a5 m
+bam6 p a6 m
+ban1 p a1 n
+ban2 p a2 n
+ban3 p a3 n
+ban4 p a4 n
+ban5 p a5 n
+ban6 p a6 n
+bang1 p a1 N
+bang2 p a2 N
+bang3 p a3 N
+bang4 p a4 N
+bang5 p a5 N
+bang6 p a6 N
+bat1 p a1 t
+bat2 p a2 t
+bat3 p a3 t
+bat4 p a4 t
+bat5 p a5 t
+bat6 p a6 t
+be1 p E:1
+be2 p E:2
+be3 p E:3
+be4 p E:4
+be5 p E:5
+be6 p E:6
+bei1 p e1 i:
+bei2 p e2 i:
+bei3 p e3 i:
+bei4 p e4 i:
+bei5 p e5 i:
+bei6 p e6 i:
+ben1 p E:1 n
+ben2 p E:2 n
+ben3 p E:3 n
+ben4 p E:4 n
+ben5 p E:5 n
+ben6 p E:6 n
+beng1 p E:1 N
+beng2 p E:2 N
+beng3 p E:3 N
+beng4 p E:4 N
+beng5 p E:5 N
+beng6 p E:6 N
+bik1 p I1 k
+bik2 p I2 k
+bik3 p I3 k
+bik4 p I4 k
+bik5 p I5 k
+bik6 p I6 k
+bin1 p i:1 n
+bin2 p i:2 n
+bin3 p i:3 n
+bin4 p i:4 n
+bin5 p i:5 n
+bin6 p i:6 n
+bing1 p I1 N
+bing2 p I2 N
+bing3 p I3 N
+bing4 p I4 N
+bing5 p I5 N
+bing6 p I6 N
+bit1 p i:1 t
+bit2 p i:2 t
+bit3 p i:3 t
+bit4 p i:4 t
+bit5 p i:5 t
+bit6 p i:6 t
+biu1 p i:1 u:
+biu2 p i:2 u:
+biu3 p i:3 u:
+biu4 p i:4 u:
+biu5 p i:5 u:
+biu6 p i:6 u:
+bi1 p i:1
+bi2 p i:2
+bi3 p i:3
+bi4 p i:4
+bi5 p i:5
+bi6 p i:6
+bo1 p O:1
+bo2 p O:2
+bo3 p O:3
+bo4 p O:4
+bo5 p O:5
+bo6 p O:6
+bok1 p O:1 k
+bok2 p O:2 k
+bok3 p O:3 k
+bok4 p O:4 k
+bok5 p O:5 k
+bok6 p O:6 k
+cok1 ts_h O:1 k
+cok2 ts_h O:2 k
+cok3 ts_h O:3 k
+cok4 ts_h O:4 k
+cok5 ts_h O:5 k
+cok6 ts_h O:6 k
+bon1 p O:1 n
+bon2 p O:2 n
+bon3 p O:3 n
+bon4 p O:4 n
+bon5 p O:5 n
+bon6 p O:6 n
+bong1 p O:1 N
+bong2 p O:2 N
+bong3 p O:3 N
+bong4 p O:4 N
+bong5 p O:5 N
+bong6 p O:6 N
+bou1 p o1 u:
+bou2 p o2 u:
+bou3 p o3 u:
+bou4 p o4 u:
+bou5 p o5 u:
+bou6 p o6 u:
+bu1 p u:1
+bu2 p u:2
+bu3 p u:3
+bu4 p u:4
+bu5 p u:5
+bu6 p u:6
+bui1 p u:1 i:
+bui2 p u:2 i:
+bui3 p u:3 i:
+bui4 p u:4 i:
+bui5 p u:5 i:
+bui6 p u:6 i:
+buk1 p U1 k
+buk2 p U2 k
+buk3 p U3 k
+buk4 p U4 k
+buk5 p U5 k
+buk6 p U6 k
+bum1 p u:1 m
+bum2 p u:2 m
+bum3 p u:3 m
+bum4 p u:4 m
+bum5 p u:5 m
+bum6 p u:6 m
+bun1 p u:1 n
+bun2 p u:2 n
+bun3 p u:3 n
+bun4 p u:4 n
+bun5 p u:5 n
+bun6 p u:6 n
+bung1 p U1 N
+bung2 p U2 N
+bung3 p U3 N
+bung4 p U4 N
+bung5 p U5 N
+bung6 p U6 N
+ung1 U1 N
+ung2 U2 N
+ung3 U3 N
+ung4 U4 N
+ung5 U5 N
+ung6 U6 N
+but1 p u:1 t
+but2 p u:2 t
+but3 p u:3 t
+but4 p u:4 t
+but5 p u:5 t
+but6 p u:6 t
+caa1 ts_h a:1
+caa2 ts_h a:2
+caa3 ts_h a:3
+caa4 ts_h a:4
+caa5 ts_h a:5
+caa6 ts_h a:6
+caai1 ts_h a:1 i:
+caai2 ts_h a:2 i:
+caai3 ts_h a:3 i:
+caai4 ts_h a:4 i:
+caai5 ts_h a:5 i:
+caai6 ts_h a:6 i:
+caak1 ts_h a:1 k
+caak2 ts_h a:2 k
+caak3 ts_h a:3 k
+caak4 ts_h a:4 k
+caak5 ts_h a:5 k
+caak6 ts_h a:6 k
+caam1 ts_h a:1 m
+caam2 ts_h a:2 m
+caam3 ts_h a:3 m
+caam4 ts_h a:4 m
+caam5 ts_h a:5 m
+caam6 ts_h a:6 m
+caan1 ts_h a:1 n
+caan2 ts_h a:2 n
+caan3 ts_h a:3 n
+caan4 ts_h a:4 n
+caan5 ts_h a:5 n
+caan6 ts_h a:6 n
+caang1 ts_h a:1 N
+caang2 ts_h a:2 N
+caang3 ts_h a:3 N
+caang4 ts_h a:4 N
+caang5 ts_h a:5 N
+caang6 ts_h a:6 N
+caap1 ts_h a:1 p
+caap2 ts_h a:2 p
+caap3 ts_h a:3 p
+caap4 ts_h a:4 p
+caap5 ts_h a:5 p
+caap6 ts_h a:6 p
+caat1 ts_h a:1 t
+caat2 ts_h a:2 t
+caat3 ts_h a:3 t
+caat4 ts_h a:4 t
+caat5 ts_h a:5 t
+caat6 ts_h a:6 t
+caau1 ts_h a:1 u:
+caau2 ts_h a:2 u:
+caau3 ts_h a:3 u:
+caau4 ts_h a:4 u:
+caau5 ts_h a:5 u:
+caau6 ts_h a:6 u:
+cai1 ts_h a1 i:
+cai2 ts_h a2 i:
+cai3 ts_h a3 i:
+cai4 ts_h a4 i:
+cai5 ts_h a5 i:
+cai6 ts_h a6 i:
+cak1 ts_h a1 k
+cak2 ts_h a2 k
+cak3 ts_h a3 k
+cak4 ts_h a4 k
+cak5 ts_h a5 k
+cak6 ts_h a6 k
+cam1 ts_h a1 m
+cam2 ts_h a2 m
+cam3 ts_h a3 m
+cam4 ts_h a4 m
+cam5 ts_h a5 m
+cam6 ts_h a6 m
+can1 ts_h a1 n
+can2 ts_h a2 n
+can3 ts_h a3 n
+can4 ts_h a4 n
+can5 ts_h a5 n
+can6 ts_h a6 n
+cang1 ts_h a1 N
+cang2 ts_h a2 N
+cang3 ts_h a3 N
+cang4 ts_h a4 N
+cang5 ts_h a5 N
+cang6 ts_h a6 N
+cap1 ts_h a1 p
+cap2 ts_h a2 p
+cap3 ts_h a3 p
+cap4 ts_h a4 p
+cap5 ts_h a5 p
+cap6 ts_h a6 p
+cat1 ts_h a1 t
+cat2 ts_h a2 t
+cat3 ts_h a3 t
+cat4 ts_h a4 t
+cat5 ts_h a5 t
+cat6 ts_h a6 t
+cau1 ts_h a1 u:
+cau2 ts_h a2 u:
+cau3 ts_h a3 u:
+cau4 ts_h a4 u:
+cau5 ts_h a5 u:
+cau6 ts_h a6 u:
+ce1 ts_h E:1
+ce2 ts_h E:2
+ce3 ts_h E:3
+ce4 ts_h E:4
+ce5 ts_h E:5
+ce6 ts_h E:6
+cek1 ts_h E:1 k
+cek2 ts_h E:2 k
+cek3 ts_h E:3 k
+cek4 ts_h E:4 k
+cek5 ts_h E:5 k
+cek6 ts_h E:6 k
+ceng1 ts_h E:1 N
+ceng2 ts_h E:2 N
+ceng3 ts_h E:3 N
+ceng4 ts_h E:4 N
+ceng5 ts_h E:5 N
+ceng6 ts_h E:6 N
+ceoi1 ts_h eo1 i:
+ceoi2 ts_h eo2 i:
+ceoi3 ts_h eo3 i:
+ceoi4 ts_h eo4 i:
+ceoi5 ts_h eo5 i:
+ceoi6 ts_h eo6 i:
+ceon1 ts_h eo1 n
+ceon2 ts_h eo2 n
+ceon3 ts_h eo3 n
+ceon4 ts_h eo4 n
+ceon5 ts_h eo5 n
+ceon6 ts_h eo6 n
+ceot1 ts_h eo1 t
+ceot2 ts_h eo2 t
+ceot3 ts_h eo3 t
+ceot4 ts_h eo4 t
+ceot5 ts_h eo5 t
+ceot6 ts_h eo6 t
+cet1 ts_h E:1 t
+cet2 ts_h E:2 t
+cet3 ts_h E:3 t
+cet4 ts_h E:4 t
+cet5 ts_h E:5 t
+cet6 ts_h E:6 t
+ci1 ts_h i:1
+ci2 ts_h i:2
+ci3 ts_h i:3
+ci4 ts_h i:4
+ci5 ts_h i:5
+ci6 ts_h i:6
+cik1 ts_h I1 k
+cik2 ts_h I2 k
+cik3 ts_h I3 k
+cik4 ts_h I4 k
+cik5 ts_h I5 k
+cik6 ts_h I6 k
+cim1 ts_h i:1 m
+cim2 ts_h i:2 m
+cim3 ts_h i:3 m
+cim4 ts_h i:4 m
+cim5 ts_h i:5 m
+cim6 ts_h i:6 m
+cin1 ts_h i:1 n
+cin2 ts_h i:2 n
+cin3 ts_h i:3 n
+cin4 ts_h i:4 n
+cin5 ts_h i:5 n
+cin6 ts_h i:6 n
+cing1 ts_h I1 N
+cing2 ts_h I2 N
+cing3 ts_h I3 N
+cing4 ts_h I4 N
+cing5 ts_h I5 N
+cing6 ts_h I6 N
+cip1 ts_h i:1 p
+cip2 ts_h i:2 p
+cip3 ts_h i:3 p
+cip4 ts_h i:4 p
+cip5 ts_h i:5 p
+cip6 ts_h i:6 p
+cit1 ts_h i:1 t
+cit2 ts_h i:2 t
+cit3 ts_h i:3 t
+cit4 ts_h i:4 t
+cit5 ts_h i:5 t
+cit6 ts_h i:6 t
+ciu1 ts_h i:1 u:
+ciu2 ts_h i:2 u:
+ciu3 ts_h i:3 u:
+ciu4 ts_h i:4 u:
+ciu5 ts_h i:5 u:
+ciu6 ts_h i:6 u:
+co1 ts_h O:1
+co2 ts_h O:2
+co3 ts_h O:3
+co4 ts_h O:4
+co5 ts_h O:5
+co6 ts_h O:6
+coe1 ts_h oe1
+coe2 ts_h oe2
+coe3 ts_h oe3
+coe4 ts_h oe4
+coe5 ts_h oe5
+coe6 ts_h oe6
+coek1 ts_h oe1 k
+coek2 ts_h oe2 k
+coek3 ts_h oe3 k
+coek4 ts_h oe4 k
+coek5 ts_h oe5 k
+coek6 ts_h oe6 k
+coen1 ts_h oe1 n
+coen2 ts_h oe2 n
+coen3 ts_h oe3 n
+coen4 ts_h oe4 n
+coen5 ts_h oe5 n
+coen6 ts_h oe6 n
+coeng1 ts_h oe1 N
+coeng2 ts_h oe2 N
+coeng3 ts_h oe3 N
+coeng4 ts_h oe4 N
+coeng5 ts_h oe5 N
+coeng6 ts_h oe6 N
+coi1 ts_h O:1 i:
+coi2 ts_h O:2 i:
+coi3 ts_h O:3 i:
+coi4 ts_h O:4 i:
+coi5 ts_h O:5 i:
+coi6 ts_h O:6 i:
+con1 ts_h O:1 n
+con2 ts_h O:2 n
+con3 ts_h O:3 n
+con4 ts_h O:4 n
+con5 ts_h O:5 n
+con6 ts_h O:6 n
+cong1 ts_h O:1 N
+cong2 ts_h O:2 N
+cong3 ts_h O:3 N
+cong4 ts_h O:4 N
+cong5 ts_h O:5 N
+cong6 ts_h O:6 N
+cou1 ts_h o1 u:
+cou2 ts_h o2 u:
+cou3 ts_h o3 u:
+cou4 ts_h o4 u:
+cou5 ts_h o5 u:
+cou6 ts_h o6 u:
+cuk1 ts_h U1 k
+cuk2 ts_h U2 k
+cuk3 ts_h U3 k
+cuk4 ts_h U4 k
+cuk5 ts_h U5 k
+cuk6 ts_h U6 k
+cung1 ts_h U1 N
+cung2 ts_h U2 N
+cung3 ts_h U3 N
+cung4 ts_h U4 N
+cung5 ts_h U5 N
+cung6 ts_h U6 N
+cyu1 ts_h y:1
+cyu2 ts_h y:2
+cyu3 ts_h y:3
+cyu4 ts_h y:4
+cyu5 ts_h y:5
+cyu6 ts_h y:6
+cyum1 ts_h y:1 m
+cyum2 ts_h y:2 m
+cyum3 ts_h y:3 m
+cyum4 ts_h y:4 m
+cyum5 ts_h y:5 m
+cyum6 ts_h y:6 m
+cyun1 ts_h y:1 n
+cyun2 ts_h y:2 n
+cyun3 ts_h y:3 n
+cyun4 ts_h y:4 n
+cyun5 ts_h y:5 n
+cyun6 ts_h y:6 n
+cyut1 ts_h y:1 t
+cyut2 ts_h y:2 t
+cyut3 ts_h y:3 t
+cyut4 ts_h y:4 t
+cyut5 ts_h y:5 t
+cyut6 ts_h y:6 t
+daa1 t a:1
+daa2 t a:2
+daa3 t a:3
+daa4 t a:4
+daa5 t a:5
+daa6 t a:6
+daai1 t a:1 i:
+daai2 t a:2 i:
+daai3 t a:3 i:
+daai4 t a:4 i:
+daai5 t a:5 i:
+daai6 t a:6 i:
+daak1 t a:1 k
+daak2 t a:2 k
+daak3 t a:3 k
+daak4 t a:4 k
+daak5 t a:5 k
+daak6 t a:6 k
+daam1 t a:1 m
+daam2 t a:2 m
+daam3 t a:3 m
+daam4 t a:4 m
+daam5 t a:5 m
+daam6 t a:6 m
+daan1 t a:1 n
+daan2 t a:2 n
+daan3 t a:3 n
+daan4 t a:4 n
+daan5 t a:5 n
+daan6 t a:6 n
+daang1 t a:1 N
+daang2 t a:2 N
+daang3 t a:3 N
+daang4 t a:4 N
+daang5 t a:5 N
+daang6 t a:6 N
+daap1 t a:1 p
+daap2 t a:2 p
+daap3 t a:3 p
+daap4 t a:4 p
+daap5 t a:5 p
+daap6 t a:6 p
+daat1 t a:1 t
+daat2 t a:2 t
+daat3 t a:3 t
+daat4 t a:4 t
+daat5 t a:5 t
+daat6 t a:6 t
+dai1 t a1 i:
+dai2 t a2 i:
+dai3 t a3 i:
+dai4 t a4 i:
+dai5 t a5 i:
+dai6 t a6 i:
+dak1 t a1 k
+dak2 t a2 k
+dak3 t a3 k
+dak4 t a4 k
+dak5 t a5 k
+dak6 t a6 k
+dam1 t a1 m
+dam2 t a2 m
+dam3 t a3 m
+dam4 t a4 m
+dam5 t a5 m
+dam6 t a6 m
+dan1 t a1 n
+dan2 t a2 n
+dan3 t a3 n
+dan4 t a4 n
+dan5 t a5 n
+dan6 t a6 n
+dang1 t a1 N
+dang2 t a2 N
+dang3 t a3 N
+dang4 t a4 N
+dang5 t a5 N
+dang6 t a6 N
+dap1 t a1 p
+dap2 t a2 p
+dap3 t a3 p
+dap4 t a4 p
+dap5 t a5 p
+dap6 t a6 p
+dat1 t a1 t
+dat2 t a2 t
+dat3 t a3 t
+dat4 t a4 t
+dat5 t a5 t
+dat6 t a6 t
+dau1 t a1 u:
+dau2 t a2 u:
+dau3 t a3 u:
+dau4 t a4 u:
+dau5 t a5 u:
+dau6 t a6 u:
+de1 t E:1
+de2 t E:2
+de3 t E:3
+de4 t E:4
+de5 t E:5
+de6 t E:6
+dei1 t e1 i:
+dei2 t e2 i:
+dei3 t e3 i:
+dei4 t e4 i:
+dei5 t e5 i:
+dei6 t e6 i:
+dek1 t E:1 k
+dek2 t E:2 k
+dek3 t E:3 k
+dek4 t E:4 k
+dek5 t E:5 k
+dek6 t E:6 k
+deng1 t E:1 N
+deng2 t E:2 N
+deng3 t E:3 N
+deng4 t E:4 N
+deng5 t E:5 N
+deng6 t E:6 N
+deoi1 t eo1 i:
+deoi2 t eo2 i:
+deoi3 t eo3 i:
+deoi4 t eo4 i:
+deoi5 t eo5 i:
+deoi6 t eo6 i:
+deon1 t eo1 n
+deon2 t eo2 n
+deon3 t eo3 n
+deon4 t eo4 n
+deon5 t eo5 n
+deon6 t eo6 n
+di1 t i:1
+di2 t i:2
+di3 t i:3
+di4 t i:4
+di5 t i:5
+di6 t i:6
+dik1 t I1 k
+dik2 t I2 k
+dik3 t I3 k
+dik4 t I4 k
+dik5 t I5 k
+dik6 t I6 k
+dim1 t i:1 m
+dim2 t i:2 m
+dim3 t i:3 m
+dim4 t i:4 m
+dim5 t i:5 m
+dim6 t i:6 m
+din1 t i:1 n
+din2 t i:2 n
+din3 t i:3 n
+din4 t i:4 n
+din5 t i:5 n
+din6 t i:6 n
+ding1 t I1 N
+ding2 t I2 N
+ding3 t I3 N
+ding4 t I4 N
+ding5 t I5 N
+ding6 t I6 N
+dip1 t i:1 p
+dip2 t i:2 p
+dip3 t i:3 p
+dip4 t i:4 p
+dip5 t i:5 p
+dip6 t i:6 p
+dit1 t i:1 t
+dit2 t i:2 t
+dit3 t i:3 t
+dit4 t i:4 t
+dit5 t i:5 t
+dit6 t i:6 t
+diu1 t i:1 u:
+diu2 t i:2 u:
+diu3 t i:3 u:
+diu4 t i:4 u:
+diu5 t i:5 u:
+diu6 t i:6 u:
+do1 t O:1
+do2 t O:2
+do3 t O:3
+do4 t O:4
+do5 t O:5
+do6 t O:6
+doe1 t oe1
+doe2 t oe2
+doe3 t oe3
+doe4 t oe4
+doe5 t oe5
+doe6 t oe6
+doek1 t oe1 k
+doek2 t oe2 k
+doek3 t oe3 k
+doek4 t oe4 k
+doek5 t oe5 k
+doek6 t oe6 k
+doeng1 t oe1 N
+doeng2 t oe2 N
+doeng3 t oe3 N
+doeng4 t oe4 N
+doeng5 t oe5 N
+doeng6 t oe6 N
+doi1 t O:1 i:
+doi2 t O:2 i:
+doi3 t O:3 i:
+doi4 t O:4 i:
+doi5 t O:5 i:
+doi6 t O:6 i:
+dok1 t O:1 k
+dok2 t O:2 k
+dok3 t O:3 k
+dok4 t O:4 k
+dok5 t O:5 k
+dok6 t O:6 k
+don1 t O:1 n
+don2 t O:2 n
+don3 t O:3 n
+don4 t O:4 n
+don5 t O:5 n
+don6 t O:6 n
+dong1 t O:1 N
+dong2 t O:2 N
+dong3 t O:3 N
+dong4 t O:4 N
+dong5 t O:5 N
+dong6 t O:6 N
+dou1 t o1 u:
+dou2 t o2 u:
+dou3 t o3 u:
+dou4 t o4 u:
+dou5 t o5 u:
+dou6 t o6 u:
+duk1 t U1 k
+duk2 t U2 k
+duk3 t U3 k
+duk4 t U4 k
+duk5 t U5 k
+duk6 t U6 k
+dum1 t u:1 m
+dum2 t u:2 m
+dum3 t u:3 m
+dum4 t u:4 m
+dum5 t u:5 m
+dum6 t u:6 m
+dung1 t U1 N
+dung2 t U2 N
+dung3 t U3 N
+dung4 t U4 N
+dung5 t U5 N
+dung6 t U6 N
+dyun1 t y:1 n
+dyun2 t y:2 n
+dyun3 t y:3 n
+dyun4 t y:4 n
+dyun5 t y:5 n
+dyun6 t y:6 n
+dyut1 t y:1 t
+dyut2 t y:2 t
+dyut3 t y:3 t
+dyut4 t y:4 t
+dyut5 t y:5 t
+dyut6 t y:6 t
+e1 E:1
+e2 E:2
+e3 E:3
+e4 E:4
+e5 E:5
+e6 E:6
+faa1 f a:1
+faa2 f a:2
+faa3 f a:3
+faa4 f a:4
+faa5 f a:5
+faa6 f a:6
+fing1 f I1 N
+fing2 f I2 N
+fing3 f I3 N
+fing4 f I4 N
+fing5 f I5 N
+fing6 f I6 N
+faai1 f a:1 i:
+faai2 f a:2 i:
+faai3 f a:3 i:
+faai4 f a:4 i:
+faai5 f a:5 i:
+faai6 f a:6 i:
+faak1 f a:1 k
+faak2 f a:2 k
+faak3 f a:3 k
+faak4 f a:4 k
+faak5 f a:5 k
+faak6 f a:6 k
+faan1 f a:1 n
+faan2 f a:2 n
+faan3 f a:3 n
+faan4 f a:4 n
+faan5 f a:5 n
+faan6 f a:6 n
+faat1 f a:1 t
+faat2 f a:2 t
+faat3 f a:3 t
+faat4 f a:4 t
+faat5 f a:5 t
+faat6 f a:6 t
+faau1 f a:1 u:
+faau2 f a:2 u:
+faau3 f a:3 u:
+faau4 f a:4 u:
+faau5 f a:5 u:
+faau6 f a:6 u:
+fai1 f a1 i:
+fai2 f a2 i:
+fai3 f a3 i:
+fai4 f a4 i:
+fai5 f a5 i:
+fai6 f a6 i:
+fan1 f a1 n
+fan2 f a2 n
+fan3 f a3 n
+fan4 f a4 n
+fan5 f a5 n
+fan6 f a6 n
+fang1 f a1 N
+fang2 f a2 N
+fang3 f a3 N
+fang4 f a4 N
+fang5 f a5 N
+fang6 f a6 N
+fat1 f a1 t
+fat2 f a2 t
+fat3 f a3 t
+fat4 f a4 t
+fat5 f a5 t
+fat6 f a6 t
+fau1 f a1 u:
+fau2 f a2 u:
+fau3 f a3 u:
+fau4 f a4 u:
+fau5 f a5 u:
+fau6 f a6 u:
+fe1 f E:1
+fe2 f E:2
+fe3 f E:3
+fe4 f E:4
+fe5 f E:5
+fe6 f E:6
+fei1 f e1 i:
+fei2 f e2 i:
+fei3 f e3 i:
+fei4 f e4 i:
+fei5 f e5 i:
+fei6 f e6 i:
+fo1 f O:1
+fo2 f O:2
+fo3 f O:3
+fo4 f O:4
+fo5 f O:5
+fo6 f O:6
+fok1 f O:1 k
+fok2 f O:2 k
+fok3 f O:3 k
+fok4 f O:4 k
+fok5 f O:5 k
+fok6 f O:6 k
+fon1 f O:1 n
+fon2 f O:2 n
+fon3 f O:3 n
+fon4 f O:4 n
+fon5 f O:5 n
+fon6 f O:6 n
+fong1 f O:1 N
+fong2 f O:2 N
+fong3 f O:3 N
+fong4 f O:4 N
+fong5 f O:5 N
+fong6 f O:6 N
+fu1 f u:1
+fu2 f u:2
+fu3 f u:3
+fu4 f u:4
+fu5 f u:5
+fu6 f u:6
+fui1 f u:1 i:
+fui2 f u:2 i:
+fui3 f u:3 i:
+fui4 f u:4 i:
+fui5 f u:5 i:
+fui6 f u:6 i:
+fuk1 f U1 k
+fuk2 f U2 k
+fuk3 f U3 k
+fuk4 f U4 k
+fuk5 f U5 k
+fuk6 f U6 k
+fun1 f u:1 n
+fun2 f u:2 n
+fun3 f u:3 n
+fun4 f u:4 n
+fun5 f u:5 n
+fun6 f u:6 n
+fung1 f U1 N
+fung2 f U2 N
+fung3 f U3 N
+fung4 f U4 N
+fung5 f U5 N
+fung6 f U6 N
+fut1 f u:1 t
+fut2 f u:2 t
+fut3 f u:3 t
+fut4 f u:4 t
+fut5 f u:5 t
+fut6 f u:6 t
+gaa1 k a:1
+gaa2 k a:2
+gaa3 k a:3
+gaa4 k a:4
+gaa5 k a:5
+gaa6 k a:6
+gaai1 k a:1 i:
+gaai2 k a:2 i:
+gaai3 k a:3 i:
+gaai4 k a:4 i:
+gaai5 k a:5 i:
+gaai6 k a:6 i:
+gaak1 k a:1 k
+gaak2 k a:2 k
+gaak3 k a:3 k
+gaak4 k a:4 k
+gaak5 k a:5 k
+gaak6 k a:6 k
+gaam1 k a:1 m
+gaam2 k a:2 m
+gaam3 k a:3 m
+gaam4 k a:4 m
+gaam5 k a:5 m
+gaam6 k a:6 m
+gaan1 k a:1 n
+gaan2 k a:2 n
+gaan3 k a:3 n
+gaan4 k a:4 n
+gaan5 k a:5 n
+gaan6 k a:6 n
+gaang1 k a:1 N
+gaang2 k a:2 N
+gaang3 k a:3 N
+gaang4 k a:4 N
+gaang5 k a:5 N
+gaang6 k a:6 N
+gaap1 k a:1 p
+gaap2 k a:2 p
+gaap3 k a:3 p
+gaap4 k a:4 p
+gaap5 k a:5 p
+gaap6 k a:6 p
+gaat1 k a:1 t
+gaat2 k a:2 t
+gaat3 k a:3 t
+gaat4 k a:4 t
+gaat5 k a:5 t
+gaat6 k a:6 t
+gaau1 k a:1 u:
+gaau2 k a:2 u:
+gaau3 k a:3 u:
+gaau4 k a:4 u:
+gaau5 k a:5 u:
+gaau6 k a:6 u:
+gai1 k a1 i:
+gai2 k a2 i:
+gai3 k a3 i:
+gai4 k a4 i:
+gai5 k a5 i:
+gai6 k a6 i:
+gak1 k a1 k
+gak2 k a2 k
+gak3 k a3 k
+gak4 k a4 k
+gak5 k a5 k
+gak6 k a6 k
+gam1 k a1 m
+gam2 k a2 m
+gam3 k a3 m
+gam4 k a4 m
+gam5 k a5 m
+gam6 k a6 m
+gan1 k a1 n
+gan2 k a2 n
+gan3 k a3 n
+gan4 k a4 n
+gan5 k a5 n
+gan6 k a6 n
+gang1 k a1 N
+gang2 k a2 N
+gang3 k a3 N
+gang4 k a4 N
+gang5 k a5 N
+gang6 k a6 N
+gap1 k a1 p
+gap2 k a2 p
+gap3 k a3 p
+gap4 k a4 p
+gap5 k a5 p
+gap6 k a6 p
+gat1 k a1 t
+gat2 k a2 t
+gat3 k a3 t
+gat4 k a4 t
+gat5 k a5 t
+gat6 k a6 t
+gau1 k a1 u:
+gau2 k a2 u:
+gau3 k a3 u:
+gau4 k a4 u:
+gau5 k a5 u:
+gau6 k a6 u:
+ge1 k E:1
+ge2 k E:2
+ge3 k E:3
+ge4 k E:4
+ge5 k E:5
+ge6 k E:6
+gei1 k e1 i:
+gei2 k e2 i:
+gei3 k e3 i:
+gei4 k e4 i:
+gei5 k e5 i:
+gei6 k e6 i:
+gek1 k E:1 k
+gek2 k E:2 k
+gek3 k E:3 k
+gek4 k E:4 k
+gek5 k E:5 k
+gek6 k E:6 k
+geng1 k E:1 N
+geng2 k E:2 N
+geng3 k E:3 N
+geng4 k E:4 N
+geng5 k E:5 N
+geng6 k E:6 N
+geoi1 k eo1 i:
+geoi2 k eo2 i:
+geoi3 k eo3 i:
+geoi4 k eo4 i:
+geoi5 k eo5 i:
+geoi6 k eo6 i:
+gik1 k I1 k
+gik2 k I2 k
+gik3 k I3 k
+gik4 k I4 k
+gik5 k I5 k
+gik6 k I6 k
+gim1 k i:1 m
+gim2 k i:2 m
+gim3 k i:3 m
+gim4 k i:4 m
+gim5 k i:5 m
+gim6 k i:6 m
+gin1 k i:1 n
+gin2 k i:2 n
+gin3 k i:3 n
+gin4 k i:4 n
+gin5 k i:5 n
+gin6 k i:6 n
+ging1 k I1 N
+ging2 k I2 N
+ging3 k I3 N
+ging4 k I4 N
+ging5 k I5 N
+ging6 k I6 N
+gip1 k i:1 p
+gip2 k i:2 p
+gip3 k i:3 p
+gip4 k i:4 p
+gip5 k i:5 p
+gip6 k i:6 p
+git1 k i:1 t
+git2 k i:2 t
+git3 k i:3 t
+git4 k i:4 t
+git5 k i:5 t
+git6 k i:6 t
+giu1 k i:1 u:
+giu2 k i:2 u:
+giu3 k i:3 u:
+giu4 k i:4 u:
+giu5 k i:5 u:
+giu6 k i:6 u:
+go1 k O:1
+go2 k O:2
+go3 k O:3
+go4 k O:4
+go5 k O:5
+go6 k O:6
+goe1 k oe1
+goe2 k oe2
+goe3 k oe3
+goe4 k oe4
+goe5 k oe5
+goe6 k oe6
+goek1 k oe1 k
+goek2 k oe2 k
+goek3 k oe3 k
+goek4 k oe4 k
+goek5 k oe5 k
+goek6 k oe6 k
+goeng1 k oe1 N
+goeng2 k oe2 N
+goeng3 k oe3 N
+goeng4 k oe4 N
+goeng5 k oe5 N
+goeng6 k oe6 N
+goi1 k O:1 i:
+goi2 k O:2 i:
+goi3 k O:3 i:
+goi4 k O:4 i:
+goi5 k O:5 i:
+goi6 k O:6 i:
+gok1 k O:1 k
+gok2 k O:2 k
+gok3 k O:3 k
+gok4 k O:4 k
+gok5 k O:5 k
+gok6 k O:6 k
+gon1 k O:1 n
+gon2 k O:2 n
+gon3 k O:3 n
+gon4 k O:4 n
+gon5 k O:5 n
+gon6 k O:6 n
+gong1 k O:1 N
+gong2 k O:2 N
+gong3 k O:3 N
+gong4 k O:4 N
+gong5 k O:5 N
+gong6 k O:6 N
+got1 k O:1 t
+got2 k O:2 t
+got3 k O:3 t
+got4 k O:4 t
+got5 k O:5 t
+got6 k O:6 t
+gou1 k o1 u:
+gou2 k o2 u:
+gou3 k o3 u:
+gou4 k o4 u:
+gou5 k o5 u:
+gou6 k o6 u:
+gu1 k u:1
+gu2 k u:2
+gu3 k u:3
+gu4 k u:4
+gu5 k u:5
+gu6 k u:6
+guk1 k U1 k
+guk2 k U2 k
+guk3 k U3 k
+guk4 k U4 k
+guk5 k U5 k
+guk6 k U6 k
+gum1 k u:1 m
+gum2 k u:2 m
+gum3 k u:3 m
+gum4 k u:4 m
+gum5 k u:5 m
+gum6 k u:6 m
+gun1 k u:1 n
+gun2 k u:2 n
+gun3 k u:3 n
+gun4 k u:4 n
+gun5 k u:5 n
+gun6 k u:6 n
+gung1 k U1 N
+gung2 k U2 N
+gung3 k U3 N
+gung4 k U4 N
+gung5 k U5 N
+gung6 k U6 N
+gwaa1 k_w a:1
+gwaa2 k_w a:2
+gwaa3 k_w a:3
+gwaa4 k_w a:4
+gwaa5 k_w a:5
+gwaa6 k_w a:6
+gwaai1 k_w a:1 i:
+gwaai2 k_w a:2 i:
+gwaai3 k_w a:3 i:
+gwaai4 k_w a:4 i:
+gwaai5 k_w a:5 i:
+gwaai6 k_w a:6 i:
+gwaak1 k_w a:1 k
+gwaak2 k_w a:2 k
+gwaak3 k_w a:3 k
+gwaak4 k_w a:4 k
+gwaak5 k_w a:5 k
+gwaak6 k_w a:6 k
+gwaam1 k_w a:1 m
+gwaam2 k_w a:2 m
+gwaam3 k_w a:3 m
+gwaam4 k_w a:4 m
+gwaam5 k_w a:5 m
+gwaam6 k_w a:6 m
+gwaan1 k_w a:1 n
+gwaan2 k_w a:2 n
+gwaan3 k_w a:3 n
+gwaan4 k_w a:4 n
+gwaan5 k_w a:5 n
+gwaan6 k_w a:6 n
+gwaat1 k_w a:1 t
+gwaat2 k_w a:2 t
+gwaat3 k_w a:3 t
+gwaat4 k_w a:4 t
+gwaat5 k_w a:5 t
+gwaat6 k_w a:6 t
+gwai1 k_w a1 i:
+gwai2 k_w a2 i:
+gwai3 k_w a3 i:
+gwai4 k_w a4 i:
+gwai5 k_w a5 i:
+gwai6 k_w a6 i:
+gwan1 k_w a1 n
+gwan2 k_w a2 n
+gwan3 k_w a3 n
+gwan4 k_w a4 n
+gwan5 k_w a5 n
+gwan6 k_w a6 n
+gwang1 k_w a1 N
+gwang2 k_w a2 N
+gwang3 k_w a3 N
+gwang4 k_w a4 N
+gwang5 k_w a5 N
+gwang6 k_w a6 N
+gwat1 k_w a1 t
+gwat2 k_w a2 t
+gwat3 k_w a3 t
+gwat4 k_w a4 t
+gwat5 k_w a5 t
+gwat6 k_w a6 t
+gwing1 k_w I1 N
+gwing2 k_w I2 N
+gwing3 k_w I3 N
+gwing4 k_w I4 N
+gwing5 k_w I5 N
+gwing6 k_w I6 N
+gwo1 k_w O:1
+gwo2 k_w O:2
+gwo3 k_w O:3
+gwo4 k_w O:4
+gwo5 k_w O:5
+gwo6 k_w O:6
+gwok1 k_w O:1 k
+gwok2 k_w O:2 k
+gwok3 k_w O:3 k
+gwok4 k_w O:4 k
+gwok5 k_w O:5 k
+gwok6 k_w O:6 k
+gwon1 k_w O:1 n
+gwon2 k_w O:2 n
+gwon3 k_w O:3 n
+gwon4 k_w O:4 n
+gwon5 k_w O:5 n
+gwon6 k_w O:6 n
+gwong1 k_w O:1 N
+gwong2 k_w O:2 N
+gwong3 k_w O:3 N
+gwong4 k_w O:4 N
+gwong5 k_w O:5 N
+gwong6 k_w O:6 N
+gwun1 k_w u:1 n
+gwun2 k_w u:2 n
+gwun3 k_w u:3 n
+gwun4 k_w u:4 n
+gwun5 k_w u:5 n
+gwun6 k_w u:6 n
+gyun1 k y:1 n
+gyun2 k y:2 n
+gyun3 k y:3 n
+gyun4 k y:4 n
+gyun5 k y:5 n
+gyun6 k y:6 n
+haa1 h a:1
+haa2 h a:2
+haa3 h a:3
+haa4 h a:4
+haa5 h a:5
+haa6 h a:6
+haai1 h a:1 i:
+haai2 h a:2 i:
+haai3 h a:3 i:
+haai4 h a:4 i:
+haai5 h a:5 i:
+haai6 h a:6 i:
+haak1 h a:1 k
+haak2 h a:2 k
+haak3 h a:3 k
+haak4 h a:4 k
+haak5 h a:5 k
+haak6 h a:6 k
+haam1 h a:1 m
+haam2 h a:2 m
+haam3 h a:3 m
+haam4 h a:4 m
+haam5 h a:5 m
+haam6 h a:6 m
+haan1 h a:1 n
+haan2 h a:2 n
+haan3 h a:3 n
+haan4 h a:4 n
+haan5 h a:5 n
+haan6 h a:6 n
+haang1 h a:1 N
+haang2 h a:2 N
+haang3 h a:3 N
+haang4 h a:4 N
+haang5 h a:5 N
+haang6 h a:6 N
+haap1 h a:1 p
+haap2 h a:2 p
+haap3 h a:3 p
+haap4 h a:4 p
+haap5 h a:5 p
+haap6 h a:6 p
+haat1 h a:1 t
+haat2 h a:2 t
+haat3 h a:3 t
+haat4 h a:4 t
+haat5 h a:5 t
+haat6 h a:6 t
+haau1 h a:1 u:
+haau2 h a:2 u:
+haau3 h a:3 u:
+haau4 h a:4 u:
+haau5 h a:5 u:
+haau6 h a:6 u:
+hai1 h a1 i:
+hai2 h a2 i:
+hai3 h a3 i:
+hai4 h a4 i:
+hai5 h a5 i:
+hai6 h a6 i:
+hak1 h a1 k
+hak2 h a2 k
+hak3 h a3 k
+hak4 h a4 k
+hak5 h a5 k
+hak6 h a6 k
+ham1 h a1 m
+ham2 h a2 m
+ham3 h a3 m
+ham4 h a4 m
+ham5 h a5 m
+ham6 h a6 m
+han1 h a1 n
+han2 h a2 n
+han3 h a3 n
+han4 h a4 n
+han5 h a5 n
+han6 h a6 n
+hang1 h a1 N
+hang2 h a2 N
+hang3 h a3 N
+hang4 h a4 N
+hang5 h a5 N
+hang6 h a6 N
+hap1 h a1 p
+hap2 h a2 p
+hap3 h a3 p
+hap4 h a4 p
+hap5 h a5 p
+hap6 h a6 p
+hat1 h a1 t
+hat2 h a2 t
+hat3 h a3 t
+hat4 h a4 t
+hat5 h a5 t
+hat6 h a6 t
+hau1 h a1 u:
+hau2 h a2 u:
+hau3 h a3 u:
+hau4 h a4 u:
+hau5 h a5 u:
+hau6 h a6 u:
+hei1 h e1 i:
+hei2 h e2 i:
+hei3 h e3 i:
+hei4 h e4 i:
+hei5 h e5 i:
+hei6 h e6 i:
+hek1 h E:1 k
+hek2 h E:2 k
+hek3 h E:3 k
+hek4 h E:4 k
+hek5 h E:5 k
+hek6 h E:6 k
+hen1 h E:1 n
+hen2 h E:2 n
+hen3 h E:3 n
+hen4 h E:4 n
+hen5 h E:5 n
+hen6 h E:6 n
+heng1 h E:1 N
+heng2 h E:2 N
+heng3 h E:3 N
+heng4 h E:4 N
+heng5 h E:5 N
+heng6 h E:6 N
+heoi1 h eo1 i:
+heoi2 h eo2 i:
+heoi3 h eo3 i:
+heoi4 h eo4 i:
+heoi5 h eo5 i:
+heoi6 h eo6 i:
+hng1 h N1
+hng2 h N2
+hng3 h N3
+hng4 h N4
+hng5 h N5
+hng6 h N6
+him1 h i:1 m
+him2 h i:2 m
+him3 h i:3 m
+him4 h i:4 m
+him5 h i:5 m
+him6 h i:6 m
+hin1 h i:1 n
+hin2 h i:2 n
+hin3 h i:3 n
+hin4 h i:4 n
+hin5 h i:5 n
+hin6 h i:6 n
+hing1 h I1 N
+hing2 h I2 N
+hing3 h I3 N
+hing4 h I4 N
+hing5 h I5 N
+hing6 h I6 N
+hip1 h i:1 p
+hip2 h i:2 p
+hip3 h i:3 p
+hip4 h i:4 p
+hip5 h i:5 p
+hip6 h i:6 p
+hit1 h i:1 t
+hit2 h i:2 t
+hit3 h i:3 t
+hit4 h i:4 t
+hit5 h i:5 t
+hit6 h i:6 t
+hiu1 h i:1 u:
+hiu2 h i:2 u:
+hiu3 h i:3 u:
+hiu4 h i:4 u:
+hiu5 h i:5 u:
+hiu6 h i:6 u:
+ho1 h O:1
+ho2 h O:2
+ho3 h O:3
+ho4 h O:4
+ho5 h O:5
+ho6 h O:6
+hoe1 h oe1
+hoe2 h oe2
+hoe3 h oe3
+hoe4 h oe4
+hoe5 h oe5
+hoe6 h oe6
+hoek1 h oe1 k
+hoek2 h oe2 k
+hoek3 h oe3 k
+hoek4 h oe4 k
+hoek5 h oe5 k
+hoek6 h oe6 k
+hoen1 h oe1 n
+hoen2 h oe2 n
+hoen3 h oe3 n
+hoen4 h oe4 n
+hoen5 h oe5 n
+hoen6 h oe6 n
+hoeng1 h oe1 N
+hoeng2 h oe2 N
+hoeng3 h oe3 N
+hoeng4 h oe4 N
+hoeng5 h oe5 N
+hoeng6 h oe6 N
+hoi1 h O:1 i:
+hoi2 h O:2 i:
+hoi3 h O:3 i:
+hoi4 h O:4 i:
+hoi5 h O:5 i:
+hoi6 h O:6 i:
+hok1 h O:1 k
+hok2 h O:2 k
+hok3 h O:3 k
+hok4 h O:4 k
+hok5 h O:5 k
+hok6 h O:6 k
+hon1 h O:1 n
+hon2 h O:2 n
+hon3 h O:3 n
+hon4 h O:4 n
+hon5 h O:5 n
+hon6 h O:6 n
+hong1 h O:1 N
+hong2 h O:2 N
+hong3 h O:3 N
+hong4 h O:4 N
+hong5 h O:5 N
+hong6 h O:6 N
+hot1 h O:1 t
+hot2 h O:2 t
+hot3 h O:3 t
+hot4 h O:4 t
+hot5 h O:5 t
+hot6 h O:6 t
+hou1 h o1 u:
+hou2 h o2 u:
+hou3 h o3 u:
+hou4 h o4 u:
+hou5 h o5 u:
+hou6 h o6 u:
+huk1 h U1 k
+huk2 h U2 k
+huk3 h U3 k
+huk4 h U4 k
+huk5 h U5 k
+huk6 h U6 k
+hum1 h u:1 m
+hum2 h u:2 m
+hum3 h u:3 m
+hum4 h u:4 m
+hum5 h u:5 m
+hum6 h u:6 m
+hung1 h U1 N
+hung2 h U2 N
+hung3 h U3 N
+hung4 h U4 N
+hung5 h U5 N
+hung6 h U6 N
+hyun1 h y:1 n
+hyun2 h y:2 n
+hyun3 h y:3 n
+hyun4 h y:4 n
+hyun5 h y:5 n
+hyun6 h y:6 n
+hyut1 h y:1 t
+hyut2 h y:2 t
+hyut3 h y:3 t
+hyut4 h y:4 t
+hyut5 h y:5 t
+hyut6 h y:6 t
+in1 i:1 n
+in2 i:2 n
+in3 i:3 n
+in4 i:4 n
+in5 i:5 n
+in6 i:6 n
+jaa1 j a:1
+jaa2 j a:2
+jaa3 j a:3
+jaa4 j a:4
+jaa5 j a:5
+jaa6 j a:6
+jo1 j O:1
+jo2 j O:2
+jo3 j O:3
+jo4 j O:4
+jo5 j O:5
+jo6 j O:6
+jaau1 j a:1 u:
+jaau2 j a:2 u:
+jaau3 j a:3 u:
+jaau4 j a:4 u:
+jaau5 j a:5 u:
+jaau6 j a:6 u:
+jai1 j a1 i:
+jai2 j a2 i:
+jai3 j a3 i:
+jai4 j a4 i:
+jai5 j a5 i:
+jai6 j a6 i:
+jak1 j a1 k
+jak2 j a2 k
+jak3 j a3 k
+jak4 j a4 k
+jak5 j a5 k
+jak6 j a6 k
+jam1 j a1 m
+jam2 j a2 m
+jam3 j a3 m
+jam4 j a4 m
+jam5 j a5 m
+jam6 j a6 m
+jan1 j a1 n
+jan2 j a2 n
+jan3 j a3 n
+jan4 j a4 n
+jan5 j a5 n
+jan6 j a6 n
+jap1 j a1 p
+jap2 j a2 p
+jap3 j a3 p
+jap4 j a4 p
+jap5 j a5 p
+jap6 j a6 p
+jat1 j a1 t
+jat2 j a2 t
+jat3 j a3 t
+jat4 j a4 t
+jat5 j a5 t
+jat6 j a6 t
+jau1 j a1 u:
+jau2 j a2 u:
+jau3 j a3 u:
+jau4 j a4 u:
+jau5 j a5 u:
+jau6 j a6 u:
+je1 j E:1
+je2 j E:2
+je3 j E:3
+je4 j E:4
+je5 j E:5
+je6 j E:6
+jeng1 j E:1 N
+jeng2 j E:2 N
+jeng3 j E:3 N
+jeng4 j E:4 N
+jeng5 j E:5 N
+jeng6 j E:6 N
+jeoi1 j eo1 i:
+jeoi2 j eo2 i:
+jeoi3 j eo3 i:
+jeoi4 j eo4 i:
+jeoi5 j eo5 i:
+jeoi6 j eo6 i:
+jeon1 j eo1 n
+jeon2 j eo2 n
+jeon3 j eo3 n
+jeon4 j eo4 n
+jeon5 j eo5 n
+jeon6 j eo6 n
+ji1 j i:1
+ji2 j i:2
+ji3 j i:3
+ji4 j i:4
+ji5 j i:5
+ji6 j i:6
+jik1 j I1 k
+jik2 j I2 k
+jik3 j I3 k
+jik4 j I4 k
+jik5 j I5 k
+jik6 j I6 k
+jim1 j i:1 m
+jim2 j i:2 m
+jim3 j i:3 m
+jim4 j i:4 m
+jim5 j i:5 m
+jim6 j i:6 m
+jin1 j i:1 n
+jin2 j i:2 n
+jin3 j i:3 n
+jin4 j i:4 n
+jin5 j i:5 n
+jin6 j i:6 n
+jing1 j I1 N
+jing2 j I2 N
+jing3 j I3 N
+jing4 j I4 N
+jing5 j I5 N
+jing6 j I6 N
+jip1 j i:1 p
+jip2 j i:2 p
+jip3 j i:3 p
+jip4 j i:4 p
+jip5 j i:5 p
+jip6 j i:6 p
+jit1 j i:1 t
+jit2 j i:2 t
+jit3 j i:3 t
+jit4 j i:4 t
+jit5 j i:5 t
+jit6 j i:6 t
+jiu1 j i:1 u:
+jiu2 j i:2 u:
+jiu3 j i:3 u:
+jiu4 j i:4 u:
+jiu5 j i:5 u:
+jiu6 j i:6 u:
+joe1 j oe1
+joe2 j oe2
+joe3 j oe3
+joe4 j oe4
+joe5 j oe5
+joe6 j oe6
+joek1 j oe1 k
+joek2 j oe2 k
+joek3 j oe3 k
+joek4 j oe4 k
+joek5 j oe5 k
+joek6 j oe6 k
+joen1 j oe1 n
+joen2 j oe2 n
+joen3 j oe3 n
+joen4 j oe4 n
+joen5 j oe5 n
+joen6 j oe6 n
+joeng1 j oe1 N
+joeng2 j oe2 N
+joeng3 j oe3 N
+joeng4 j oe4 N
+joeng5 j oe5 N
+joeng6 j oe6 N
+juk1 j U1 k
+juk2 j U2 k
+juk3 j U3 k
+juk4 j U4 k
+juk5 j U5 k
+juk6 j U6 k
+jung1 j U1 N
+jung2 j U2 N
+jung3 j U3 N
+jung4 j U4 N
+jung5 j U5 N
+jung6 j U6 N
+jyu1 j y:1
+jyu2 j y:2
+jyu3 j y:3
+jyu4 j y:4
+jyu5 j y:5
+jyu6 j y:6
+jyun1 j y:1 n
+jyun2 j y:2 n
+jyun3 j y:3 n
+jyun4 j y:4 n
+jyun5 j y:5 n
+jyun6 j y:6 n
+jyut1 j y:1 t
+jyut2 j y:2 t
+jyut3 j y:3 t
+jyut4 j y:4 t
+jyut5 j y:5 t
+jyut6 j y:6 t
+kaa1 k_h a:1
+kaa2 k_h a:2
+kaa3 k_h a:3
+kaa4 k_h a:4
+kaa5 k_h a:5
+kaa6 k_h a:6
+kaak1 k_h a:1 k
+kaak2 k_h a:2 k
+kaak3 k_h a:3 k
+kaak4 k_h a:4 k
+kaak5 k_h a:5 k
+kaak6 k_h a:6 k
+kaan1 k_h a:1 n
+kaan2 k_h a:2 n
+kaan3 k_h a:3 n
+kaan4 k_h a:4 n
+kaan5 k_h a:5 n
+kaan6 k_h a:6 n
+kaat1 k_h a:1 t
+kaat2 k_h a:2 t
+kaat3 k_h a:3 t
+kaat4 k_h a:4 t
+kaat5 k_h a:5 t
+kaat6 k_h a:6 t
+kaau1 k_h a:1 u:
+kaau2 k_h a:2 u:
+kaau3 k_h a:3 u:
+kaau4 k_h a:4 u:
+kaau5 k_h a:5 u:
+kaau6 k_h a:6 u:
+kai1 k_h a1 i:
+kai2 k_h a2 i:
+kai3 k_h a3 i:
+kai4 k_h a4 i:
+kai5 k_h a5 i:
+kai6 k_h a6 i:
+kam1 k_h a1 m
+kam2 k_h a2 m
+kam3 k_h a3 m
+kam4 k_h a4 m
+kam5 k_h a5 m
+kam6 k_h a6 m
+kan1 k_h a1 n
+kan2 k_h a2 n
+kan3 k_h a3 n
+kan4 k_h a4 n
+kan5 k_h a5 n
+kan6 k_h a6 n
+kang1 k_h a1 N
+kang2 k_h a2 N
+kang3 k_h a3 N
+kang4 k_h a4 N
+kang5 k_h a5 N
+kang6 k_h a6 N
+kap1 k_h a1 p
+kap2 k_h a2 p
+kap3 k_h a3 p
+kap4 k_h a4 p
+kap5 k_h a5 p
+kap6 k_h a6 p
+kat1 k_h a1 t
+kat2 k_h a2 t
+kat3 k_h a3 t
+kat4 k_h a4 t
+kat5 k_h a5 t
+kat6 k_h a6 t
+kau1 k_h a1 u:
+kau2 k_h a2 u:
+kau3 k_h a3 u:
+kau4 k_h a4 u:
+kau5 k_h a5 u:
+kau6 k_h a6 u:
+ke1 k_h E:1
+ke2 k_h E:2
+ke3 k_h E:3
+ke4 k_h E:4
+ke5 k_h E:5
+ke6 k_h E:6
+kei1 k_h e1 i:
+kei2 k_h e2 i:
+kei3 k_h e3 i:
+kei4 k_h e4 i:
+kei5 k_h e5 i:
+kei6 k_h e6 i:
+kek1 k_h E:1 k
+kek2 k_h E:2 k
+kek3 k_h E:3 k
+kek4 k_h E:4 k
+kek5 k_h E:5 k
+kek6 k_h E:6 k
+keoi1 k_h eo1 i:
+keoi2 k_h eo2 i:
+keoi3 k_h eo3 i:
+keoi4 k_h eo4 i:
+keoi5 k_h eo5 i:
+keoi6 k_h eo6 i:
+kik1 k_h I1 k
+kik2 k_h I2 k
+kik3 k_h I3 k
+kik4 k_h I4 k
+kik5 k_h I5 k
+kik6 k_h I6 k
+kim1 k_h i:1 m
+kim2 k_h i:2 m
+kim3 k_h i:3 m
+kim4 k_h i:4 m
+kim5 k_h i:5 m
+kim6 k_h i:6 m
+kin1 k_h i:1 n
+kin2 k_h i:2 n
+kin3 k_h i:3 n
+kin4 k_h i:4 n
+kin5 k_h i:5 n
+kin6 k_h i:6 n
+king1 k_h I1 N
+king2 k_h I2 N
+king3 k_h I3 N
+king4 k_h I4 N
+king5 k_h I5 N
+king6 k_h I6 N
+kit1 k_h i:1 t
+kit2 k_h i:2 t
+kit3 k_h i:3 t
+kit4 k_h i:4 t
+kit5 k_h i:5 t
+kit6 k_h i:6 t
+kiu1 k_h i:1 u:
+kiu2 k_h i:2 u:
+kiu3 k_h i:3 u:
+kiu4 k_h i:4 u:
+kiu5 k_h i:5 u:
+kiu6 k_h i:6 u:
+ko1 k_h O:1
+ko2 k_h O:2
+ko3 k_h O:3
+ko4 k_h O:4
+ko5 k_h O:5
+ko6 k_h O:6
+koe1 k_h oe1
+koe2 k_h oe2
+koe3 k_h oe3
+koe4 k_h oe4
+koe5 k_h oe5
+koe6 k_h oe6
+koek1 k_h oe1 k
+koek2 k_h oe2 k
+koek3 k_h oe3 k
+koek4 k_h oe4 k
+koek5 k_h oe5 k
+koek6 k_h oe6 k
+koeng1 k_h oe1 N
+koeng2 k_h oe2 N
+koeng3 k_h oe3 N
+koeng4 k_h oe4 N
+koeng5 k_h oe5 N
+koeng6 k_h oe6 N
+koi1 k_h O:1 i:
+koi2 k_h O:2 i:
+koi3 k_h O:3 i:
+koi4 k_h O:4 i:
+koi5 k_h O:5 i:
+koi6 k_h O:6 i:
+kok1 k_h O:1 k
+kok2 k_h O:2 k
+kok3 k_h O:3 k
+kok4 k_h O:4 k
+kok5 k_h O:5 k
+kok6 k_h O:6 k
+kon1 k_h O:1 n
+kon2 k_h O:2 n
+kon3 k_h O:3 n
+kon4 k_h O:4 n
+kon5 k_h O:5 n
+kon6 k_h O:6 n
+kong1 k_h O:1 N
+kong2 k_h O:2 N
+kong3 k_h O:3 N
+kong4 k_h O:4 N
+kong5 k_h O:5 N
+kong6 k_h O:6 N
+kou1 k_h o1 u:
+kou2 k_h o2 u:
+kou3 k_h o3 u:
+kou4 k_h o4 u:
+kou5 k_h o5 u:
+kou6 k_h o6 u:
+ku1 k_h u:1
+ku2 k_h u:2
+ku3 k_h u:3
+ku4 k_h u:4
+ku5 k_h u:5
+ku6 k_h u:6
+kui1 k_h u:1 i:
+kui2 k_h u:2 i:
+kui3 k_h u:3 i:
+kui4 k_h u:4 i:
+kui5 k_h u:5 i:
+kui6 k_h u:6 i:
+gui1 k u:1 i:
+gui2 k u:2 i:
+gui3 k u:3 i:
+gui4 k u:4 i:
+gui5 k u:5 i:
+gui6 k u:6 i:
+kuk1 k_h U1 k
+kuk2 k_h U2 k
+kuk3 k_h U3 k
+kuk4 k_h U4 k
+kuk5 k_h U5 k
+kuk6 k_h U6 k
+kung1 k_h U1 N
+kung2 k_h U2 N
+kung3 k_h U3 N
+kung4 k_h U4 N
+kung5 k_h U5 N
+kung6 k_h U6 N
+kut1 k_h u:1 t
+kut2 k_h u:2 t
+kut3 k_h u:3 t
+kut4 k_h u:4 t
+kut5 k_h u:5 t
+kut6 k_h u:6 t
+kwaa1 k_h_w a:1
+kwaa2 k_h_w a:2
+kwaa3 k_h_w a:3
+kwaa4 k_h_w a:4
+kwaa5 k_h_w a:5
+kwaa6 k_h_w a:6
+kwaak1 k_h_w a:1 k
+kwaak2 k_h_w a:2 k
+kwaak3 k_h_w a:3 k
+kwaak4 k_h_w a:4 k
+kwaak5 k_h_w a:5 k
+kwaak6 k_h_w a:6 k
+kwaan1 k_h_w a:1 n
+kwaan2 k_h_w a:2 n
+kwaan3 k_h_w a:3 n
+kwaan4 k_h_w a:4 n
+kwaan5 k_h_w a:5 n
+kwaan6 k_h_w a:6 n
+kwaang1 k_h_w a:1 N
+kwaang2 k_h_w a:2 N
+kwaang3 k_h_w a:3 N
+kwaang4 k_h_w a:4 N
+kwaang5 k_h_w a:5 N
+kwaang6 k_h_w a:6 N
+kwai1 k_h_w a1 i:
+kwai2 k_h_w a2 i:
+kwai3 k_h_w a3 i:
+kwai4 k_h_w a4 i:
+kwai5 k_h_w a5 i:
+kwai6 k_h_w a6 i:
+kwan1 k_h_w a1 n
+kwan2 k_h_w a2 n
+kwan3 k_h_w a3 n
+kwan4 k_h_w a4 n
+kwan5 k_h_w a5 n
+kwan6 k_h_w a6 n
+kwik1 k_h_w I1 k
+kwik2 k_h_w I2 k
+kwik3 k_h_w I3 k
+kwik4 k_h_w I4 k
+kwik5 k_h_w I5 k
+kwik6 k_h_w I6 k
+kwok1 k_h_w O:1 k
+kwok2 k_h_w O:2 k
+kwok3 k_h_w O:3 k
+kwok4 k_h_w O:4 k
+kwok5 k_h_w O:5 k
+kwok6 k_h_w O:6 k
+kwong1 k_h_w O:1 N
+kwong2 k_h_w O:2 N
+kwong3 k_h_w O:3 N
+kwong4 k_h_w O:4 N
+kwong5 k_h_w O:5 N
+kwong6 k_h_w O:6 N
+kwui1 k_w u:1 i:
+kwui2 k_w u:2 i:
+kwui3 k_w u:3 i:
+kwui4 k_w u:4 i:
+kwui5 k_w u:5 i:
+kwui6 k_w u:6 i:
+kyun1 k_h y:1 n
+kyun2 k_h y:2 n
+kyun3 k_h y:3 n
+kyun4 k_h y:4 n
+kyun5 k_h y:5 n
+kyun6 k_h y:6 n
+kyut1 k_h y:1 t
+kyut2 k_h y:2 t
+kyut3 k_h y:3 t
+kyut4 k_h y:4 t
+kyut5 k_h y:5 t
+kyut6 k_h y:6 t
+laa1 l a:1
+laa2 l a:2
+laa3 l a:3
+laa4 l a:4
+laa5 l a:5
+laa6 l a:6
+laai1 l a:1 i:
+laai2 l a:2 i:
+laai3 l a:3 i:
+laai4 l a:4 i:
+laai5 l a:5 i:
+laai6 l a:6 i:
+laak1 l a:1 k
+laak2 l a:2 k
+laak3 l a:3 k
+laak4 l a:4 k
+laak5 l a:5 k
+laak6 l a:6 k
+laam1 l a:1 m
+laam2 l a:2 m
+laam3 l a:3 m
+laam4 l a:4 m
+laam5 l a:5 m
+laam6 l a:6 m
+laan1 l a:1 n
+laan2 l a:2 n
+laan3 l a:3 n
+laan4 l a:4 n
+laan5 l a:5 n
+laan6 l a:6 n
+laang1 l a:1 N
+laang2 l a:2 N
+laang3 l a:3 N
+laang4 l a:4 N
+laang5 l a:5 N
+laang6 l a:6 N
+laap1 l a:1 p
+laap2 l a:2 p
+laap3 l a:3 p
+laap4 l a:4 p
+laap5 l a:5 p
+laap6 l a:6 p
+laat1 l a:1 t
+laat2 l a:2 t
+laat3 l a:3 t
+laat4 l a:4 t
+laat5 l a:5 t
+laat6 l a:6 t
+laau1 l a:1 u:
+laau2 l a:2 u:
+laau3 l a:3 u:
+laau4 l a:4 u:
+laau5 l a:5 u:
+laau6 l a:6 u:
+lai1 l a1 i:
+lai2 l a2 i:
+lai3 l a3 i:
+lai4 l a4 i:
+lai5 l a5 i:
+lai6 l a6 i:
+lak1 l a1 k
+lak2 l a2 k
+lak3 l a3 k
+lak4 l a4 k
+lak5 l a5 k
+lak6 l a6 k
+lam1 l a1 m
+lam2 l a2 m
+lam3 l a3 m
+lam4 l a4 m
+lam5 l a5 m
+lam6 l a6 m
+lan1 l a1 n
+lan2 l a2 n
+lan3 l a3 n
+lan4 l a4 n
+lan5 l a5 n
+lan6 l a6 n
+lang1 l a1 N
+lang2 l a2 N
+lang3 l a3 N
+lang4 l a4 N
+lang5 l a5 N
+lang6 l a6 N
+lap1 l a1 p
+lap2 l a2 p
+lap3 l a3 p
+lap4 l a4 p
+lap5 l a5 p
+lap6 l a6 p
+lat1 l a1 t
+lat2 l a2 t
+lat3 l a3 t
+lat4 l a4 t
+lat5 l a5 t
+lat6 l a6 t
+lau1 l a1 u:
+lau2 l a2 u:
+lau3 l a3 u:
+lau4 l a4 u:
+lau5 l a5 u:
+lau6 l a6 u:
+le1 l E:1
+le2 l E:2
+le3 l E:3
+le4 l E:4
+le5 l E:5
+le6 l E:6
+lei1 l e1 i:
+lei2 l e2 i:
+lei3 l e3 i:
+lei4 l e4 i:
+lei5 l e5 i:
+lei6 l e6 i:
+lek1 l E:1 k
+lek2 l E:2 k
+lek3 l E:3 k
+lek4 l E:4 k
+lek5 l E:5 k
+lek6 l E:6 k
+lem1 l E:1 m
+lem2 l E:2 m
+lem3 l E:3 m
+lem4 l E:4 m
+lem5 l E:5 m
+lem6 l E:6 m
+len1 l E:1 n
+len2 l E:2 n
+len3 l E:3 n
+len4 l E:4 n
+len5 l E:5 n
+len6 l E:6 n
+leng1 l E:1 N
+leng2 l E:2 N
+leng3 l E:3 N
+leng4 l E:4 N
+leng5 l E:5 N
+leng6 l E:6 N
+leoi1 l eo1 i:
+leoi2 l eo2 i:
+leoi3 l eo3 i:
+leoi4 l eo4 i:
+leoi5 l eo5 i:
+leoi6 l eo6 i:
+leon1 l eo1 n
+leon2 l eo2 n
+leon3 l eo3 n
+leon4 l eo4 n
+leon5 l eo5 n
+leon6 l eo6 n
+leot1 l eo1 t
+leot2 l eo2 t
+leot3 l eo3 t
+leot4 l eo4 t
+leot5 l eo5 t
+leot6 l eo6 t
+li1 l i:1
+li2 l i:2
+li3 l i:3
+li4 l i:4
+li5 l i:5
+li6 l i:6
+lik1 l I1 k
+lik2 l I2 k
+lik3 l I3 k
+lik4 l I4 k
+lik5 l I5 k
+lik6 l I6 k
+lim1 l i:1 m
+lim2 l i:2 m
+lim3 l i:3 m
+lim4 l i:4 m
+lim5 l i:5 m
+lim6 l i:6 m
+lin1 l i:1 n
+lin2 l i:2 n
+lin3 l i:3 n
+lin4 l i:4 n
+lin5 l i:5 n
+lin6 l i:6 n
+ling1 l I1 N
+ling2 l I2 N
+ling3 l I3 N
+ling4 l I4 N
+ling5 l I5 N
+ling6 l I6 N
+lip1 l i:1 p
+lip2 l i:2 p
+lip3 l i:3 p
+lip4 l i:4 p
+lip5 l i:5 p
+lip6 l i:6 p
+lit1 l i:1 t
+lit2 l i:2 t
+lit3 l i:3 t
+lit4 l i:4 t
+lit5 l i:5 t
+lit6 l i:6 t
+liu1 l i:1 u:
+liu2 l i:2 u:
+liu3 l i:3 u:
+liu4 l i:4 u:
+liu5 l i:5 u:
+liu6 l i:6 u:
+lo1 l O:1
+lo2 l O:2
+lo3 l O:3
+lo4 l O:4
+lo5 l O:5
+lo6 l O:6
+loe1 l oe1
+loe2 l oe2
+loe3 l oe3
+loe4 l oe4
+loe5 l oe5
+loe6 l oe6
+loek1 l oe1 k
+loek2 l oe2 k
+loek3 l oe3 k
+loek4 l oe4 k
+loek5 l oe5 k
+loek6 l oe6 k
+loeng1 l oe1 N
+loeng2 l oe2 N
+loeng3 l oe3 N
+loeng4 l oe4 N
+loeng5 l oe5 N
+loeng6 l oe6 N
+loi1 l O:1 i:
+loi2 l O:2 i:
+loi3 l O:3 i:
+loi4 l O:4 i:
+loi5 l O:5 i:
+loi6 l O:6 i:
+lok1 l O:1 k
+lok2 l O:2 k
+lok3 l O:3 k
+lok4 l O:4 k
+lok5 l O:5 k
+lok6 l O:6 k
+lon1 l O:1 n
+lon2 l O:2 n
+lon3 l O:3 n
+lon4 l O:4 n
+lon5 l O:5 n
+lon6 l O:6 n
+long1 l O:1 N
+long2 l O:2 N
+long3 l O:3 N
+long4 l O:4 N
+long5 l O:5 N
+long6 l O:6 N
+lou1 l o1 u:
+lou2 l o2 u:
+lou3 l o3 u:
+lou4 l o4 u:
+lou5 l o5 u:
+lou6 l o6 u:
+lu1 l u:1
+lu2 l u:2
+lu3 l u:3
+lu4 l u:4
+lu5 l u:5
+lu6 l u:6
+luk1 l U1 k
+luk2 l U2 k
+luk3 l U3 k
+luk4 l U4 k
+luk5 l U5 k
+luk6 l U6 k
+lung1 l U1 N
+lung2 l U2 N
+lung3 l U3 N
+lung4 l U4 N
+lung5 l U5 N
+lung6 l U6 N
+lyun1 l y:1 n
+lyun2 l y:2 n
+lyun3 l y:3 n
+lyun4 l y:4 n
+lyun5 l y:5 n
+lyun6 l y:6 n
+lyut1 l y:1 t
+lyut2 l y:2 t
+lyut3 l y:3 t
+lyut4 l y:4 t
+lyut5 l y:5 t
+lyut6 l y:6 t
+m1 m1
+m2 m2
+m3 m3
+m4 m4
+m5 m5
+m6 m6
+maa1 m a:1
+maa2 m a:2
+maa3 m a:3
+maa4 m a:4
+maa5 m a:5
+maa6 m a:6
+maai1 m a:1 i:
+maai2 m a:2 i:
+maai3 m a:3 i:
+maai4 m a:4 i:
+maai5 m a:5 i:
+maai6 m a:6 i:
+maak1 m a:1 k
+maak2 m a:2 k
+maak3 m a:3 k
+maak4 m a:4 k
+maak5 m a:5 k
+maak6 m a:6 k
+maan1 m a:1 n
+maan2 m a:2 n
+maan3 m a:3 n
+maan4 m a:4 n
+maan5 m a:5 n
+maan6 m a:6 n
+maang1 m a:1 N
+maang2 m a:2 N
+maang3 m a:3 N
+maang4 m a:4 N
+maang5 m a:5 N
+maang6 m a:6 N
+maat1 m a:1 t
+maat2 m a:2 t
+maat3 m a:3 t
+maat4 m a:4 t
+maat5 m a:5 t
+maat6 m a:6 t
+maau1 m a:1 u:
+maau2 m a:2 u:
+maau3 m a:3 u:
+maau4 m a:4 u:
+maau5 m a:5 u:
+maau6 m a:6 u:
+mai1 m a1 i:
+mai2 m a2 i:
+mai3 m a3 i:
+mai4 m a4 i:
+mai5 m a5 i:
+mai6 m a6 i:
+mak1 m a1 k
+mak2 m a2 k
+mak3 m a3 k
+mak4 m a4 k
+mak5 m a5 k
+mak6 m a6 k
+man1 m a1 n
+man2 m a2 n
+man3 m a3 n
+man4 m a4 n
+man5 m a5 n
+man6 m a6 n
+mang1 m a1 N
+mang2 m a2 N
+mang3 m a3 N
+mang4 m a4 N
+mang5 m a5 N
+mang6 m a6 N
+mat1 m a1 t
+mat2 m a2 t
+mat3 m a3 t
+mat4 m a4 t
+mat5 m a5 t
+mat6 m a6 t
+mau1 m a1 u:
+mau2 m a2 u:
+mau3 m a3 u:
+mau4 m a4 u:
+mau5 m a5 u:
+mau6 m a6 u:
+me1 m E:1
+me2 m E:2
+me3 m E:3
+me4 m E:4
+me5 m E:5
+me6 m E:6
+mei1 m e1 i:
+mei2 m e2 i:
+mei3 m e3 i:
+mei4 m e4 i:
+mei5 m e5 i:
+mei6 m e6 i:
+men1 m E:1 n
+men2 m E:2 n
+men3 m E:3 n
+men4 m E:4 n
+men5 m E:5 n
+men6 m E:6 n
+meng1 m E:1 N
+meng2 m E:2 N
+meng3 m E:3 N
+meng4 m E:4 N
+meng5 m E:5 N
+meng6 m E:6 N
+mi1 m i:1
+mi2 m i:2
+mi3 m i:3
+mi4 m i:4
+mi5 m i:5
+mi6 m i:6
+mik1 m I1 k
+mik2 m I2 k
+mik3 m I3 k
+mik4 m I4 k
+mik5 m I5 k
+mik6 m I6 k
+min1 m i:1 n
+min2 m i:2 n
+min3 m i:3 n
+min4 m i:4 n
+min5 m i:5 n
+min6 m i:6 n
+ming1 m I1 N
+ming2 m I2 N
+ming3 m I3 N
+ming4 m I4 N
+ming5 m I5 N
+ming6 m I6 N
+mit1 m i:1 t
+mit2 m i:2 t
+mit3 m i:3 t
+mit4 m i:4 t
+mit5 m i:5 t
+mit6 m i:6 t
+miu1 m i:1 u:
+miu2 m i:2 u:
+miu3 m i:3 u:
+miu4 m i:4 u:
+miu5 m i:5 u:
+miu6 m i:6 u:
+mo1 m O:1
+mo2 m O:2
+mo3 m O:3
+mo4 m O:4
+mo5 m O:5
+mo6 m O:6
+mok1 m O:1 k
+mok2 m O:2 k
+mok3 m O:3 k
+mok4 m O:4 k
+mok5 m O:5 k
+mok6 m O:6 k
+mon1 m O:1 n
+mon2 m O:2 n
+mon3 m O:3 n
+mon4 m O:4 n
+mon5 m O:5 n
+mon6 m O:6 n
+mong1 m O:1 N
+mong2 m O:2 N
+mong3 m O:3 N
+mong4 m O:4 N
+mong5 m O:5 N
+mong6 m O:6 N
+mou1 m o1 u:
+mou2 m o2 u:
+mou3 m o3 u:
+mou4 m o4 u:
+mou5 m o5 u:
+mou6 m o6 u:
+mu1 m u:1
+mu2 m u:2
+mu3 m u:3
+mu4 m u:4
+mu5 m u:5
+mu6 m u:6
+mui1 m u:1 i:
+mui2 m u:2 i:
+mui3 m u:3 i:
+mui4 m u:4 i:
+mui5 m u:5 i:
+mui6 m u:6 i:
+muk1 m U1 k
+muk2 m U2 k
+muk3 m U3 k
+muk4 m U4 k
+muk5 m U5 k
+muk6 m U6 k
+mun1 m u:1 n
+mun2 m u:2 n
+mun3 m u:3 n
+mun4 m u:4 n
+mun5 m u:5 n
+mun6 m u:6 n
+mung1 m U1 N
+mung2 m U2 N
+mung3 m U3 N
+mung4 m U4 N
+mung5 m U5 N
+mung6 m U6 N
+mut1 m u:1 t
+mut2 m u:2 t
+mut3 m u:3 t
+mut4 m u:4 t
+mut5 m u:5 t
+mut6 m u:6 t
+naa1 n a:1
+naa2 n a:2
+naa3 n a:3
+naa4 n a:4
+naa5 n a:5
+naa6 n a:6
+naai1 n a:1 i:
+naai2 n a:2 i:
+naai3 n a:3 i:
+naai4 n a:4 i:
+naai5 n a:5 i:
+naai6 n a:6 i:
+naak1 n a:1 k
+naak2 n a:2 k
+naak3 n a:3 k
+naak4 n a:4 k
+naak5 n a:5 k
+naak6 n a:6 k
+naam1 n a:1 m
+naam2 n a:2 m
+naam3 n a:3 m
+naam4 n a:4 m
+naam5 n a:5 m
+naam6 n a:6 m
+naan1 n a:1 n
+naan2 n a:2 n
+naan3 n a:3 n
+naan4 n a:4 n
+naan5 n a:5 n
+naan6 n a:6 n
+naap1 n a:1 p
+naap2 n a:2 p
+naap3 n a:3 p
+naap4 n a:4 p
+naap5 n a:5 p
+naap6 n a:6 p
+naat1 n a:1 t
+naat2 n a:2 t
+naat3 n a:3 t
+naat4 n a:4 t
+naat5 n a:5 t
+naat6 n a:6 t
+naau1 n a:1 u:
+naau2 n a:2 u:
+naau3 n a:3 u:
+naau4 n a:4 u:
+naau5 n a:5 u:
+naau6 n a:6 u:
+nai1 n a1 i:
+nai2 n a2 i:
+nai3 n a3 i:
+nai4 n a4 i:
+nai5 n a5 i:
+nai6 n a6 i:
+nam1 n a1 m
+nam2 n a2 m
+nam3 n a3 m
+nam4 n a4 m
+nam5 n a5 m
+nam6 n a6 m
+nan1 n a1 n
+nan2 n a2 n
+nan3 n a3 n
+nan4 n a4 n
+nan5 n a5 n
+nan6 n a6 n
+nang1 n a1 N
+nang2 n a2 N
+nang3 n a3 N
+nang4 n a4 N
+nang5 n a5 N
+nang6 n a6 N
+nap1 n a1 p
+nap2 n a2 p
+nap3 n a3 p
+nap4 n a4 p
+nap5 n a5 p
+nap6 n a6 p
+nau1 n a1 u:
+nau2 n a2 u:
+nau3 n a3 u:
+nau4 n a4 u:
+nau5 n a5 u:
+nau6 n a6 u:
+ne1 n E:1
+ne2 n E:2
+ne3 n E:3
+ne4 n E:4
+ne5 n E:5
+ne6 n E:6
+nei1 n e1 i:
+nei2 n e2 i:
+nei3 n e3 i:
+nei4 n e4 i:
+nei5 n e5 i:
+nei6 n e6 i:
+neng1 n e1 N
+neng2 n e2 N
+neng3 n e3 N
+neng4 n e4 N
+neng5 n e5 N
+neng6 n e6 N
+neoi1 n eo1 i:
+neoi2 n eo2 i:
+neoi3 n eo3 i:
+neoi4 n eo4 i:
+neoi5 n eo5 i:
+neoi6 n eo6 i:
+neon1 n eo1 n
+neon2 n eo2 n
+neon3 n eo3 n
+neon4 n eo4 n
+neon5 n eo5 n
+neon6 n eo6 n
+ng1 N1
+ng2 N2
+ng3 N3
+ng4 N4
+ng5 N5
+ng6 N6
+ngaa1 N a:1
+ngaa2 N a:2
+ngaa3 N a:3
+ngaa4 N a:4
+ngaa5 N a:5
+ngaa6 N a:6
+ngaai1 N a:1 i:
+ngaai2 N a:2 i:
+ngaai3 N a:3 i:
+ngaai4 N a:4 i:
+ngaai5 N a:5 i:
+ngaai6 N a:6 i:
+ngaak1 N a:1 k
+ngaak2 N a:2 k
+ngaak3 N a:3 k
+ngaak4 N a:4 k
+ngaak5 N a:5 k
+ngaak6 N a:6 k
+ngaam1 N a:1 m
+ngaam2 N a:2 m
+ngaam3 N a:3 m
+ngaam4 N a:4 m
+ngaam5 N a:5 m
+ngaam6 N a:6 m
+ngaan1 N a:1 n
+ngaan2 N a:2 n
+ngaan3 N a:3 n
+ngaan4 N a:4 n
+ngaan5 N a:5 n
+ngaan6 N a:6 n
+ngaang1 N a:1 N
+ngaang2 N a:2 N
+ngaang3 N a:3 N
+ngaang4 N a:4 N
+ngaang5 N a:5 N
+ngaang6 N a:6 N
+ngaap1 N a:1 p
+ngaap2 N a:2 p
+ngaap3 N a:3 p
+ngaap4 N a:4 p
+ngaap5 N a:5 p
+ngaap6 N a:6 p
+ngaat1 N a:1 t
+ngaat2 N a:2 t
+ngaat3 N a:3 t
+ngaat4 N a:4 t
+ngaat5 N a:5 t
+ngaat6 N a:6 t
+ngaau1 N a:1 u:
+ngaau2 N a:2 u:
+ngaau3 N a:3 u:
+ngaau4 N a:4 u:
+ngaau5 N a:5 u:
+ngaau6 N a:6 u:
+ngai1 N a1 i:
+ngai2 N a2 i:
+ngai3 N a3 i:
+ngai4 N a4 i:
+ngai5 N a5 i:
+ngai6 N a6 i:
+ngak1 N a1 k
+ngak2 N a2 k
+ngak3 N a3 k
+ngak4 N a4 k
+ngak5 N a5 k
+ngak6 N a6 k
+ngam1 N a1 m
+ngam2 N a2 m
+ngam3 N a3 m
+ngam4 N a4 m
+ngam5 N a5 m
+ngam6 N a6 m
+ngan1 N a1 n
+ngan2 N a2 n
+ngan3 N a3 n
+ngan4 N a4 n
+ngan5 N a5 n
+ngan6 N a6 n
+ngang1 N a1 N
+ngang2 N a2 N
+ngang3 N a3 N
+ngang4 N a4 N
+ngang5 N a5 N
+ngang6 N a6 N
+ngat1 N a1 t
+ngat2 N a2 t
+ngat3 N a3 t
+ngat4 N a4 t
+ngat5 N a5 t
+ngat6 N a6 t
+ngau1 N a1 u:
+ngau2 N a2 u:
+ngau3 N a3 u:
+ngau4 N a4 u:
+ngau5 N a5 u:
+ngau6 N a6 u:
+ngo1 N O:1
+ngo2 N O:2
+ngo3 N O:3
+ngo4 N O:4
+ngo5 N O:5
+ngo6 N O:6
+ngoi1 N O:1 i:
+ngoi2 N O:2 i:
+ngoi3 N O:3 i:
+ngoi4 N O:4 i:
+ngoi5 N O:5 i:
+ngoi6 N O:6 i:
+ngok1 N O:1 k
+ngok2 N O:2 k
+ngok3 N O:3 k
+ngok4 N O:4 k
+ngok5 N O:5 k
+ngok6 N O:6 k
+ngon1 N O:1 n
+ngon2 N O:2 n
+ngon3 N O:3 n
+ngon4 N O:4 n
+ngon5 N O:5 n
+ngon6 N O:6 n
+ngong1 N O:1 N
+ngong2 N O:2 N
+ngong3 N O:3 N
+ngong4 N O:4 N
+ngong5 N O:5 N
+ngong6 N O:6 N
+ngou1 N o1 u:
+ngou2 N o2 u:
+ngou3 N o3 u:
+ngou4 N o4 u:
+ngou5 N o5 u:
+ngou6 N o6 u:
+nguk1 N U1 k
+nguk2 N U2 k
+nguk3 N U3 k
+nguk4 N U4 k
+nguk5 N U5 k
+nguk6 N U6 k
+ni1 n i:1
+ni2 n i:2
+ni3 n i:3
+ni4 n i:4
+ni5 n i:5
+ni6 n i:6
+nik1 n I1 k
+nik2 n I2 k
+nik3 n I3 k
+nik4 n I4 k
+nik5 n I5 k
+nik6 n I6 k
+nim1 n i:1 m
+nim2 n i:2 m
+nim3 n i:3 m
+nim4 n i:4 m
+nim5 n i:5 m
+nim6 n i:6 m
+nin1 n i:1 n
+nin2 n i:2 n
+nin3 n i:3 n
+nin4 n i:4 n
+nin5 n i:5 n
+nin6 n i:6 n
+ning1 n I1 N
+ning2 n I2 N
+ning3 n I3 N
+ning4 n I4 N
+ning5 n I5 N
+ning6 n I6 N
+nip1 n i:1 p
+nip2 n i:2 p
+nip3 n i:3 p
+nip4 n i:4 p
+nip5 n i:5 p
+nip6 n i:6 p
+nit1 n i:1 t
+nit2 n i:2 t
+nit3 n i:3 t
+nit4 n i:4 t
+nit5 n i:5 t
+nit6 n i:6 t
+niu1 n i:1 u:
+niu2 n i:2 u:
+niu3 n i:3 u:
+niu4 n i:4 u:
+niu5 n i:5 u:
+niu6 n i:6 u:
+no1 n O:1
+no2 n O:2
+no3 n O:3
+no4 n O:4
+no5 n O:5
+no6 n O:6
+noe1 n oe1
+noe2 n oe2
+noe3 n oe3
+noe4 n oe4
+noe5 n oe5
+noe6 n oe6
+noek1 n oe1 k
+noek2 n oe2 k
+noek3 n oe3 k
+noek4 n oe4 k
+noek5 n oe5 k
+noek6 n oe6 k
+noeng1 n oe1 N
+noeng2 n oe2 N
+noeng3 n oe3 N
+noeng4 n oe4 N
+noeng5 n oe5 N
+noeng6 n oe6 N
+noi1 n O:1 i:
+noi2 n O:2 i:
+noi3 n O:3 i:
+noi4 n O:4 i:
+noi5 n O:5 i:
+noi6 n O:6 i:
+nok1 n O:1 k
+nok2 n O:2 k
+nok3 n O:3 k
+nok4 n O:4 k
+nok5 n O:5 k
+nok6 n O:6 k
+nong1 n O:1 N
+nong2 n O:2 N
+nong3 n O:3 N
+nong4 n O:4 N
+nong5 n O:5 N
+nong6 n O:6 N
+nou1 n o1 u:
+nou2 n o2 u:
+nou3 n o3 u:
+nou4 n o4 u:
+nou5 n o5 u:
+nou6 n o6 u:
+nuk1 n U1 k
+nuk2 n U2 k
+nuk3 n U3 k
+nuk4 n U4 k
+nuk5 n U5 k
+nuk6 n U6 k
+nung1 n U1 N
+nung2 n U2 N
+nung3 n U3 N
+nung4 n U4 N
+nung5 n U5 N
+nung6 n U6 N
+nyun1 n y:1 n
+nyun2 n y:2 n
+nyun3 n y:3 n
+nyun4 n y:4 n
+nyun5 n y:5 n
+nyun6 n y:6 n
+nyut1 n y:1 t
+nyut2 n y:2 t
+nyut3 n y:3 t
+nyut4 n y:4 t
+nyut5 n y:5 t
+nyut6 n y:6 t
+o1 O:1
+o2 O:2
+o3 O:3
+o4 O:4
+o5 O:5
+o6 O:6
+oi1 O:1 i:
+oi2 O:2 i:
+oi3 O:3 i:
+oi4 O:4 i:
+oi5 O:5 i:
+oi6 O:6 i:
+ok1 O:1 k
+ok2 O:2 k
+ok3 O:3 k
+ok4 O:4 k
+ok5 O:5 k
+ok6 O:6 k
+on1 O:1 n
+on2 O:2 n
+on3 O:3 n
+on4 O:4 n
+on5 O:5 n
+on6 O:6 n
+ong1 O:1 N
+ong2 O:2 N
+ong3 O:3 N
+ong4 O:4 N
+ong5 O:5 N
+ong6 O:6 N
+ou1 o1 u:
+ou2 o2 u:
+ou3 o3 u:
+ou4 o4 u:
+ou5 o5 u:
+ou6 o6 u:
+paa1 p_h a:1
+paa2 p_h a:2
+paa3 p_h a:3
+paa4 p_h a:4
+paa5 p_h a:5
+paa6 p_h a:6
+paai1 p_h a:1 i:
+paai2 p_h a:2 i:
+paai3 p_h a:3 i:
+paai4 p_h a:4 i:
+paai5 p_h a:5 i:
+paai6 p_h a:6 i:
+paak1 p_h a:1 k
+paak2 p_h a:2 k
+paak3 p_h a:3 k
+paak4 p_h a:4 k
+paak5 p_h a:5 k
+paak6 p_h a:6 k
+paan1 p_h a:1 n
+paan2 p_h a:2 n
+paan3 p_h a:3 n
+paan4 p_h a:4 n
+paan5 p_h a:5 n
+paan6 p_h a:6 n
+paang1 p_h a:1 N
+paang2 p_h a:2 N
+paang3 p_h a:3 N
+paang4 p_h a:4 N
+paang5 p_h a:5 N
+paang6 p_h a:6 N
+paat1 p_h a:1 t
+paat2 p_h a:2 t
+paat3 p_h a:3 t
+paat4 p_h a:4 t
+paat5 p_h a:5 t
+paat6 p_h a:6 t
+paau1 p_h a:1 u:
+paau2 p_h a:2 u:
+paau3 p_h a:3 u:
+paau4 p_h a:4 u:
+paau5 p_h a:5 u:
+paau6 p_h a:6 u:
+pai1 p_h a1 i:
+pai2 p_h a2 i:
+pai3 p_h a3 i:
+pai4 p_h a4 i:
+pai5 p_h a5 i:
+pai6 p_h a6 i:
+pan1 p_h a1 n
+pan2 p_h a2 n
+pan3 p_h a3 n
+pan4 p_h a4 n
+pan5 p_h a5 n
+pan6 p_h a6 n
+pang1 p_h a1 N
+pang2 p_h a2 N
+pang3 p_h a3 N
+pang4 p_h a4 N
+pang5 p_h a5 N
+pang6 p_h a6 N
+pat1 p_h a1 t
+pat2 p_h a2 t
+pat3 p_h a3 t
+pat4 p_h a4 t
+pat5 p_h a5 t
+pat6 p_h a6 t
+pau1 p_h a1 u:
+pau2 p_h a2 u:
+pau3 p_h a3 u:
+pau4 p_h a4 u:
+pau5 p_h a5 u:
+pau6 p_h a6 u:
+pe1 p_h E:1
+pe2 p_h E:2
+pe3 p_h E:3
+pe4 p_h E:4
+pe5 p_h E:5
+pe6 p_h E:6
+pei1 p_h e1 i:
+pei2 p_h e2 i:
+pei3 p_h e3 i:
+pei4 p_h e4 i:
+pei5 p_h e5 i:
+pei6 p_h e6 i:
+pek1 p_h E:1 k
+pek2 p_h E:2 k
+pek3 p_h E:3 k
+pek4 p_h E:4 k
+pek5 p_h E:5 k
+pek6 p_h E:6 k
+pen1 p_h E:1 n
+pen2 p_h E:2 n
+pen3 p_h E:3 n
+pen4 p_h E:4 n
+pen5 p_h E:5 n
+pen6 p_h E:6 n
+peng1 p_h E:1 N
+peng2 p_h E:2 N
+peng3 p_h E:3 N
+peng4 p_h E:4 N
+peng5 p_h E:5 N
+peng6 p_h E:6 N
+pi1 p_h I1
+pik1 p_h I1 k
+pik2 p_h I2 k
+pik3 p_h I3 k
+pik4 p_h I4 k
+pik5 p_h I5 k
+pik6 p_h I6 k
+pin1 p_h i:1 n
+pin2 p_h i:2 n
+pin3 p_h i:3 n
+pin4 p_h i:4 n
+pin5 p_h i:5 n
+pin6 p_h i:6 n
+ping1 p_h I1 N
+ping2 p_h I2 N
+ping3 p_h I3 N
+ping4 p_h I4 N
+ping5 p_h I5 N
+ping6 p_h I6 N
+pit1 p_h i:1 t
+pit2 p_h i:2 t
+pit3 p_h i:3 t
+pit4 p_h i:4 t
+pit5 p_h i:5 t
+pit6 p_h i:6 t
+piu1 p_h i:1 u:
+piu2 p_h i:2 u:
+piu3 p_h i:3 u:
+piu4 p_h i:4 u:
+piu5 p_h i:5 u:
+piu6 p_h i:6 u:
+po1 p_h O:1
+po2 p_h O:2
+po3 p_h O:3
+po4 p_h O:4
+po5 p_h O:5
+po6 p_h O:6
+pok1 p_h O:1 k
+pok2 p_h O:2 k
+pok3 p_h O:3 k
+pok4 p_h O:4 k
+pok5 p_h O:5 k
+pok6 p_h O:6 k
+pon1 p_h O:1 n
+pon2 p_h O:2 n
+pon3 p_h O:3 n
+pon4 p_h O:4 n
+pon5 p_h O:5 n
+pon6 p_h O:6 n
+pong1 p_h O:1 N
+pong2 p_h O:2 N
+pong3 p_h O:3 N
+pong4 p_h O:4 N
+pong5 p_h O:5 N
+pong6 p_h O:6 N
+pou1 p_h o1 u:
+pou2 p_h o2 u:
+pou3 p_h o3 u:
+pou4 p_h o4 u:
+pou5 p_h o5 u:
+pou6 p_h o6 u:
+pui1 p_h u:1 i:
+pui2 p_h u:2 i:
+pui3 p_h u:3 i:
+pui4 p_h u:4 i:
+pui5 p_h u:5 i:
+pui6 p_h u:6 i:
+puk1 p_h U1 k
+puk2 p_h U2 k
+puk3 p_h U3 k
+puk4 p_h U4 k
+puk5 p_h U5 k
+puk6 p_h U6 k
+pun1 p_h u:1 n
+pun2 p_h u:2 n
+pun3 p_h u:3 n
+pun4 p_h u:4 n
+pun5 p_h u:5 n
+pun6 p_h u:6 n
+pung1 p_h U1 N
+pung2 p_h U2 N
+pung3 p_h U3 N
+pung4 p_h U4 N
+pung5 p_h U5 N
+pung6 p_h U6 N
+put1 p_h u:1 t
+put2 p_h u:2 t
+put3 p_h u:3 t
+put4 p_h u:4 t
+put5 p_h u:5 t
+put6 p_h u:6 t
+saa1 s a:1
+saa2 s a:2
+saa3 s a:3
+saa4 s a:4
+saa5 s a:5
+saa6 s a:6
+saai1 s a:1 i:
+saai2 s a:2 i:
+saai3 s a:3 i:
+saai4 s a:4 i:
+saai5 s a:5 i:
+saai6 s a:6 i:
+saak1 s a:1 k
+saak2 s a:2 k
+saak3 s a:3 k
+saak4 s a:4 k
+saak5 s a:5 k
+saak6 s a:6 k
+saam1 s a:1 m
+saam2 s a:2 m
+saam3 s a:3 m
+saam4 s a:4 m
+saam5 s a:5 m
+saam6 s a:6 m
+saan1 s a:1 n
+saan2 s a:2 n
+saan3 s a:3 n
+saan4 s a:4 n
+saan5 s a:5 n
+saan6 s a:6 n
+saang1 s a:1 N
+saang2 s a:2 N
+saang3 s a:3 N
+saang4 s a:4 N
+saang5 s a:5 N
+saang6 s a:6 N
+saap1 s a:1 p
+saap2 s a:2 p
+saap3 s a:3 p
+saap4 s a:4 p
+saap5 s a:5 p
+saap6 s a:6 p
+saat1 s a:1 t
+saat2 s a:2 t
+saat3 s a:3 t
+saat4 s a:4 t
+saat5 s a:5 t
+saat6 s a:6 t
+saau1 s a:1 u:
+saau2 s a:2 u:
+saau3 s a:3 u:
+saau4 s a:4 u:
+saau5 s a:5 u:
+saau6 s a:6 u:
+sai1 s a1 i:
+sai2 s a2 i:
+sai3 s a3 i:
+sai4 s a4 i:
+sai5 s a5 i:
+sai6 s a6 i:
+sak1 s a1 k
+sak2 s a2 k
+sak3 s a3 k
+sak4 s a4 k
+sak5 s a5 k
+sak6 s a6 k
+sam1 s a1 m
+sam2 s a2 m
+sam3 s a3 m
+sam4 s a4 m
+sam5 s a5 m
+sam6 s a6 m
+san1 s a1 n
+san2 s a2 n
+san3 s a3 n
+san4 s a4 n
+san5 s a5 n
+san6 s a6 n
+sang1 s a1 N
+sang2 s a2 N
+sang3 s a3 N
+sang4 s a4 N
+sang5 s a5 N
+sang6 s a6 N
+sap1 s a1 p
+sap2 s a2 p
+sap3 s a3 p
+sap4 s a4 p
+sap5 s a5 p
+sap6 s a6 p
+sat1 s a1 t
+sat2 s a2 t
+sat3 s a3 t
+sat4 s a4 t
+sat5 s a5 t
+sat6 s a6 t
+sau1 s a1 u:
+sau2 s a2 u:
+sau3 s a3 u:
+sau4 s a4 u:
+sau5 s a5 u:
+sau6 s a6 u:
+se1 s E:1
+se2 s E:2
+se3 s E:3
+se4 s E:4
+se5 s E:5
+se6 s E:6
+sei1 s e1 i:
+sei2 s e2 i:
+sei3 s e3 i:
+sei4 s e4 i:
+sei5 s e5 i:
+sei6 s e6 i:
+sek1 s E:1 k
+sek2 s E:2 k
+sek3 s E:3 k
+sek4 s E:4 k
+sek5 s E:5 k
+sek6 s E:6 k
+seng1 s E:1 N
+seng2 s E:2 N
+seng3 s E:3 N
+seng4 s E:4 N
+seng5 s E:5 N
+seng6 s E:6 N
+seoi1 s eo1 i:
+seoi2 s eo2 i:
+seoi3 s eo3 i:
+seoi4 s eo4 i:
+seoi5 s eo5 i:
+seoi6 s eo6 i:
+seon1 s eo1 n
+seon2 s eo2 n
+seon3 s eo3 n
+seon4 s eo4 n
+seon5 s eo5 n
+seon6 s eo6 n
+seot1 s eo1 t
+seot2 s eo2 t
+seot3 s eo3 t
+seot4 s eo4 t
+seot5 s eo5 t
+seot6 s eo6 t
+si1 s i:1
+si2 s i:2
+si3 s i:3
+si4 s i:4
+si5 s i:5
+si6 s i:6
+sik1 s I1 k
+sik2 s I2 k
+sik3 s I3 k
+sik4 s I4 k
+sik5 s I5 k
+sik6 s I6 k
+sim1 s i:1 m
+sim2 s i:2 m
+sim3 s i:3 m
+sim4 s i:4 m
+sim5 s i:5 m
+sim6 s i:6 m
+sin1 s i:1 n
+sin2 s i:2 n
+sin3 s i:3 n
+sin4 s i:4 n
+sin5 s i:5 n
+sin6 s i:6 n
+sing1 s I1 N
+sing2 s I2 N
+sing3 s I3 N
+sing4 s I4 N
+sing5 s I5 N
+sing6 s I6 N
+sip1 s i:1 p
+sip2 s i:2 p
+sip3 s i:3 p
+sip4 s i:4 p
+sip5 s i:5 p
+sip6 s i:6 p
+sit1 s i:1 t
+sit2 s i:2 t
+sit3 s i:3 t
+sit4 s i:4 t
+sit5 s i:5 t
+sit6 s i:6 t
+siu1 s i:1 u:
+siu2 s i:2 u:
+siu3 s i:3 u:
+siu4 s i:4 u:
+siu5 s i:5 u:
+siu6 s i:6 u:
+so1 s O:1
+so2 s O:2
+so3 s O:3
+so4 s O:4
+so5 s O:5
+so6 s O:6
+soe1 s oe1
+soe2 s oe2
+soe3 s oe3
+soe4 s oe4
+soe5 s oe5
+soe6 s oe6
+soek1 s oe1 k
+soek2 s oe2 k
+soek3 s oe3 k
+soek4 s oe4 k
+soek5 s oe5 k
+soek6 s oe6 k
+soen1 s oe1 n
+soen2 s oe2 n
+soen3 s oe3 n
+soen4 s oe4 n
+soen5 s oe5 n
+soen6 s oe6 n
+soeng1 s oe1 N
+soeng2 s oe2 N
+soeng3 s oe3 N
+soeng4 s oe4 N
+soeng5 s oe5 N
+soeng6 s oe6 N
+soet1 s oe1 t
+soet2 s oe2 t
+soet3 s oe3 t
+soet4 s oe4 t
+soet5 s oe5 t
+soet6 s oe6 t
+soi1 s O:1 i:
+soi2 s O:2 i:
+soi3 s O:3 i:
+soi4 s O:4 i:
+soi5 s O:5 i:
+soi6 s O:6 i:
+sok1 s O:1 k
+sok2 s O:2 k
+sok3 s O:3 k
+sok4 s O:4 k
+sok5 s O:5 k
+sok6 s O:6 k
+son1 s O:1 n
+son2 s O:2 n
+son3 s O:3 n
+son4 s O:4 n
+son5 s O:5 n
+son6 s O:6 n
+song1 s O:1 N
+song2 s O:2 N
+song3 s O:3 N
+song4 s O:4 N
+song5 s O:5 N
+song6 s O:6 N
+sou1 s o1 u:
+sou2 s o2 u:
+sou3 s o3 u:
+sou4 s o4 u:
+sou5 s o5 u:
+sou6 s o6 u:
+suk1 s U1 k
+suk2 s U2 k
+suk3 s U3 k
+suk4 s U4 k
+suk5 s U5 k
+suk6 s U6 k
+sung1 s U1 N
+sung2 s U2 N
+sung3 s U3 N
+sung4 s U4 N
+sung5 s U5 N
+sung6 s U6 N
+syu1 s y:1
+syu2 s y:2
+syu3 s y:3
+syu4 s y:4
+syu5 s y:5
+syu6 s y:6
+syun1 s y:1 n
+syun2 s y:2 n
+syun3 s y:3 n
+syun4 s y:4 n
+syun5 s y:5 n
+syun6 s y:6 n
+syut1 s y:1 t
+syut2 s y:2 t
+syut3 s y:3 t
+syut4 s y:4 t
+syut5 s y:5 t
+syut6 s y:6 t
+taa1 t_h a:1
+taa2 t_h a:2
+taa3 t_h a:3
+taa4 t_h a:4
+taa5 t_h a:5
+taa6 t_h a:6
+taai1 t_h a:1 i:
+taai2 t_h a:2 i:
+taai3 t_h a:3 i:
+taai4 t_h a:4 i:
+taai5 t_h a:5 i:
+taai6 t_h a:6 i:
+taam1 t_h a:1 m
+taam2 t_h a:2 m
+taam3 t_h a:3 m
+taam4 t_h a:4 m
+taam5 t_h a:5 m
+taam6 t_h a:6 m
+taan1 t_h a:1 n
+taan2 t_h a:2 n
+taan3 t_h a:3 n
+taan4 t_h a:4 n
+taan5 t_h a:5 n
+taan6 t_h a:6 n
+taap1 t_h a:1 p
+taap2 t_h a:2 p
+taap3 t_h a:3 p
+taap4 t_h a:4 p
+taap5 t_h a:5 p
+taap6 t_h a:6 p
+taat1 t_h a:1 t
+taat2 t_h a:2 t
+taat3 t_h a:3 t
+taat4 t_h a:4 t
+taat5 t_h a:5 t
+taat6 t_h a:6 t
+taau1 t_h a:1 u:
+taau2 t_h a:2 u:
+taau3 t_h a:3 u:
+taau4 t_h a:4 u:
+taau5 t_h a:5 u:
+taau6 t_h a:6 u:
+tai1 t_h a1 i:
+tai2 t_h a2 i:
+tai3 t_h a3 i:
+tai4 t_h a4 i:
+tai5 t_h a5 i:
+tai6 t_h a6 i:
+tam1 t_h a1 m
+tam2 t_h a2 m
+tam3 t_h a3 m
+tam4 t_h a4 m
+tam5 t_h a5 m
+tam6 t_h a6 m
+tan1 t_h a1 n
+tan2 t_h a2 n
+tan3 t_h a3 n
+tan4 t_h a4 n
+tan5 t_h a5 n
+tan6 t_h a6 n
+tang1 t_h a1 N
+tang2 t_h a2 N
+tang3 t_h a3 N
+tang4 t_h a4 N
+tang5 t_h a5 N
+tang6 t_h a6 N
+tap1 t_h a1 p
+tap2 t_h a2 p
+tap3 t_h a3 p
+tap4 t_h a4 p
+tap5 t_h a5 p
+tap6 t_h a6 p
+tau1 t_h a1 u:
+tau2 t_h a2 u:
+tau3 t_h a3 u:
+tau4 t_h a4 u:
+tau5 t_h a5 u:
+tau6 t_h a6 u:
+te1 t_h E:1
+te2 t_h E:2
+te3 t_h E:3
+te4 t_h E:4
+te5 t_h E:5
+te6 t_h E:6
+tei1 t_h e1 i:
+tei2 t_h e2 i:
+tei3 t_h e3 i:
+tei4 t_h e4 i:
+tei5 t_h e5 i:
+tei6 t_h e6 i:
+tek1 t_h E:1 k
+tek2 t_h E:2 k
+tek3 t_h E:3 k
+tek4 t_h E:4 k
+tek5 t_h E:5 k
+tek6 t_h E:6 k
+ten1 t_h E:1 n
+ten2 t_h E:2 n
+ten3 t_h E:3 n
+ten4 t_h E:4 n
+ten5 t_h E:5 n
+ten6 t_h E:6 n
+teng1 t_h E:1 N
+teng2 t_h E:2 N
+teng3 t_h E:3 N
+teng4 t_h E:4 N
+teng5 t_h E:5 N
+teng6 t_h E:6 N
+teoi1 t_h eo1 i:
+teoi2 t_h eo2 i:
+teoi3 t_h eo3 i:
+teoi4 t_h eo4 i:
+teoi5 t_h eo5 i:
+teoi6 t_h eo6 i:
+teon1 t_h eo1 n
+teon2 t_h eo2 n
+teon3 t_h eo3 n
+teon4 t_h eo4 n
+teon5 t_h eo5 n
+teon6 t_h eo6 n
+ti1 t_h i:1
+ti2 t_h i:2
+ti3 t_h i:3
+ti4 t_h i:4
+ti5 t_h i:5
+ti6 t_h i:6
+tik1 t_h I1 k
+tik2 t_h I2 k
+tik3 t_h I3 k
+tik4 t_h I4 k
+tik5 t_h I5 k
+tik6 t_h I6 k
+tim1 t_h i:1 m
+tim2 t_h i:2 m
+tim3 t_h i:3 m
+tim4 t_h i:4 m
+tim5 t_h i:5 m
+tim6 t_h i:6 m
+tin1 t_h i:1 n
+tin2 t_h i:2 n
+tin3 t_h i:3 n
+tin4 t_h i:4 n
+tin5 t_h i:5 n
+tin6 t_h i:6 n
+ting1 t_h I1 N
+ting2 t_h I2 N
+ting3 t_h I3 N
+ting4 t_h I4 N
+ting5 t_h I5 N
+ting6 t_h I6 N
+tip1 t_h i:1 p
+tip2 t_h i:2 p
+tip3 t_h i:3 p
+tip4 t_h i:4 p
+tip5 t_h i:5 p
+tip6 t_h i:6 p
+tit1 t_h i:1 t
+tit2 t_h i:2 t
+tit3 t_h i:3 t
+tit4 t_h i:4 t
+tit5 t_h i:5 t
+tit6 t_h i:6 t
+tiu1 t_h i:1 u:
+tiu2 t_h i:2 u:
+tiu3 t_h i:3 u:
+tiu4 t_h i:4 u:
+tiu5 t_h i:5 u:
+tiu6 t_h i:6 u:
+to1 t_h O:1
+to2 t_h O:2
+to3 t_h O:3
+to4 t_h O:4
+to5 t_h O:5
+to6 t_h O:6
+toe1 t_h oe1
+toe2 t_h oe2
+toe3 t_h oe3
+toe4 t_h oe4
+toe5 t_h oe5
+toe6 t_h oe6
+toi1 t_h O:1 i:
+toi2 t_h O:2 i:
+toi3 t_h O:3 i:
+toi4 t_h O:4 i:
+toi5 t_h O:5 i:
+toi6 t_h O:6 i:
+tok1 t_h O:1 k
+tok2 t_h O:2 k
+tok3 t_h O:3 k
+tok4 t_h O:4 k
+tok5 t_h O:5 k
+tok6 t_h O:6 k
+ton1 t_h O:1 n
+ton2 t_h O:2 n
+ton3 t_h O:3 n
+ton4 t_h O:4 n
+ton5 t_h O:5 n
+ton6 t_h O:6 n
+tong1 t_h O:1 N
+tong2 t_h O:2 N
+tong3 t_h O:3 N
+tong4 t_h O:4 N
+tong5 t_h O:5 N
+tong6 t_h O:6 N
+tou1 t_h o1 u:
+tou2 t_h o2 u:
+tou3 t_h o3 u:
+tou4 t_h o4 u:
+tou5 t_h o5 u:
+tou6 t_h o6 u:
+tuk1 t_h U1 k
+tuk2 t_h U2 k
+tuk3 t_h U3 k
+tuk4 t_h U4 k
+tuk5 t_h U5 k
+tuk6 t_h U6 k
+tung1 t_h U1 N
+tung2 t_h U2 N
+tung3 t_h U3 N
+tung4 t_h U4 N
+tung5 t_h U5 N
+tung6 t_h U6 N
+tut1 t_h u:1 t
+tut2 t_h u:2 t
+tut3 t_h u:3 t
+tut4 t_h u:4 t
+tut5 t_h u:5 t
+tut6 t_h u:6 t
+tyun1 t_h y:1 n
+tyun2 t_h y:2 n
+tyun3 t_h y:3 n
+tyun4 t_h y:4 n
+tyun5 t_h y:5 n
+tyun6 t_h y:6 n
+tyut1 t_h y:1 t
+tyut2 t_h y:2 t
+tyut3 t_h y:3 t
+tyut4 t_h y:4 t
+tyut5 t_h y:5 t
+tyut6 t_h y:6 t
+uk1 U1 k
+uk2 U2 k
+uk3 U3 k
+uk4 U4 k
+uk5 U5 k
+uk6 U6 k
+waa1 w a:1
+waa2 w a:2
+waa3 w a:3
+waa4 w a:4
+waa5 w a:5
+waa6 w a:6
+waai1 w a:1 i:
+waai2 w a:2 i:
+waai3 w a:3 i:
+waai4 w a:4 i:
+waai5 w a:5 i:
+waai6 w a:6 i:
+waak1 w a:1 k
+waak2 w a:2 k
+waak3 w a:3 k
+waak4 w a:4 k
+waak5 w a:5 k
+waak6 w a:6 k
+waan1 w a:1 n
+waan2 w a:2 n
+waan3 w a:3 n
+waan4 w a:4 n
+waan5 w a:5 n
+waan6 w a:6 n
+waang1 w a:1 N
+waang2 w a:2 N
+waang3 w a:3 N
+waang4 w a:4 N
+waang5 w a:5 N
+waang6 w a:6 N
+waat1 w a:1 t
+waat2 w a:2 t
+waat3 w a:3 t
+waat4 w a:4 t
+waat5 w a:5 t
+waat6 w a:6 t
+wai1 w a1 i:
+wai2 w a2 i:
+wai3 w a3 i:
+wai4 w a4 i:
+wai5 w a5 i:
+wai6 w a6 i:
+wak1 w a1 k
+wak2 w a2 k
+wak3 w a3 k
+wak4 w a4 k
+wak5 w a5 k
+wak6 w a6 k
+wan1 w a1 n
+wan2 w a2 n
+wan3 w a3 n
+wan4 w a4 n
+wan5 w a5 n
+wan6 w a6 n
+wang1 w a1 N
+wang2 w a2 N
+wang3 w a3 N
+wang4 w a4 N
+wang5 w a5 N
+wang6 w a6 N
+wat1 w a1 t
+wat2 w a2 t
+wat3 w a3 t
+wat4 w a4 t
+wat5 w a5 t
+wat6 w a6 t
+wei1 w e1 i:
+wei2 w e2 i:
+wei3 w e3 i:
+wei4 w e4 i:
+wei5 w e5 i:
+wei6 w e6 i:
+wik1 w I1 k
+wik2 w I2 k
+wik3 w I3 k
+wik4 w I4 k
+wik5 w I5 k
+wik6 w I6 k
+wing1 w I1 N
+wing2 w I2 N
+wing3 w I3 N
+wing4 w I4 N
+wing5 w I5 N
+wing6 w I6 N
+wo1 w O:1
+wo2 w O:2
+wo3 w O:3
+wo4 w O:4
+wo5 w O:5
+wo6 w O:6
+wok1 w O:1 k
+wok2 w O:2 k
+wok3 w O:3 k
+wok4 w O:4 k
+wok5 w O:5 k
+wok6 w O:6 k
+won1 w O:1 n
+won2 w O:2 n
+won3 w O:3 n
+won4 w O:4 n
+won5 w O:5 n
+won6 w O:6 n
+wong1 w O:1 N
+wong2 w O:2 N
+wong3 w O:3 N
+wong4 w O:4 N
+wong5 w O:5 N
+wong6 w O:6 N
+wu1 w u:1
+wu2 w u:2
+wu3 w u:3
+wu4 w u:4
+wu5 w u:5
+wu6 w u:6
+wui1 w u:1 i:
+wui2 w u:2 i:
+wui3 w u:3 i:
+wui4 w u:4 i:
+wui5 w u:5 i:
+wui6 w u:6 i:
+wun1 w u:1 n
+wun2 w u:2 n
+wun3 w u:3 n
+wun4 w u:4 n
+wun5 w u:5 n
+wun6 w u:6 n
+wut1 w u:1 t
+wut2 w u:2 t
+wut3 w u:3 t
+wut4 w u:4 t
+wut5 w u:5 t
+wut6 w u:6 t
+yun1 j y:1 n
+yun2 j y:2 n
+yun3 j y:3 n
+yun4 j y:4 n
+yun5 j y:5 n
+yun6 j y:6 n
+zaa1 ts a:1
+zaa2 ts a:2
+zaa3 ts a:3
+zaa4 ts a:4
+zaa5 ts a:5
+zaa6 ts a:6
+zaai1 ts a:1 i:
+zaai2 ts a:2 i:
+zaai3 ts a:3 i:
+zaai4 ts a:4 i:
+zaai5 ts a:5 i:
+zaai6 ts a:6 i:
+zaak1 ts a:1 k
+zaak2 ts a:2 k
+zaak3 ts a:3 k
+zaak4 ts a:4 k
+zaak5 ts a:5 k
+zaak6 ts a:6 k
+zaam1 ts a:1 m
+zaam2 ts a:2 m
+zaam3 ts a:3 m
+zaam4 ts a:4 m
+zaam5 ts a:5 m
+zaam6 ts a:6 m
+zaan1 ts a:1 n
+zaan2 ts a:2 n
+zaan3 ts a:3 n
+zaan4 ts a:4 n
+zaan5 ts a:5 n
+zaan6 ts a:6 n
+zaang1 ts a:1 N
+zaang2 ts a:2 N
+zaang3 ts a:3 N
+zaang4 ts a:4 N
+zaang5 ts a:5 N
+zaang6 ts a:6 N
+zaap1 ts a:1 p
+zaap2 ts a:2 p
+zaap3 ts a:3 p
+zaap4 ts a:4 p
+zaap5 ts a:5 p
+zaap6 ts a:6 p
+zaat1 ts a:1 t
+zaat2 ts a:2 t
+zaat3 ts a:3 t
+zaat4 ts a:4 t
+zaat5 ts a:5 t
+zaat6 ts a:6 t
+zaau1 ts a:1 u:
+zaau2 ts a:2 u:
+zaau3 ts a:3 u:
+zaau4 ts a:4 u:
+zaau5 ts a:5 u:
+zaau6 ts a:6 u:
+zai1 ts a1 i:
+zai2 ts a2 i:
+zai3 ts a3 i:
+zai4 ts a4 i:
+zai5 ts a5 i:
+zai6 ts a6 i:
+zak1 ts a1 k
+zak2 ts a2 k
+zak3 ts a3 k
+zak4 ts a4 k
+zak5 ts a5 k
+zak6 ts a6 k
+zam1 ts a1 m
+zam2 ts a2 m
+zam3 ts a3 m
+zam4 ts a4 m
+zam5 ts a5 m
+zam6 ts a6 m
+zan1 ts a1 n
+zan2 ts a2 n
+zan3 ts a3 n
+zan4 ts a4 n
+zan5 ts a5 n
+zan6 ts a6 n
+zang1 ts a1 N
+zang2 ts a2 N
+zang3 ts a3 N
+zang4 ts a4 N
+zang5 ts a5 N
+zang6 ts a6 N
+zap1 ts a1 p
+zap2 ts a2 p
+zap3 ts a3 p
+zap4 ts a4 p
+zap5 ts a5 p
+zap6 ts a6 p
+zat1 ts a1 t
+zat2 ts a2 t
+zat3 ts a3 t
+zat4 ts a4 t
+zat5 ts a5 t
+zat6 ts a6 t
+zau1 ts a1 u:
+zau2 ts a2 u:
+zau3 ts a3 u:
+zau4 ts a4 u:
+zau5 ts a5 u:
+zau6 ts a6 u:
+ze1 ts E:1
+ze2 ts E:2
+ze3 ts E:3
+ze4 ts E:4
+ze5 ts E:5
+ze6 ts E:6
+zek1 ts E:1 k
+zek2 ts E:2 k
+zek3 ts E:3 k
+zek4 ts E:4 k
+zek5 ts E:5 k
+zek6 ts E:6 k
+zen1 ts E:1 n
+zen2 ts E:2 n
+zen3 ts E:3 n
+zen4 ts E:4 n
+zen5 ts E:5 n
+zen6 ts E:6 n
+zeng1 ts E:1 N
+zeng2 ts E:2 N
+zeng3 ts E:3 N
+zeng4 ts E:4 N
+zeng5 ts E:5 N
+zeng6 ts E:6 N
+zeoi1 ts eo1 i:
+zeoi2 ts eo2 i:
+zeoi3 ts eo3 i:
+zeoi4 ts eo4 i:
+zeoi5 ts eo5 i:
+zeoi6 ts eo6 i:
+zeon1 ts eo1 n
+zeon2 ts eo2 n
+zeon3 ts eo3 n
+zeon4 ts eo4 n
+zeon5 ts eo5 n
+zeon6 ts eo6 n
+zeot1 ts eo1 t
+zeot2 ts eo2 t
+zeot3 ts eo3 t
+zeot4 ts eo4 t
+zeot5 ts eo5 t
+zeot6 ts eo6 t
+zi1 ts i:1
+zi2 ts i:2
+zi3 ts i:3
+zi4 ts i:4
+zi5 ts i:5
+zi6 ts i:6
+zik1 ts I1 k
+zik2 ts I2 k
+zik3 ts I3 k
+zik4 ts I4 k
+zik5 ts I5 k
+zik6 ts I6 k
+zim1 ts i:1 m
+zim2 ts i:2 m
+zim3 ts i:3 m
+zim4 ts i:4 m
+zim5 ts i:5 m
+zim6 ts i:6 m
+zin1 ts i:1 n
+zin2 ts i:2 n
+zin3 ts i:3 n
+zin4 ts i:4 n
+zin5 ts i:5 n
+zin6 ts i:6 n
+zing1 ts I1 N
+zing2 ts I2 N
+zing3 ts I3 N
+zing4 ts I4 N
+zing5 ts I5 N
+zing6 ts I6 N
+zip1 ts i:1 p
+zip2 ts i:2 p
+zip3 ts i:3 p
+zip4 ts i:4 p
+zip5 ts i:5 p
+zip6 ts i:6 p
+zit1 ts i:1 t
+zit2 ts i:2 t
+zit3 ts i:3 t
+zit4 ts i:4 t
+zit5 ts i:5 t
+zit6 ts i:6 t
+ziu1 ts i:1 u:
+ziu2 ts i:2 u:
+ziu3 ts i:3 u:
+ziu4 ts i:4 u:
+ziu5 ts i:5 u:
+ziu6 ts i:6 u:
+zo1 ts O:1
+zo2 ts O:2
+zo3 ts O:3
+zo4 ts O:4
+zo5 ts O:5
+zo6 ts O:6
+zoe1 ts oe1
+zoe2 ts oe2
+zoe3 ts oe3
+zoe4 ts oe4
+zoe5 ts oe5
+zoe6 ts oe6
+zoek1 ts oe1 k
+zoek2 ts oe2 k
+zoek3 ts oe3 k
+zoek4 ts oe4 k
+zoek5 ts oe5 k
+zoek6 ts oe6 k
+zoen1 ts oe1 n
+zoen2 ts oe2 n
+zoen3 ts oe3 n
+zoen4 ts oe4 n
+zoen5 ts oe5 n
+zoen6 ts oe6 n
+zoeng1 ts oe1 N
+zoeng2 ts oe2 N
+zoeng3 ts oe3 N
+zoeng4 ts oe4 N
+zoeng5 ts oe5 N
+zoeng6 ts oe6 N
+zoi1 ts O:1 i:
+zoi2 ts O:2 i:
+zoi3 ts O:3 i:
+zoi4 ts O:4 i:
+zoi5 ts O:5 i:
+zoi6 ts O:6 i:
+zok1 ts O:1 k
+zok2 ts O:2 k
+zok3 ts O:3 k
+zok4 ts O:4 k
+zok5 ts O:5 k
+zok6 ts O:6 k
+zon1 ts O:1 n
+zon2 ts O:2 n
+zon3 ts O:3 n
+zon4 ts O:4 n
+zon5 ts O:5 n
+zon6 ts O:6 n
+zong1 ts O:1 N
+zong2 ts O:2 N
+zong3 ts O:3 N
+zong4 ts O:4 N
+zong5 ts O:5 N
+zong6 ts O:6 N
+zou1 ts o1 u:
+zou2 ts o2 u:
+zou3 ts o3 u:
+zou4 ts o4 u:
+zou5 ts o5 u:
+zou6 ts o6 u:
+zuk1 ts U1 k
+zuk2 ts U2 k
+zuk3 ts U3 k
+zuk4 ts U4 k
+zuk5 ts U5 k
+zuk6 ts U6 k
+zung1 ts U1 N
+zung2 ts U2 N
+zung3 ts U3 N
+zung4 ts U4 N
+zung5 ts U5 N
+zung6 ts U6 N
+zyu1 ts y:1
+zyu2 ts y:2
+zyu3 ts y:3
+zyu4 ts y:4
+zyu5 ts y:5
+zyu6 ts y:6
+zyun1 ts y:1 n
+zyun2 ts y:2 n
+zyun3 ts y:3 n
+zyun4 ts y:4 n
+zyun5 ts y:5 n
+zyun6 ts y:6 n
+zyut1 ts y:1 t
+zyut2 ts y:2 t
+zyut3 ts y:3 t
+zyut4 ts y:4 t
+zyut5 ts y:5 t
+zyut6 ts y:6 t
+ei1 e1 i:
+sil sil
+punk sil
+e1s E:1 s
+e1f E:1 f
+pau pau

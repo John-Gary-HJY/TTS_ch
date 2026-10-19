@@ -1,0 +1,1 @@
+uv run python preprocess.py --config preprocess_configs/preprocess_demo.yaml

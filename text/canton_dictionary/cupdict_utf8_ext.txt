@@ -1,0 +1,10397 @@
+# 五大碼－粵語拼音方案字表
+# Version 1.00 (May, 1999)
+# 
+# 這是由盧偉傑根據周無忌及饒秉才所編之廣州話標準音字彙編製而成。 (1994年)
+# 由盧偉傑根據香港中學生中文詞典增加部分漏字及注音。 (1996年)
+# 並經由香港中文大學電子工程學系修訂
+# 
+# 本表採用香港語言學會之粵語拼音方案
+# 
+# Orignal Author: W.K.Lo 盧偉傑 <wklo@ieee.org>
+# Copyrights (C) 1994-1999 The Chinese University of Hong Kong. All Rights Reserved.
+# (C) 1994-1999 香港中文大學版權所有.
+# 
+一	jat1
+乙	jyut6 jyut3
+丁	ding1 zaang1
+七	cat1
+乃	naai5
+九	gau2
+了	liu5
+二	ji6
+人	jan4
+儿	jan4
+入	jap6
+八	baat3
+几	gei1
+刀	dou1
+刁	diu1
+力	lik6
+匕	bei3 bei2 bei6
+十	sap6
+卜	buk1
+又	jau6
+三	saam1 saam3
+下	haa6 haa5
+丈	zoeng6
+上	soeng6 soeng5
+丫	ngaa1 aa1
+丸	jyun2 jyun4
+凡	faan4
+久	gau2
+么	jiu1 mo1
+也	jaa5
+乞	hat1
+于	jyu1 jyu4
+亡	mong4 mou4
+兀	ngat6
+刃	jan6
+勺	coek3 soek3 zoek3
+千	cin1
+叉	caa1
+口	hau2
+土	tou2
+士	si6
+夕	zik6 daai1
+大	daai6 taai3
+女	neoi5 jyu5 neoi2
+子	zi2
+孑	kit3
+孓	kyut3
+寸	cyun3
+小	siu2
+尢	jau4 wong1
+尸	si1
+山	saan1
+川	cyun1
+工	gung1
+己	gei2
+已	ji5
+巳	zi6
+巾	gan1
+干	gon1
+廾	gung2 jaa6 je6 nim6
+弋	jik6
+弓	gung1
+才	coi4
+丑	cau2
+丐	koi3
+不	bat1 fau2
+中	zung1 zung3
+丰	fung1
+丹	daan1
+之	zi1
+尹	wan5
+予	jyu5 jyu4
+云	wan4
+井	zeng2 zing2
+互	wu6
+五	ng5
+亢	kong3 gong1
+仁	jan4
+什	sam6 sap6 zaap6
+仃	ding1
+仆	fu6 puk1
+仇	sau4 kau4
+仍	jing4
+今	gam1
+介	gaai3
+仄	zak1
+元	jyun4
+允	wan5
+內	noi6 naap6
+六	luk6
+兮	hai4
+公	gung1
+冗	jung2
+凶	hung1
+分	fan1 fan6
+切	cit3 cai3 tou1
+刈	ngaai6
+勻	wan4
+勾	ngau1 gau1
+勿	mat6
+化	faa3 faa2
+匹	pat1
+午	ng5
+升	sing1
+卅	saa1
+卞	bin6
+厄	ngak1 ak1
+友	jau5
+及	kap6
+反	faan2
+壬	jam4
+天	tin1
+夫	fu1 fu4
+太	taai3 taai2
+夭	jiu2 jiu1
+孔	hung2
+少	siu3 siu2
+尤	jau4
+尺	cek3 ce2
+屯	tyun4 zeon1
+巴	baa1
+幻	waan6
+廿	jaa6 nim6
+弔	diu3
+引	jan5
+心	sam1
+戈	gwo1
+戶	wu6
+手	sau2
+扎	zaat3
+支	zi1
+文	man4 man1 man6
+斗	dau2
+斤	gan1
+方	fong1
+日	jat6
+曰	joek6 jyut6
+月	jyut6
+木	muk6
+欠	him3
+止	zi2
+歹	daai2
+毋	mou4
+比	bei2 bei6 pei4
+毛	mou4
+氏	si6 zi1
+水	seoi2
+火	fo2
+爪	zaau2
+父	fu6 fu2
+爻	ngaau4
+片	pin3
+牙	ngaa4
+牛	ngau4
+犬	hyun2
+王	wong4 wong6
+丙	bing2
+世	sai3
+丕	pei1
+且	ce2 cou4 zeoi1
+丘	jau1
+主	zyu2
+乍	zaa3
+乏	fat6
+乎	fu4
+以	ji5
+付	fu6
+仔	zai2 zi2
+仕	si6
+他	taa1
+仗	zoeng6 zoeng3
+代	doi6
+令	ling6 ling1
+仙	sin1
+仞	jan6
+充	cung1
+兄	hing1 fong3
+冉	jim5
+冊	caak3
+冬	dung1
+凹	nap1 aau1 waa1
+出	ceot1
+凸	dat6
+刊	hon2 hon1
+加	gaa1
+功	gung1
+包	baau1
+匆	cung1
+北	bak1 bui3
+匝	zaap3
+仟	cin1
+半	bun3
+卉	wai2
+卡	kaa1
+占	zim1 zim3
+卯	maau5
+卮	zi1
+去	heoi3 heoi2
+可	ho2 hak1 hung4
+古	gu2
+右	jau6
+召	ziu6 siu6
+叮	ding1
+叩	kau3
+叨	tou1
+叼	diu1
+司	si1
+叵	po2
+叫	giu3
+另	ling6
+只	zi2 zek3
+史	si2
+叱	cik1
+台	toi4 ji4
+句	geoi3 ngau1 gau1
+叭	baa1
+叻	lek1 lik1
+四	sei3
+囚	cau4
+外	ngoi6
+央	joeng1
+失	sat1 jat6
+奴	nou4
+奶	naai5 naai1
+孕	jan6
+它	taa1 to1
+尼	nei4
+巨	geoi6
+巧	haau2
+左	zo2
+市	si5 fat1
+布	bou3
+平	ping4 peng4
+幼	jau3
+弁	pun4 bin6
+弘	wang4
+弗	fat1
+必	bit1
+戊	mou6
+打	daa2 daa1
+扔	jing4 wing1
+扒	paa4 paa2
+扑	pok3
+斥	cik1
+旦	daan3 daan2
+朮	seot6
+本	bun2
+未	mei6
+末	mut6
+札	zaat3
+正	zing3 zeng3 zing1
+母	mou5
+民	man4
+氐	dai2 dai1
+永	wing5 sau1
+汁	zap1
+汀	ting1
+氾	faan3 ci5 faan4
+犯	faan2 faan6
+玄	jyun4
+玉	juk6
+瓜	gwaa1
+瓦	ngaa5
+甘	gam1
+生	saang1
+用	jung6
+甩	lat1
+田	tin4
+由	jau4
+甲	gaap3
+申	san1
+疋	pat1 ngaa5 so1
+白	baak6
+皮	pei4
+皿	ming5
+目	muk6
+矛	maau4
+矢	ci2
+石	sek6 daam3
+示	si6
+禾	wo4
+穴	jyut6
+立	laap6 lap6
+丞	sing4 cing2
+丟	diu1
+乒	bing1
+乓	bam1
+乩	gei1
+亙	gang2
+交	gaau1
+亦	jik6
+亥	hoi6
+仿	fong2 pong4
+伉	kong3
+伙	fo2
+伊	ji1
+伕	fu1
+伍	ng5
+伐	fat6
+休	jau1
+伏	fuk6
+仲	zung6
+件	gin6
+任	jam6 jam4
+仰	joeng5
+仳	pei2
+份	fan6 ban1
+企	kei5
+伋	kap1
+光	gwong1
+兇	hung1
+兆	siu6
+先	sin1
+全	cyun4
+共	gung6 gung1 gung2
+再	zoi3
+冰	bing1
+列	lit6
+刑	jing4
+划	waa1 waa4
+刎	man5
+刖	jyut6
+劣	lyut3
+匈	hung1
+匡	hong1
+匠	zoeng6
+印	jan3
+危	ngai4 ngai3
+吉	gat1
+吏	lei6
+同	tung4
+吊	diu3
+吐	tou3 tou2
+吁	heoi1
+吋	cyun3
+各	gok3
+向	hoeng3
+名	ming4 meng2
+合	hap6 gap3
+吃	hek3 gat1 hat1
+后	hau6
+吆	jiu1
+吒	zaa3 zaa1
+因	jan1
+回	wui4
+囝	naam4 zai2
+圳	zan3 hyun2
+地	dei6
+在	zoi6
+圭	gwai1
+圬	wu1
+圯	ji4
+圩	wai4
+夙	suk1
+多	do1
+夷	ji4
+夸	kwaa1
+妄	mong5
+奸	gaan1
+妃	fei1
+好	hou2 hou3
+她	taa1
+如	jyu4
+妁	zoek3 coek3
+字	zi6
+存	cyun4
+宇	jyu5
+守	sau2 sau3
+宅	zaak6 zaak2
+安	ngon1 on1
+寺	zi6 zi2
+尖	zim1
+屹	ngat6
+州	zau1
+帆	faan4
+并	bing6 bing1
+年	nin4
+式	sik1
+弛	ci4
+忙	mong4
+忖	cyun2
+戎	jung4
+戌	seot1
+戍	syu3
+成	sing4 cing4 seng4
+扣	kau3
+扛	gong1
+托	tok3
+收	sau1
+早	zou2
+旨	zi2
+旬	ceon4
+旭	juk1
+曲	kuk1
+曳	jai6
+有	jau5 jau6
+朽	nau2 jau2
+朴	piu4 po1 pok3
+朱	zyu1
+朵	doe2 do2
+次	ci3 zi1
+此	ci2
+死	sei2
+氖	naai5
+汝	jyu5
+汗	hon6 hon4
+汙	waa1 wu1
+江	gong1
+池	ci4
+汐	zik6
+汕	saan3
+污	wu1
+汛	seon3
+汍	jyun4
+汎	faan3
+灰	fui1
+牟	mau4
+牝	pan5
+百	baak3
+竹	zuk1
+米	mai5
+糸	mik6
+缶	fau2
+羊	joeng4
+羽	jyu5
+老	lou5
+考	haau2
+而	ji4 nang4
+耒	leoi6 loi6
+耳	ji5
+聿	leot6 wat6
+肉	juk6
+肋	lak6
+肌	gei1
+臣	san4
+自	zi6
+至	zi3
+臼	kau5
+舌	sit6
+舛	cyun2
+舟	zau1
+艮	gan3
+色	sik1
+艾	ngaai6
+虫	cung4 wai2
+血	hyut3
+行	haang4 hang4 hong4 hong2 hang6
+衣	ji1 ji3
+西	sai1
+阡	cin1
+串	cyun3 gwaan3
+亨	hang1 paang1
+位	wai2 wai6
+住	zyu6
+佇	cyu5
+佗	to1 to4
+佞	ning6
+伴	bun6 pun5
+佛	bat6 fat1 fat6
+何	ho4
+估	gu2 gu3
+佐	zo3
+佑	jau6
+伽	gaa1 ke4
+伺	zi6
+伸	san1
+佃	din6 tin4
+佔	zim3
+似	ci5
+但	daan6
+佣	jung2 jung4
+作	zok3
+你	nei5
+伯	baak3 baa3
+低	dai1
+伶	ling4
+余	jyu4
+佝	keoi1
+佈	bou3
+佚	jat6 dit6
+兌	deoi3
+克	hak1
+免	min5
+兵	bing1
+冶	je5
+冷	laang5 laang1
+別	bit6
+判	pun3
+利	lei6
+刪	saan1
+刨	paau4
+劫	gip3
+助	zo6
+努	nou5
+劬	keoi4
+匣	haap6
+即	zik1
+卵	leon2 leon5
+吝	leon6
+吭	hong4 hang1
+吞	tan1
+吾	ng4
+否	fau2 pei2
+呎	cek3
+吧	baa1 baa6
+呆	ngoi4 daai1
+呃	ngak1 ak1
+吳	ng4
+呈	cing4
+呂	leoi5
+君	gwan1
+吩	fan1
+告	gou3 guk1
+吹	ceoi1
+吻	man5
+吸	kap1
+吮	syun5
+吵	caau2
+吶	naap6 nat3 neot6
+吠	fai6
+吼	hau3
+呀	aa3 aa1
+吱	zi1 gei1
+含	ham4
+吟	jam4
+听	jan5
+囪	coeng1 cung1
+困	kwan3
+囤	deon6 tyun4
+囫	fat1
+坊	fong1 fong4
+坑	haang1
+址	zi2
+坍	taan1 taap3
+均	gwan1 wan6
+坎	ham2 ham3
+圾	saap3 kap1
+坐	zo6 co5
+坏	pui1 pui4
+圻	ngan4 kei4
+壯	zong3 zong1
+夾	gaap3 sim2
+妝	zong1
+妒	dou3
+妨	fong4
+妞	nau2
+妣	bei2
+妙	miu6
+妖	jiu2 jiu1
+妍	jin4
+妤	jyu4
+妓	gei6
+妊	jam4
+妥	to5
+孝	haau3
+孜	zi1
+孚	fu1
+孛	but6 bui6
+完	jyun4
+宋	sung3
+宏	wang4
+尬	gaai3
+局	guk6
+屁	pei3
+尿	niu6 seoi1
+尾	mei5
+岐	kei4
+岑	sam4
+岔	caa3
+岌	kap1 hing3 ngap6
+巫	mou4
+希	hei1
+序	zeoi6
+庇	bei3
+床	cong4
+廷	ting4
+弄	lung6
+弟	dai6 tai5
+彤	tung4
+形	jing4
+彷	fong2 pong4
+役	jik6
+忘	mong4
+忌	gei6
+志	zi3
+忍	jan2
+忱	sam4
+快	faai3
+忸	nau2
+忪	sung1 zung1
+戒	gaai3
+我	ngo5
+抄	caau1
+抗	kong3
+抖	dau2
+技	gei6
+扶	fu4 pou4
+抉	kyut3
+扭	nau2
+把	baa2
+扼	ngak1 ak1
+找	zaau2
+批	pai1
+扳	paan1
+抒	syu1
+扯	ce2
+折	zit3
+扮	baan6
+投	tau4
+抓	zaau2 zaa1
+抑	jik1
+抆	man5
+改	goi2
+攻	gung1
+攸	jau4
+旱	hon5
+更	gang1 gaang1 gang3
+束	cuk1
+李	lei5
+杏	hang6
+材	coi4
+村	cyun1
+杜	dou6
+杖	zoeng6
+杞	gei2
+杉	caam3 saam1
+杆	gon1
+杠	gong1
+杓	soek3
+杗	mong4
+步	bou6
+每	mui5
+求	kau4
+汞	hung3
+沙	saa1
+沁	sam3
+沈	cam4 sam2
+沉	cam4
+沅	jyun4
+沛	pui3
+汪	wong1
+決	kyut3
+沐	muk6
+汰	taai3
+沌	deon6
+汨	mik6
+沖	cung1
+沒	mut6
+汽	hei3
+沃	juk1
+汲	kap1
+汾	fan4
+汴	bin6
+沆	hong4
+汶	man6
+沍	wu6
+沔	min5
+沘	bei2
+沂	ji4
+灶	zou3
+灼	coek3 zoek3
+災	zoi1
+灸	gau3
+牢	lou4
+牡	maau5
+牠	taa1
+狄	dik6
+狂	kong4
+玖	gau2
+甬	jung2
+甫	fu2 pou2 pou3
+男	naam4
+甸	din6 din1 tin4
+皂	zou6 bik1
+盯	ding1 deng1
+矣	ji5
+私	si1
+秀	sau3
+禿	tuk1
+究	gau3
+系	hai6
+罕	hon2
+肖	ciu3
+肓	fong1
+肝	gon1
+肘	zau2
+肛	gong1
+肚	tou5
+育	juk6
+良	loeng4
+芒	mong1 fong2 mong4
+芋	wu6 jyu1
+芍	coek3 zoek3
+見	gin3 jin6
+角	gok3 luk6
+言	jin4
+谷	guk1 juk6
+豆	dau6 dau2
+豕	ci2
+貝	bui3
+赤	cek3 cik3
+走	zau2
+足	zuk1 zeoi3
+身	san1 gyun1
+車	ce1 geoi1
+辛	san1
+辰	san4
+迂	jyu1
+迆	ji4 ji5
+迅	seon3
+迄	ngat6
+巡	ceon4
+邑	jap1
+邢	jing4
+邪	ce4 je4
+邦	bong1
+那	naa5 no1 no4
+酉	jau5
+釆	coi2
+里	lei5
+防	fong4
+阮	jyun5
+阱	zing6 zeng2
+阪	baan2 faan2
+阬	haang1 gon1
+並	bing6 bing3
+乖	gwaai1
+乳	jyu5
+事	si6
+些	se1 so1
+亞	ngaa3 aa3
+享	hoeng2
+京	ging1
+佯	joeng4
+依	ji1
+侍	si6
+佳	gaai1
+使	si2 sai2 si3
+佬	lou2
+供	gung3 gung1
+例	lai6
+來	loi4 loi6
+侃	hon2
+佰	baak3
+併	bing3 ping3
+侈	ci2
+佩	pui3
+佻	tiu3 tiu1 tiu4
+侖	leon4
+佾	jat6
+侏	zyu1
+侑	jau6
+佺	cyun4
+兔	tou3
+兒	ji4 ngai4
+兕	zi6
+兩	loeng5 loeng2
+具	geoi6
+其	kei4 gei1
+典	din2
+冽	lit6
+函	haam4
+刻	hak1
+券	gyun3 hyun3 gyun6
+刷	caat3 saat3
+刺	ci3 cik3
+到	dou3
+刮	gwaat3
+制	zai3
+剁	doek3 do2
+劾	hat6
+劻	hong1
+卒	zeot1 cyut3
+協	hip3
+卓	coek3 zoek3
+卑	bei1
+卦	gwaa3
+卷	gyun2 kyun4
+卸	se3
+卹	seot1
+取	ceoi2
+叔	suk1
+受	sau6
+味	mei6 sung3
+呵	ho1
+咖	gaa3 kaa1
+呸	pei1
+咕	gu1
+咀	zeoi2 zo3
+呻	san1
+呷	haap3
+咄	deot1
+咒	zau3
+咆	paau4
+呼	fu1
+咐	fu3 fu6
+呱	gwaa1 gu1
+呶	naau4
+和	wo4 wo6 wu4
+咚	dung1
+呢	ne1 nei4
+周	zau1
+咋	zaa1 zaa3
+命	ming6 meng6
+咎	gau3 gou1
+固	gu3
+垃	laap6
+坷	ho2
+坪	ping4
+坩	ham1 kim4
+坡	bo1
+坦	taan2
+坤	kwan1
+坼	caak3
+夜	je6
+奉	fung6
+奇	kei4 gei1
+奈	noi6
+奄	jim1 jim2
+奔	ban1
+妾	cip3
+妻	cai1 cai3
+委	wai2 wai1
+妹	mui6
+妮	nei4
+姑	gu1
+姆	mou5
+姐	ze2
+姍	saan1
+始	ci2 ci5
+姓	sing3 seng3
+姊	zi2 ze2
+妯	zuk6
+妳	nei5 naai5
+姒	ci5
+姅	bun3
+孟	maang6
+孤	gu1
+季	gwai3
+宗	zung1
+定	ding6 deng6
+官	gun1
+宜	ji4
+宙	zau6
+宛	jyun2 jyun1
+尚	soeng6
+屈	wat1
+居	geoi1
+屆	gaai3
+岷	man4
+岡	gong1
+岸	ngon6
+岩	ngaam4
+岫	zau6
+岱	doi6
+岳	ngok6
+帘	lim4
+帚	zau2
+帖	tip3
+帕	paak3 mak6
+帛	baak6
+帑	tong2 jyu4 nou4
+幸	hang6
+庚	gang1
+店	dim3
+府	fu2
+底	dai2
+庖	paau4
+延	jin4
+弦	jin4
+弧	wu4
+弩	nou5
+往	wong5
+征	zing1
+彿	fat1
+彼	bei2
+忝	tim2
+忠	zung1
+忽	fat1
+念	nim6
+忿	fan5
+怏	joeng2 joeng3
+怔	zing1
+怯	hip3
+怵	zeot1
+怖	bou3
+怪	gwaai3
+怕	paa3
+怡	ji4
+性	sing3
+怩	nei4
+怫	fat6 fai3
+怛	daat3
+或	waak6
+戕	coeng1 coeng4
+房	fong4
+戾	leoi6
+所	so2
+承	sing4 cing2
+拉	laai1 laat6
+拌	bun6
+拄	zyu2
+抿	man5
+拂	fat1 bat6
+抹	mut3 maat3
+拒	keoi5
+招	ziu1
+披	pei1
+拓	tok3 taap3
+拔	bat6
+拋	paau1
+拈	nim1 nin2
+抨	ping1
+抽	cau1
+押	ngaat3 aap3 aat3 ngaap1
+拐	gwaai2
+拙	zyut3
+拇	mou5
+拍	paak3
+抵	dai2
+拚	pun2 pun3
+抱	pou5 bou6
+拘	keoi1
+拖	to1
+拗	ngaau2 aau2 aau3 ngaau3
+拆	caak3
+抬	toi4
+拎	ling1
+放	fong3
+斧	fu2
+於	jyu1 wu1
+旺	wong6
+昔	sik1
+易	ji6 jik6
+昌	coeng1
+昆	kwan1
+昂	ngong4
+明	ming4
+昀	wan4
+昏	fan1
+昕	jan1
+昊	hou6
+昇	sing1
+服	fuk6
+朋	pang4
+杭	hong4
+枋	fong1
+枕	zam2 zam3
+東	dung1
+果	gwo2
+杳	miu5 jiu2
+杷	paa4
+枇	pei4
+枝	zi1 kei4
+林	lam4
+杯	bui1
+杰	git6
+板	baan2
+枉	wong2
+松	cung4
+析	sik1 cik1
+杵	cyu5
+枚	mui4
+枓	dau2 zyu2
+杼	cyu5
+杪	miu5
+杲	gou2
+欣	jan1
+武	mou5
+歧	kei4
+歿	mut6
+氓	man4 maang4 mong4
+氛	fan1
+泣	jap1
+注	zyu3
+泳	wing6
+沱	to4
+泌	bei3 bat6
+泥	nai4 nei6
+河	ho4
+沽	gu1 gu2
+沾	zim1
+沼	ziu2
+波	bo1
+沫	mut6
+法	faat3
+泓	wang4
+沸	fai3
+泄	sit3 jai6
+油	jau4
+況	fong3
+沮	zeoi2 zeoi1 zeoi3
+泗	si3
+泅	cau4
+泱	joeng1
+沿	jyun4
+治	zi6 ci4
+泡	pou5 paau1 paau3
+泛	faan3
+泊	bok6
+沬	mui6
+泯	man5
+泜	ci4 zi6
+泖	maau5
+泠	ling4
+炕	hong3 kong3
+炎	jim4
+炒	caau2
+炊	ceoi1
+炙	zik3 zek3
+爬	paa4
+爭	zang1 zaang1
+爸	baa1
+版	baan2
+牧	muk6
+物	mat6
+狀	zong6
+狎	haap6
+狙	zeoi1
+狗	gau2
+狐	wu4
+玩	wun6 waan2 waan4
+玨	gok3
+玟	man4
+玫	mui4
+玥	jyut6
+甽	hyun2
+疝	saan3
+疙	ngat6 gat1
+疚	gau3
+的	dik1
+盂	jyu4
+盲	maang4
+直	zik6
+知	zi1 zi3
+矽	zik6
+社	se5
+祀	zi6
+祁	kei4
+秉	bing2
+秈	sin1
+空	hung1 hung3
+穹	kung4
+竺	zuk1
+糾	gau2 dau2
+罔	mong5
+羌	goeng1
+者	ze2
+肺	fai3
+肥	fei4
+肢	zi1
+肱	gwang1
+股	gu2
+肫	seon4 zeon1
+肩	gin1
+肴	ngaau4
+肪	fong1
+肯	hang2 hoi2
+臥	ngo6
+臾	jyu4
+舍	se3
+芳	fong1
+芝	zi1
+芙	fu4
+芭	baa1
+芽	ngaa4
+芟	saam1
+芹	kan4
+花	faa1
+芬	fan1
+芥	gaai3
+芯	sam1 seon3
+芸	wan4
+芣	fau4
+芰	gei6
+芾	fai3 fat1
+芷	zi2
+虎	fu2
+虱	sat1
+初	co1
+表	biu2 biu1
+軋	zaat3
+迎	jing4
+返	faan2
+近	gan6 kan5
+邵	siu6
+邸	dai2
+邱	jau1
+邶	bui3
+采	coi2 coi3
+金	gam1
+長	coeng4 zoeng2 zoeng6
+門	mun4
+阜	fau6
+陀	to4
+阿	aa3 o1
+阻	zo2
+附	fu6
+陂	po1 bei1 pei4
+隹	zeoi1
+雨	jyu5 jyu6
+青	cing1 ceng1
+非	fei1
+亟	gik1 kei3
+亭	ting4
+亮	loeng6
+信	seon3 san1
+侵	cam1
+侯	hau4
+便	bin6 pin4
+俠	haap6
+俑	jung2
+俏	ciu3
+保	bou2
+促	cuk1
+侶	leoi5
+俘	fu1
+俟	zi6 kei4
+俊	zeon3
+俗	zuk6
+侮	mou5
+俐	lei6
+俄	ngo4
+係	hai6
+俚	lei5
+俎	zo2
+俞	jyu4 jyu6
+侷	guk6
+兗	jin5
+冒	mou6 mak6
+冑	zau6
+冠	gun3 gun1
+剎	saat3
+剃	tai3
+削	soek3
+前	cin4
+剌	laat6
+剋	hak1
+則	zak1
+勇	jung5
+勉	min5
+勃	but6
+勁	ging6
+匍	pou4
+南	naam4 naa1
+卻	koek3
+厚	hau5
+叛	bun6
+咬	ngaau5
+哀	ngoi1 oi1
+咨	zi1
+哎	aai1
+哉	zoi1
+咸	haam4
+咦	ji2
+咳	kat1 hei1 koi3
+哇	waa1
+哂	can2
+咽	jin1 jin3 jit3
+咪	mai1 mai5 mei1
+品	ban2
+哄	hung3 hung1 hung6
+哈	haa1
+咯	lo3 lok3
+咫	zi2
+咱	zaa1
+咻	jau1 heoi2
+咩	me1
+咧	le1 le2
+咿	ji1
+囿	jau6
+垂	seoi4
+型	jing4
+垠	ngan4
+垣	wun4
+垢	gau3 hau4
+城	sing4 seng4
+垮	kwaa1
+垓	goi1
+奕	jik6
+契	kai3 kit3 sit3
+奏	zau3 cau3
+奎	fui1
+奐	wun6
+姜	goeng1
+姘	ping1
+姿	zi1
+姣	haau4 gaau2
+姨	ji1 ji4
+娃	waa1
+姥	lou5 mou5
+姪	zat6
+姚	jiu4
+姦	gaan1
+威	wai1
+姻	jan1
+孩	haai4 hoi4
+宣	syun1
+宦	waan6
+室	sat1
+客	haak3
+宥	jau6
+封	fung1
+屎	si2 hei1
+屏	ping4 bing2
+屍	si1
+屋	nguk1 uk1
+峙	si6
+峒	dung6 tung4
+巷	hong6
+帝	dai3
+帥	seoi3 seot1
+帟	jik6
+幽	jau1
+庠	coeng4
+度	dou6 dok6
+建	gin3
+弈	jik6
+弭	mai5 mei5
+彥	jin6
+很	han2
+待	doi6
+徊	wui4
+律	leot6
+徇	seon1 seon6
+後	hau6
+徉	joeng4
+怒	nou6
+思	si1 si3 soi1
+怠	toi5 doi6
+急	gap1
+怎	zam2
+怨	jyun3
+恍	fong2
+恰	hap1
+恨	han6
+恢	fui1
+恆	hang4 gang2
+恃	ci5
+恬	tim4
+恫	dung6 tung1
+恪	kok3
+恤	seot1
+扁	bin2 pin1
+拜	baai3
+挖	waat3
+按	ngon3 on3
+拼	ping1
+拭	sik1
+持	ci4
+拮	git3
+拽	jai6
+指	zi2
+拱	gung2
+拷	haau2
+拯	cing2
+括	gwaat3 kut3
+拾	sap6
+拴	cyun4
+挑	tiu1 tiu5 tou1
+挂	gwaa3
+政	zing3
+故	gu3
+斫	zoek3
+施	si1 ji6
+既	gei3
+春	ceon1
+昭	ciu1 ziu1
+映	jing2
+昧	mui6
+是	si6
+星	sing1
+昨	zok3 zok6
+昱	juk1
+昤	ling4
+曷	hot3
+柿	ci2 ci5 fai3
+染	jim5
+柱	cyu5
+柔	jau4
+某	mau5
+柬	gaan2
+架	gaa3
+枯	fu1
+柵	caak3 saan1
+柩	gau6
+柯	o1
+柄	beng3 bing3
+柑	gam1
+枴	gwaai2
+柚	jau2 jau6 zuk6
+查	caa4 zaa1
+枸	geoi2 gau2
+柏	paak3 baak3
+柞	zaa3 zok6
+柳	lau5
+枰	ping4
+柙	haap6
+柢	dai2
+柝	tok3
+柒	cat1
+歪	me2 waai1
+殃	joeng1
+殆	toi5 doi6
+段	dyun6
+毒	duk6
+毗	pei4 bei2
+氟	fat1
+泉	cyun4
+洋	joeng4
+洲	zau1
+洪	hung4
+流	lau4
+津	zeon1
+洌	lit6
+洱	ji5
+洞	tung4
+洗	sai2 sin2
+活	wut6
+洽	hap1 hap6
+派	paai3
+洶	hung1
+洛	lok3
+泵	bam1
+洹	wun4 jyun4
+洧	fui2
+洸	gwong1
+洩	sit3
+洮	tou4
+洵	seon1
+洎	gei3 gei6
+洫	gwik1
+炫	jyun4 jyun6
+為	wai4 wai6
+炳	bing2
+炬	geoi6
+炯	gwing2
+炭	taan3
+炸	zaa3
+炮	paau3 baau3 paau4
+炤	ciu1 ziu1 ziu3
+爰	wun4 jyun4
+牲	saang1
+牯	gu2
+牴	dai2
+狩	sau3
+狠	han2
+狡	gaau2
+玷	dim3
+珊	saan1
+玻	bo1
+玲	ling4
+珍	zan1
+珀	paak3
+玳	doi6
+甚	sam6 sap6
+甭	bung2 bung1
+畏	wai3
+界	gaai3
+畎	hyun2
+畋	tin4
+疫	jik6
+疤	baa1
+疥	gaai3
+疢	can2 can3
+疣	jau4
+癸	gwai3
+皆	gaai1
+皇	wong4
+皈	gwai1
+盈	jing4
+盆	pun4
+盃	bui1
+盅	zung1
+省	saang2 sing2
+盹	deon6
+相	soeng3 soeng1 soeng2
+眉	mei4
+看	hon3 hon1
+盾	teon5
+盼	paan3
+眇	miu5
+矜	ging1 gwaan1
+砂	saa1
+研	jin4
+砌	cai3
+砍	ham2
+祆	hin1
+祉	zi2
+祈	kei4
+祇	zi2 kei4 zi1
+禹	jyu5
+禺	jyu4
+科	fo1
+秒	miu5
+秋	cau1
+穿	cyun1
+突	dat6
+竿	gon1
+竽	jyu4
+籽	zi2
+紂	zau6
+紅	hung4 gung1
+紀	gei2
+紉	jan6
+紇	hat6 gat1
+約	joek3
+紆	jyu1
+缸	gong1
+美	mei5
+羿	ngai6
+耄	mou6
+耐	noi6
+耍	saa2
+耑	zyun1 dyun1
+耶	je4
+胖	bun6 pun4
+胥	seoi1
+胚	pui1
+胃	wai6
+胄	zau6
+背	bui3 bui6
+胡	wu4
+胛	gaap3
+胎	toi1
+胞	baau1
+胤	jan6
+胝	zi1
+致	zi3
+舢	saan1
+苧	cyu5
+范	faan6
+茅	maau4
+苣	coi2 geoi6 zi2
+苛	ho1 o1
+苦	fu2
+茄	ke2 gaa1 ke4
+若	joek6 je5
+茂	mau6
+茉	mut6
+苒	jim5
+苗	miu4
+英	jing1
+茁	zyut3 cyut3
+苜	muk6
+苔	toi4 toi1
+苑	jyun2
+苞	baau1
+苓	ling4
+苟	gau2
+苯	bun2
+茆	maau5 maau4
+虐	joek6
+虹	hung4
+虻	mong4
+虺	fui1 wai2
+衍	hin2 jin2 jin5
+衫	saam1
+要	jiu3 jiu1
+觔	gan1
+計	gai3 gai2 gei3
+訂	deng6 ding3
+訃	fu6
+貞	zing1
+負	fu6
+赴	fu6
+赳	dau2 gau2
+趴	paa1
+軍	gwan1
+軌	gwai2
+述	seot6
+迦	gaa1 haai6
+迢	tiu4
+迪	dik6
+迥	gwing2
+迭	dit6
+迫	bik1 baak1
+迤	ji4 ji5
+迨	doi6
+郊	gaau1
+郎	long4
+郁	juk1
+郃	gap3 hap6
+酋	jau4 cau4
+酊	ding1 ding2
+重	cung4 cung5 zung6
+閂	saan1
+限	haan6
+陋	lau6 jing4
+陌	mak6
+降	gong3 hong4
+面	min6
+革	gaak3 gaap3
+韋	wai5 wai4
+韭	gau2
+音	jam1
+頁	jip6
+風	fung1 fung3
+飛	fei1
+食	sik6 ji6 zi6
+首	sau2
+香	hoeng1
+乘	sing4 sing6
+亳	bok3
+倌	gun1
+倍	pui5 bui3
+倣	fong2
+俯	fu2
+倦	gyun6
+倥	hung1 hung2
+俸	fung2
+倩	sin6
+倖	hang6
+倆	loeng5
+值	zik6
+借	ze3
+倚	ji2 kei1
+倒	dou2 dou3
+們	mun4
+俺	jim1 jim3 aan2
+倀	caang1 caang2 coeng1
+倔	gwat6
+倨	geoi3
+俱	keoi1 geoi1
+倡	coeng1 coeng3
+個	go3
+候	hau6
+倘	tong2 soeng4
+俳	paai4
+修	sau1
+倭	wo1 wai1
+倪	ngai4
+俾	bei2 bei3
+倫	leon4
+倉	cong1
+兼	gim1
+冤	jyun1
+冥	ming5 ming4
+冢	cung2
+凍	dung3
+凌	ling4
+准	zeon2
+凋	diu1
+剖	fau2 pau2
+剜	wun1
+剔	tik1 tai3
+剛	gong1
+剝	mok1
+匪	fei2
+卿	hing1
+原	jyun4 jyun5
+厝	cou3
+叟	sau2
+哨	saau3
+唐	tong4
+唁	jin6
+唷	jo1
+哼	hang1 hng1
+哥	go1
+哲	zit3
+唆	so1
+哺	bou6
+唔	m4
+哩	lei5 le1
+哭	huk1
+員	jyun4 wan4
+唉	aai1
+哮	haau1
+哪	naa5 naa4
+哦	ngo4 o4
+唧	zik1
+唇	seon4
+哽	ngang2 ang2 gang2
+唏	hei1
+圃	pou2
+圄	jyu5
+埂	gang2
+埔	bou3
+埋	maai4
+埃	ngaai1 aai1 oi1
+堉	juk6
+夏	haa6 gaa2
+套	tou3
+奘	zong1 zong6
+奚	hai4
+娑	so1
+娘	noeng4
+娜	naa4 no4
+娟	gyun1
+娛	jyu4
+娓	mei5
+姬	gei1
+娠	san1 zan3
+娣	tai5 dai6
+娩	min5 maan5
+娥	ngo4
+娌	lei5
+娉	ping1
+孫	syun1 seon3
+屘	mei1
+宰	zoi2
+害	hoi6 hot3
+家	gaa1 gu1
+宴	jin3
+宮	gung1
+宵	siu1
+容	jung4
+宸	san4
+射	se6 je6 jik6
+屑	sit3
+展	zin2
+屐	kek6
+峭	ciu3
+峽	haap6 hap6
+峻	zeon3
+峪	jyu6 juk6
+峨	ngo4
+峰	fung1
+島	dou2
+崁	ham3
+峴	jin6
+差	caai1 caa1 ci1
+席	zik6
+師	si1
+庫	fu3
+庭	ting4
+座	zo6
+弱	joek6
+徒	tou4
+徑	ging3
+徐	ceoi4
+恙	joeng6
+恣	zi1 zi3
+恥	ci2
+恐	hung2
+恕	syu3
+恭	gung1
+恩	jan1
+息	sik1
+悄	ciu2
+悟	ng6
+悚	sung2
+悍	hon6
+悔	fui3
+悌	tai5 dai6
+悅	jyut6
+悖	bui6
+扇	sin3
+拳	kyun4
+挈	kit3
+拿	naa4
+捎	saau1
+挾	hip6 haap6
+振	zan3
+捕	bou6
+捂	wu2
+捆	kwan2
+捏	nip6
+捉	zuk1 zuk3
+挺	ting5
+捐	gyun1
+挽	waan5
+挪	no4
+挫	co3
+挨	ngaai1 aai1
+捍	hon5 hon6 hon2
+捌	baat3
+效	haau6
+敉	mai5 mei5
+料	liu2 liu6
+旁	pong4
+旅	leoi5
+時	si4
+晉	zeon3
+晏	ngaan3 aan3
+晃	fong2
+晒	saai1
+晌	hoeng2
+晅	hyun1
+晁	ciu4
+書	syu1
+朔	sok3
+朕	zam6
+朗	long5
+校	haau6 gaau3
+核	hat6 wat2 wat6
+案	ngon3 on3
+框	kwaang1 hong1
+桓	wun4
+根	gan1
+桂	gwai3
+桔	gat1
+栩	heoi2
+梳	so1
+栗	leot6
+桌	coek3 zoek3
+桑	song1
+栽	zoi1
+柴	caai4
+桐	tung4
+桀	git6
+格	gaak3
+桃	tou4
+株	zyu1
+桅	wai4
+栓	saan1
+栘	ji4
+桁	hang4 haang4 hong6
+殊	syu4
+殉	seon1 seon6
+殷	jan1 jan2 jin1
+氣	hei3
+氧	joeng5
+氨	ngon1 on1
+氦	hoi6
+氤	jan1
+泰	taai3
+浪	long6 long4
+涕	tai3
+消	siu1
+涇	ging1
+浦	pou2
+浸	zam3
+海	hoi2
+浙	zit3
+涓	gyun1
+浬	lei5
+涉	sip3
+浮	fau4
+浚	zeon3
+浴	juk6
+浩	hou6
+涌	cung1
+涊	nin5
+浹	zip3 gaap3
+涅	nip6
+浥	jap1
+涔	sam4
+烊	joeng4
+烘	hung3
+烤	haau2
+烙	lok3
+烈	lit6
+烏	wu1
+爹	de1
+特	dak6
+狼	long4
+狹	haap6
+狽	bui3
+狸	lei4
+狷	gyun3
+玆	zi1
+班	baan1
+琉	lau4
+珮	pui3
+珠	zyu1
+珪	gwai1
+珞	lok3
+畔	bun6
+畝	mau5
+畜	cuk1
+畚	bun2
+留	lau4
+疾	zat6
+病	beng6 bing6
+症	zing3
+疲	pei4
+疳	gam1
+疽	zeoi1
+疼	tang4 tung3
+疹	can2 zan2
+痂	gaa1
+疸	taan2
+皋	gou1
+皰	paau3
+益	jik1
+盍	hap6
+盎	ngong3 ong3
+眩	jyun6 waan6
+真	zan1 zik6
+眠	min4
+眨	zaap3
+矩	geoi2
+砰	ping1
+砧	zam1
+砸	zaap3
+砝	faat3
+破	po3
+砷	san1
+砥	dai2 zi2
+砭	bin1
+砠	zeoi1
+砟	zaa1 zok6
+砲	paau3
+祕	bei3
+祐	jau6
+祠	ci4
+祟	seoi6
+祖	zou2
+神	san4 san1
+祝	zuk1
+祗	zi2
+祚	zou6
+秤	cing3
+秣	mut3
+秧	joeng1
+租	zou1
+秦	ceon4
+秩	dit6
+秘	bei3
+窄	zaak3
+窈	miu5 jiu2
+站	zaam6
+笆	baa1
+笑	siu3
+粉	fan2
+紡	fong2
+紗	saa1
+紋	man4
+紊	man6
+素	sou3
+索	saak3 sok3
+純	seon4 zeon2
+紐	nau2
+紕	pei1 pei4
+級	kap1
+紜	wan4
+納	naap6
+紙	zi2
+紛	fan1
+缺	kyut3
+罟	gu2 gu1
+羔	gou1
+翅	ci3
+翁	jung1
+耆	kei4
+耘	wan4
+耕	gaang1
+耙	paa4
+耗	hou3
+耽	daam1
+耿	gang2
+胱	gwong1
+脂	zi1
+胰	ji4
+脅	hip3
+胭	jin1
+胴	dung6
+脆	ceoi3
+胸	hung1
+胳	gaak3
+脈	mak6
+能	nang4
+脊	zek3 zik3
+胼	pin4
+胯	kwaa3
+臭	cau3
+臬	jit6
+舀	jiu5
+舐	saai2 saai5
+航	hong4
+舫	fong2
+舨	baan2
+般	bun1 bo1 pun4
+芻	co1
+茫	mong4
+荒	fong1
+荔	lai6
+荊	ging1
+茸	jung4 jung5
+荐	zin3
+草	cou2
+茵	jan1
+茴	wui4
+荏	jam5 jam6
+茲	ci4 jyun4 zi1
+茹	jyu4
+茶	caa4
+茗	ming5 ming4
+荀	seon1
+茱	zyu1
+茨	ci4
+荃	cyun4
+虔	kin4
+蚊	man1 man4
+蚪	dau2
+蚓	jan5
+蚤	zou2
+蚩	ci1
+蚌	pong5
+蚣	gung1
+蚜	ngaa4
+衰	seoi1 ceoi1
+衷	cung1 zung1
+袁	jyun4
+袂	mai6
+衽	jam5 jam6
+衹	zi2 kei4
+記	gei3
+訐	kit3
+討	tou2
+訌	hung6
+訕	saan3
+訊	seon3
+託	tok3
+訓	fan3
+訖	ngat6
+訏	heoi1
+訑	daan3 ji4
+豈	hei2 hoi2
+豺	caai4
+豹	paau3
+財	coi4
+貢	gung3
+起	hei2
+躬	gung1
+軒	hin1
+軔	jan6
+軏	jyut6
+辱	juk6
+送	sung3
+逆	jik6 ngaak6
+迷	mai4
+退	teoi3
+迺	naai5 cau4
+迴	wui4
+逃	tou4
+追	zeoi1
+逅	hau6
+迸	bing3
+邕	jung1
+郡	gwan6
+郝	kok3
+郢	jing5
+酒	zau2
+配	pui3
+酌	zoek3
+釘	deng1 ding1
+針	zam1
+釗	ciu1
+釜	fu2
+釙	pok3 buk1
+閃	sim2
+院	jyun2 jyun6
+陣	zan6
+陡	dau2
+陛	bai6
+陝	sim2 haap6
+除	ceoi4 cyu4
+陘	jing4
+陞	sing1
+隻	zek3
+飢	gei1
+馬	maa5
+骨	gwat1
+高	gou1
+鬥	dau3
+鬲	lik6 gaak3
+鬼	gwai2
+乾	gon1 kin4
+偺	zaa1
+偽	ngai6
+停	ting4
+假	gaa2 gaa3
+偃	jin2 jim2
+偌	je6
+做	zou6
+偉	wai5
+健	gin6
+偶	ngau5
+偎	wui1
+偕	gaai1 haai4
+偵	zing1
+側	zak1
+偷	tau1
+偏	pin1
+倏	suk1
+偯	ji2
+偭	min5
+兜	dau1
+冕	min5
+凰	wong4
+剪	zin2
+副	fu3
+勒	lak6
+務	mou6
+勘	ham3 ham1
+動	dung6
+匐	baak6
+匏	paau4
+匙	si4 ci4
+匿	nik1
+區	keoi1 au1 ngau1
+匾	bin2
+參	caam1 cam1 sam1
+曼	maan6
+商	soeng1
+啪	paak1
+啦	laa1
+啄	doek3
+啞	ngaa2 aa2 ak1 ngak1
+啡	fe1 fei1
+啃	hang2
+啊	aa1 aa2
+唱	coeng3
+啖	daam6
+問	man6
+啕	tou4
+唯	wai4 wai2
+啤	be1
+唸	nim6 din6
+售	sau6
+啜	zyut3
+唬	fu2 haau1
+啣	haam4
+唳	leoi6
+啁	zau1
+啗	daam6
+圈	hyun1 gyun6
+國	gwok3
+圉	jyu5
+域	wik6
+堅	gin1
+堊	ngok1 ok3
+堆	deoi1
+埠	fau6 bou6
+埤	bei1 bai3 pei4
+基	gei1
+堂	tong4
+堵	dou2 ze2
+執	zap1
+培	pui4
+夠	gau3
+奢	ce1 se1
+娶	ceoi2 ceoi3
+婁	lau4
+婉	jyun2
+婦	fu5
+婪	laam4
+婀	o1
+娼	coeng1
+婢	pei5
+婚	fan1 man4
+婆	po4
+婊	biu2
+孰	suk6
+寇	kau3
+寅	jan4
+寄	gei3
+寂	zik6
+宿	suk1 sau3
+密	mat6
+尉	wai3 wat1
+專	zyun1
+將	zoeng1 coeng1 zoeng3
+屠	tou4
+屜	tai3
+屝	fei2
+崇	sung4 sung2
+崆	hung1
+崎	kei1 kei4
+崛	gwat6
+崖	ngaai4
+崢	zaang1
+崑	kwan1
+崩	bang1
+崔	ceoi1
+崙	leon4
+崤	ngaau4
+崧	sung1
+崗	gong1
+巢	caau4
+常	soeng4
+帶	daai3
+帳	zoeng3
+帷	wai4
+康	hong1
+庸	jung4
+庶	syu3
+庵	ngam1 am1
+庾	jyu4 jyu5
+張	zoeng1 zoeng3
+強	koeng4 goeng6 koeng5
+彗	seoi6 wai6
+彬	ban1
+彩	coi2
+彫	diu1
+得	dak1
+徙	saai2
+從	cung4 sung1 zung1
+徘	pui4
+御	jyu6 haam4 ngaa6
+徠	loi4
+徜	soeng4
+恿	jung2
+患	waan6
+悉	sik1
+悠	jau4
+您	nei5
+惋	jyun2 wun2
+悴	seoi6
+惦	dim3
+悽	cai1
+情	cing4
+悻	hang6 hang5
+悵	coeng3 zoeng3
+惜	sik1
+悼	dou6
+惘	mong5
+惕	tik1
+惆	cau4
+惟	wai4
+悸	gwai3
+惚	fat1
+惇	deon1
+戚	cik1
+戛	gaat3
+扈	wu6
+掠	loek6
+控	hung3
+捲	gyun2
+掖	jik6
+探	taam3
+接	zip3
+捷	zit3 zit6
+捧	pung2 bung2
+掘	gwat6
+措	cou3
+捱	ngaai4
+掩	jim2
+掉	diu6 zaau6
+掃	sou3 sou2
+掛	gwaa3
+捫	mun4
+推	teoi1
+掄	leon4
+授	sau6
+掙	zang1 zaang1 zaang6
+採	coi2
+掬	guk1
+排	paai4
+掏	tou4
+掀	hin1
+捻	nip6 nim2
+捩	lit6 lai6
+捨	se2
+捺	naat6
+敝	bai6
+敖	ngou4 ngou6
+救	gau3
+教	gaau3 gaau1
+敗	baai6
+啟	kai2
+敏	man5
+敘	zeoi6
+敕	cik1
+敔	jyu5
+斜	ce4 ce3 je4
+斛	huk6 fuk6
+斬	zaam2
+族	zuk6
+旋	syun4
+旌	sing1 zing1
+旎	nei5
+晝	zau3
+晚	maan5
+晤	ng6
+晨	san4
+晦	fui3
+晞	hei1
+曹	cou4
+勗	juk1
+望	mong6
+梁	loeng4
+梯	tai1
+梢	saau1
+梓	zi2
+梵	faan6
+桿	gon2
+桶	tung2
+梱	kwan2
+梧	ng4 ng6
+梗	gang2
+械	haai6
+梃	ting5
+棄	hei3
+梭	so1
+梆	bong1
+梅	mui4 mau5
+梔	zi1
+條	tiu4
+梨	lei4 lei2
+梟	hiu1
+梡	fun2
+梂	kau4
+欲	juk6
+殺	saat3 saai3
+毫	hou4
+毬	kau4
+氫	hing1
+涎	jin4
+涼	loeng4
+淳	seon4
+淙	zung1 cung4
+液	jik6
+淡	daam6 taam5
+淌	tong2
+淤	jyu1 jyu2
+添	tim1
+淺	cin2
+清	cing1
+淇	kei4
+淋	lam4
+涯	ngaai4
+淑	suk6
+涮	saan3
+淞	sung1
+淹	jim1
+涸	kok3
+混	wan6 wan4
+淵	jyun1
+淅	sik1
+淒	cai1
+渚	zyu2
+涵	haam4
+淚	leoi6
+淫	jam4
+淘	tou4
+淪	leon4
+深	sam1
+淮	waai4
+淨	zing6 zeng6
+淆	ngaau4
+淄	zi1
+涪	fau4
+淬	seoi6 ceoi3
+涿	doek3
+淦	gam3
+烹	paang1
+焉	jin1 jin4
+焊	hon6
+烽	fung1
+烯	hei1
+爽	song2
+牽	hin1
+犁	lai4
+猜	caai1
+猛	maang5
+猖	coeng1
+猓	gwo2
+猙	zaang1
+率	seot1 leot2 leot6
+琅	long4
+琊	je4
+球	kau4
+理	lei5
+現	jin6
+琍	lei4
+瓠	wok6 wu6
+瓶	ping4
+瓷	ci4
+甜	tim4
+產	caan2
+略	loek6
+畦	kwai4
+畢	bat1
+異	ji6
+疏	so1 so3
+痔	zi6
+痕	han4
+疵	ci1 ci4
+痊	cyun4
+痍	ji4
+皎	gaau2
+盔	kwai1
+盒	hap6
+盛	sing6 sing4
+眷	gyun3
+眾	zung3
+眼	ngaan5
+眶	hong1 kwaang1
+眸	mau4
+眺	tiu3
+硫	lau4
+硃	zyu1
+硎	jing4
+祥	coeng4
+票	piu3
+祭	zai3
+移	ji4
+窒	zat6
+窕	tiu5
+笠	lap1
+笨	ban6
+笛	dek6 dek2
+第	dai6
+符	fu4
+笙	saang1
+笞	ci1
+笮	zaak3 zok6
+粒	nap1
+粗	cou1
+粕	paak3 pok3
+絆	bun6
+絃	jin4
+統	tung2
+紮	zaat3
+紹	siu6
+紼	fat1
+絀	zyut3
+細	sai3
+紳	san1
+組	zou2
+累	leoi6 leoi4 leoi5
+終	zung1
+紲	sit3
+紱	fat1
+缽	but3
+羞	sau1
+羚	ling4
+翌	jik6
+翎	ling4
+習	zaap6 zap6
+耜	zi6
+聊	liu4
+聆	ling4
+脯	fu2 pou2
+脖	but6
+脣	seon4
+脫	tyut3
+脩	sau1
+脰	dau6
+脤	san5
+舂	zung1
+舵	to4
+舷	jin4
+舶	bok6 baak3
+船	syun4
+莎	saa1 so1
+莞	gun2 gwaan1 wun5
+莘	san1
+荸	but6
+莢	gaap3
+莖	ging3
+莽	mong5
+莫	mok6 mou6
+莒	geoi2
+莊	zong1
+莓	mui4
+莉	lei6
+莠	jau5 sau3
+荷	ho4 ho6
+荻	dik6
+荼	tou4 syu1
+莆	fu2 pou4
+莧	jin6
+處	cyu5 cyu2 cyu3 syu3
+彪	biu1
+蛇	se4 ji4
+蛀	zyu3
+蚶	ham1
+蛄	gu1
+蚵	hou4
+蛆	zeoi1 ceoi1
+蛋	daan6 daan2
+蚱	zaak3 zaa3
+蚯	jau1
+蛉	ling4
+術	seot6
+袞	gwan2
+袈	gaa1
+被	bei6 pei1 pei5
+袒	taan2
+袖	zau6
+袍	pou4
+袋	doi6
+覓	mik6
+規	kwai1
+訪	fong2
+訝	ngaa5 ngaa6
+訣	kyut3
+訥	naap6 nat3
+許	heoi2
+設	cit3
+訟	zung6
+訛	ngo4
+訢	jan1 hei1 ngan4
+豉	si6
+豚	tyun4
+販	faan3
+責	zaak3
+貫	gun3 gwaan3
+貨	fo3
+貪	taam1
+貧	pan4
+赧	naan5
+赦	se3
+趾	zi2
+趺	fu1
+軛	ngaak1 aak1
+軟	jyun5
+這	ze5 ze2 ze3
+逍	siu1
+通	tung1
+逗	dau6
+連	lin4
+速	cuk1
+逝	sai6
+逐	zuk6
+逕	ging3 gaang3
+逞	cing2
+造	zou6 cou3 cou5
+透	tau3
+逢	fung4
+逖	dik6
+逛	kwaang3 gwaang6
+途	tou4
+部	bou6
+郭	gwok3
+都	dou1
+酗	jyu3 heoi3
+野	je5
+釵	caai1
+釦	kau3
+釣	diu3
+釧	cyun3
+釭	gong1
+釩	faan4
+閉	bai3
+陪	pui4
+陵	ling4
+陳	can4 zan6
+陸	luk6
+陰	jam1 am1 jam3
+陴	pei4
+陶	tou4 jiu4
+陷	ham6 haam6
+陬	zau1
+雀	zoek3 zoek2
+雪	syut3
+雩	jyu4
+章	zoeng1
+竟	ging2
+頂	ding2 deng2
+頃	king5 king1 king2
+魚	jyu4
+鳥	niu5 diu2
+鹵	lou5
+鹿	luk6 luk2
+麥	mak6 maak6
+麻	maa4
+傢	gaa1
+傍	bong6 pong4
+傅	fu6 fu1 fu2
+備	bei6
+傑	git6
+傀	faai3 gwai1
+傖	cong1
+傘	saan3
+傚	haau6
+最	zeoi3
+凱	hoi2
+割	got3
+剴	hoi2
+創	cong3 cong1
+剩	sing6
+勞	lou4
+勝	sing3 sing1
+勛	fan1
+博	bok3
+厥	kyut3
+啻	ci3
+喀	haak3 kaa3
+喧	hyun1
+啼	tai4
+喊	haam3
+喝	hot3
+喘	cyun2
+喂	wai3 wai6
+喜	hei2 ci3
+喪	song3 song1
+喔	ok1 o1
+喇	laa1 laa3
+喋	dip6
+喃	naam4
+喳	zaa1
+單	daan1 sin4 sin6
+喟	wai2
+唾	toe3 to3
+喲	jo1
+喚	wun6
+喻	jyu6
+喬	kiu4
+喱	lei2
+啾	zau1
+喉	hau4
+喫	jaak3 hat1
+喙	fui3
+圍	wai4
+堯	jiu4
+堪	ham1
+場	coeng4
+堤	tai4
+堰	jin2
+報	bou3
+堡	bou2 pou3
+堝	wo1
+堠	hau6
+壹	jat1 jik1
+壺	wu4 wu2
+奠	din6
+婷	ting4
+媚	mei6
+婿	sai3
+媒	mui4
+媛	wun4 jyun4 jyun6
+媧	wo1
+孳	zi1
+孱	saan4 caan3
+寒	hon4
+富	fu3
+寓	jyu6
+寐	mei6
+尊	zyun1
+尋	cam4
+就	zau6
+嵌	ham6 haam1
+嵐	laam4
+崴	wai1
+嵇	kai1
+巽	seon3
+幅	fuk1
+帽	mou6
+幀	zing3
+幃	wai4
+幾	gei2 gei1
+廊	long4
+廁	ci3
+廂	soeng1
+廄	gau3
+弼	bat6
+彭	paang4
+復	fuk6
+循	ceon4
+徨	wong4
+惑	waak6
+惡	ngok3 ok3 ngok1 wu1 wu3
+悲	bei1
+悶	mun6
+惠	wai6
+愜	hip6
+愣	ling4 ling6
+惺	sing1
+愕	ngok6
+惰	do6
+惻	caak1 cak1
+惴	zeoi3
+慨	koi3
+惱	nou5
+愎	bik1
+惶	wong4
+愉	jyu4
+愀	ciu2
+愒	kai3 koi3
+戟	gik1
+扉	fei1
+掣	zai3 cit3
+掌	zoeng2
+描	miu4
+揀	gaan2
+揩	haai1
+揉	jau4
+揆	kwai5 kwai4
+揍	cau3
+插	caap3
+揣	cyun2 ceoi2
+提	tai4
+握	ngak1 ak1
+揖	cap1 jap1
+揭	kit3 gai6
+揮	fai1
+捶	ceoi4
+援	wun4 jyun4 jyun6
+揪	zau1
+換	wun6
+摒	bing3
+揚	joeng4
+揹	bui3
+敞	cong2
+敦	deon1 deoi1 deoi6 tyun4
+敢	gam2
+散	saan3 saan2
+斑	baan1
+斐	fei2
+斯	si1
+普	pou2
+晰	sik1
+晴	cing4
+晶	zing1
+景	ging2 jing2
+暑	syu2
+智	zi3
+晾	long6
+晷	gwai2
+曾	cang4 zang1
+替	tai3
+期	kei4 gei1
+朝	ciu4 ziu1
+棺	gun1
+棕	zung1
+棠	tong4
+棘	gik1 kik1
+棗	zou2
+椅	ji2 ji1
+棟	dung6 dung3
+棵	gwo2 fo2 po1
+森	sam1
+棧	zaan2 zaan6
+棹	zaau6 zoek3
+棒	paang5
+棲	cai1
+棣	dai6
+棋	kei4
+棍	gwan3
+植	zik6
+椒	ziu1
+椎	zeoi1 ceoi4
+棉	min4
+棚	paang4
+楮	cyu5
+棻	fan1
+款	fun2
+欺	hei1
+欽	jam1
+殘	caan4
+殖	zik6
+殼	hok3
+毯	taan2
+氮	daam6
+氯	luk6
+氬	ngaa3 aa3
+港	gong2
+游	jau4
+湔	zin1 zin3
+渡	dou6
+渲	syun1 syun3
+湧	jung2
+湊	cau3
+渠	keoi4
+渥	ngak1 ak1
+渣	zaa1
+減	gaam2
+湛	zaam3 daam1
+湘	soeng1
+渤	but6
+湖	wu4
+湮	jan1
+渭	wai6
+渦	wo1 gwo1
+湯	tong1 joeng4 soeng1 tong3
+渴	hot3
+湍	cyun2 teon1
+渺	miu5
+測	caak1 cak1
+湃	baai3 paai3
+渝	jyu4
+渾	wan4
+滋	zi1
+溉	koi3
+渙	wun6
+湎	min5
+湣	fan1 man5
+湄	mei4
+湲	wun4 jyun4
+湩	dung6
+湟	wong4
+焙	bui6
+焚	fan4
+焦	ziu1
+焰	jim6 jim4
+無	mou4 mo4
+然	jin4
+煮	zyu2
+焜	kwan1
+牌	paai4
+犄	gei1
+犀	sai1
+猶	jau4
+猥	wai2
+猴	hau4
+猩	sing1
+琺	faat3
+琪	kei4
+琳	lam4
+琢	doek3
+琥	fu2
+琵	pei4
+琶	paa4
+琴	kam4
+琯	gun2
+琛	sam1
+琦	kei4
+琨	kwan1
+甥	saang1
+甦	sou1
+畫	waak6 waa2 waa6
+番	faan1 po4 pun1
+痢	lei6
+痛	tung3
+痣	zi3
+痙	ging6
+痘	dau6
+痞	mau1 pei2
+痠	syun1
+登	dang1
+發	faat3
+皖	wun5 wun2
+皓	hou6
+皴	ceon1
+盜	dou6
+睏	kwan3
+短	dyun2
+硝	siu1
+硬	ngaang6
+硯	jin6
+稍	saau2
+稈	gon2
+程	cing4
+稅	seoi3
+稀	hei1
+窘	kwan3
+窗	coeng1
+窖	gaau3
+童	tung4
+竣	zeon3
+等	dang2
+策	caak3
+筆	bat1
+筐	hong1
+筒	tung4
+答	daap3
+筍	seon2
+筋	gan1
+筏	fat6
+筑	zuk1
+粟	suk1
+粥	zuk1
+絞	gaau2
+結	git3
+絨	jung4
+絕	zyut6
+紫	zi2
+絮	seoi5 seoi6
+絲	si1
+絡	lok3 lok6
+給	kap1
+絢	hyun3
+絰	dit6
+絳	gong3
+善	sin6
+翔	coeng4
+翕	jap1
+耋	dit6
+聒	kut3
+肅	suk1
+腕	wun2
+腔	hong1
+腋	jik6
+腑	fu2
+腎	san6 san5
+脹	zoeng3
+腆	tin2
+脾	pei4
+腌	jip3
+腓	fei4
+腴	jyu4
+舒	syu1
+舜	seon3
+菩	pou4
+萃	seoi6
+菸	jin1
+萍	ping4
+菠	bo1
+菅	gaan1
+萋	cai1
+菁	cing1 zing1
+華	waa4 faa1 waa6
+菱	ling4
+菴	ngam1 am1
+著	zoek6 zoek3 zyu3
+萊	loi4
+菰	gu1
+萌	mang4
+菌	kwan2
+菽	suk6
+菲	fei1 fei2
+菊	guk1
+萸	jyu4
+萎	wai2 wai1
+萄	tou4
+菜	coi3
+萇	coeng4
+菔	fuk6
+菟	tou3 tou4
+虛	heoi1
+蛟	gaau1
+蛙	waa1
+蛭	zat6
+蛔	wui4
+蛛	zyu1
+蛤	gap3 haa4
+蛐	kuk1
+蛞	fut3
+街	gaai1
+裁	coi4
+裂	lit6
+袱	fuk6
+覃	taam4 cam4
+視	si6
+註	zyu3
+詠	wing6
+評	ping4
+詞	ci4
+証	zing3
+詁	gu2
+詔	ziu3
+詛	zo3
+詐	zaa3
+詆	dai2
+訴	sou3
+診	can2 zan2
+訶	ho1
+詖	bei1 bei3
+象	zoeng6
+貂	diu1
+貯	cyu5
+貼	tip3
+貳	ji6
+貽	ji4
+賁	fan5 ban1 bei3 fan4
+費	fai3 bei3
+賀	ho6
+貴	gwai3
+買	maai5
+貶	bin2
+貿	mau6
+貸	taai3
+越	jyut6
+超	ciu1
+趁	can3
+跎	to4
+距	keoi5
+跋	bat6
+跚	saan1
+跑	paau2
+跌	dit3
+跛	bai1 po2 bei3 bo2
+跆	toi4
+軻	o1
+軸	zuk6
+軼	jat6 dit6
+辜	gu1
+逮	dai6
+逵	kwai4
+週	zau1
+逸	jat6
+進	zeon3
+逶	wai1
+鄂	ngok6
+郵	jau4
+鄉	hoeng1 hoeng3
+郾	jin2
+酣	ham4
+酥	sou1
+量	loeng6 loeng4
+鈔	caau1
+鈕	nau2
+鈣	koi3
+鈉	naap6
+鈞	gwan1
+鈍	deon6
+鈐	kim4
+鈇	fu1
+鈑	baan2
+閔	man5
+閏	jeon6
+開	hoi1
+閑	haan4
+間	gaan3 gaan1
+閒	haan4
+閎	wang4
+隊	deoi6 deoi2
+階	gaai1
+隋	ceoi4 do6
+陽	joeng4
+隅	jyu4
+隆	lung4
+隍	wong4
+陲	seoi4
+隄	tai4
+雁	ngaan6
+雅	ngaa5
+雄	hung4
+集	zaap6 zap6
+雇	gu3
+雯	man4
+雲	wan4
+韌	jan6 ngan6
+項	hong6
+順	seon6
+須	seoi1
+飧	syun1
+飪	jam6 jam5
+飯	faan6
+飩	tan1
+飲	jam2 jam3
+飭	cik1
+馮	fung4 pang4
+馭	jyu6
+黃	wong4
+黍	syu2
+黑	hak1
+亂	lyun6
+傭	jung4 jung2
+債	zaai3
+傲	ngou6
+傳	cyun4 zyun6
+僅	gan2 gan6
+傾	king1
+催	ceoi1
+傷	soeng1
+傻	so4
+傯	zung2
+僇	luk6
+剿	ziu2 caau1
+剷	caan2
+剽	piu5
+募	mou6
+勦	ziu2 caau1
+勤	kan4
+勢	sai3
+勣	zik1
+匯	wui6
+嗟	ze1
+嗨	hei1 hoi1
+嗓	song2
+嗦	so1 sok3
+嗎	maa1 maa5
+嗜	si3
+嗇	sik1
+嗑	haap3 hap6
+嗣	zi6
+嗤	ci1
+嗯	ng6 ng2
+嗚	wu1
+嗡	jung1
+嗅	cau3 hung3
+嗆	coeng1 coeng3
+嗥	hou4
+嗉	sou3
+園	jyun4
+圓	jyun4
+塞	sak1 coi3
+塑	sou3 sok3
+塘	tong4
+塗	tou4
+塚	cung2
+塔	taap3
+填	tin4 zan3
+塌	taap3
+塭	wan1
+塊	faai3
+塢	ou3 wu2
+塒	si4
+塋	jing4
+奧	ngou3 juk1 ou2 ou3
+嫁	gaa3
+嫉	zat6
+嫌	jim4
+媾	gau3
+媽	maa1
+媼	ou2
+媳	sik1
+嫂	sou2
+媲	pei3
+嵩	sung1
+嵯	co1
+幌	fong2
+幹	gon3
+廉	lim4
+廈	haa6
+弒	si3
+彙	wui6 wai6
+徬	pong4
+微	mei4
+愚	jyu4
+意	ji3
+慈	ci4
+感	gam2
+想	soeng2
+愛	ngoi3 oi5
+惹	je5
+愁	sau4
+愈	jyu6
+慎	san6
+慌	fong1
+慄	leot6
+慍	wan3
+愾	koi3
+愴	cong3
+愧	kwai5 kwai3
+愍	man5
+愆	hin1
+愷	hoi2
+戡	ham1
+戢	cap1
+搓	co1
+搾	zaa3
+搞	gaau2
+搪	tong4
+搭	daap3
+搽	caa4
+搬	bun1
+搏	bok3
+搜	sau2 sau1
+搔	sou1
+損	syun2
+搶	coeng2 coeng1
+搖	jiu4
+搗	dou2
+搆	gau3
+敬	ging3
+斟	zam1
+新	san1
+暗	ngam3 am3
+暉	fai1
+暇	haa4 haa6
+暈	wan4 wan6
+暖	nyun5
+暄	hyun1
+暘	joeng4
+暍	hot3
+會	wui3 wui2 wui5 wui6 kui2
+榔	long4
+業	jip6
+楚	co2
+楷	kaai2 gaai1
+楠	naam4
+楔	sit3
+極	gik6
+椰	je4
+概	koi3
+楊	joeng4
+楨	zing1
+楫	zip3
+楞	ling4
+楓	fung1
+楹	jing4
+榆	jyu4
+楝	gaan2 lin6
+楣	mei4
+楛	fu2 wu6
+歇	hit3
+歲	seoi3
+毀	wai2
+殿	din6
+毓	juk1
+毽	gin3
+溢	jat6
+溯	sou3
+滓	zi2
+溶	jung4
+滂	pong4 pong1
+源	jyun4
+溝	kau1 gau1
+滇	tin4
+滅	mit6
+溥	pou2
+溘	hap6
+溼	sap1
+溺	nik1 nik6 niu6
+溫	wan1
+滑	waat6 gwat1
+準	zeon2
+溜	lau6 liu1
+滄	cong1
+滔	tou1
+溪	kai1
+溧	leot6
+溴	cau3
+煎	zin1
+煙	jin1
+煩	faan4
+煤	mui4
+煉	lin6
+照	ziu3
+煜	juk1
+煬	joeng4
+煦	heoi2
+煌	wong4
+煥	wun6
+煞	saat3
+煆	haa6
+煨	wui1
+煖	hyun1 nyun5
+爺	je4
+牒	dip6
+猷	jau4
+獅	si1
+猿	jyun4
+猾	waat6
+瑯	long4
+瑚	wu4
+瑕	haa4
+瑟	sat1
+瑞	seoi6
+瑁	mou6 mui6
+琿	wan4
+瑙	nou5
+瑛	jing1
+瑜	jyu4
+當	dong1 dong3
+畸	kei1
+瘀	jyu2 jyu1
+痰	taam4
+瘁	seoi6
+痲	maa4
+痱	fai2 fai6 fei2
+痺	bei3
+痿	wai2
+痴	ci1
+痳	maa4 lam4
+盞	zaan2
+盟	mang4
+睛	zing1
+睫	zit6 zit3
+睦	muk6
+睞	loi6
+督	duk1
+睹	dou2
+睪	gou1 jik6
+睬	coi2
+睜	zaang1
+睥	pai5
+睨	ngai6
+睢	seoi1
+矮	ngai2 aai2 ai2
+碎	seoi3
+碰	pung3
+碗	wun2
+碘	din1 din2
+碌	luk1
+碉	diu1 diu6
+硼	pang4
+碑	bei1
+碓	deoi3
+硿	hung1
+祺	kei4
+祿	luk6
+禁	gam3 kam1
+萬	maan6
+禽	kam4
+稜	ling4
+稚	zi6
+稠	cau4
+稔	nam5 nim1
+稟	ban2 lam5
+稞	fo1
+窟	gwat6 fat1
+窠	wo1 fo1
+筷	faai3
+節	zit3
+筠	gwan1 wan4
+筮	sai6
+筧	gaan2
+粱	loeng4
+粳	gang1
+粵	jyut6
+經	ging1
+絹	gyun3
+綑	kwan2
+綁	bong2
+綏	seoi1
+絛	tou1
+置	zi3
+罩	zaau3
+罪	zeoi6
+署	cyu5 syu5
+義	ji6
+羨	sin6 jin4
+群	kwan4 kwan2
+聖	sing3
+聘	ping3
+肆	si3
+肄	ji6
+腱	gin3
+腰	jiu1
+腸	coeng4 coeng2
+腥	seng1 sing1
+腮	soi1
+腳	goek3
+腫	zung2
+腹	fuk1
+腺	sin3
+腦	nou5
+舅	kau5
+艇	teng5 ting5
+蒂	dai3
+葷	fan1
+落	lok6 laai6
+萱	hyun1
+葵	kwai4
+葦	wai5
+葫	wu4
+葉	jip6 sip3
+葬	zong3
+葛	got3
+萼	ngok6
+萵	wo1
+葡	pou4
+董	dung2
+葩	baa1 paa1
+葭	gaa1
+葆	bou2
+虞	jyu4
+虜	lou5
+號	hou6 hou4
+蛹	jung2
+蜓	ting4
+蜈	ng4
+蜇	zit3
+蜀	suk6
+蛾	ngo4 ngai5
+蛻	teoi3 seoi3
+蜂	fung1
+蜃	san5 san6
+蜆	hin2
+蜊	lei6
+衙	ngaa4
+裟	saa1
+裔	jeoi6
+裙	kwan4
+補	bou2
+裘	kau4
+裝	zong1
+裡	leoi5
+裊	niu5
+裕	jyu6
+裒	fau4 pau4
+覜	tiu3
+解	gaai2 gaai3 haai6
+詫	caa3
+該	goi1
+詳	coeng4
+試	si3 si5
+詩	si1
+詰	kit3
+誇	kwaa1
+詼	fui1
+詣	ngai6
+誠	sing4
+話	waa6 waa2
+誅	zyu1
+詭	gwai2
+詢	seon1
+詮	cyun4
+詬	gau3
+詹	zim1
+詻	ngaak6
+訾	ci1 ci4 zi1 zi2
+詨	gaau2
+豢	kyun4 waan6
+貊	mak6
+貉	hok6 mak6
+賊	caak6
+資	zi1
+賈	gaa2 gaa3 gu2
+賄	kui2 fui2
+貲	zi1
+賃	jam6
+賂	lou6
+賅	goi1
+跡	zik1
+跟	gan1
+跨	kwaa1
+路	lou6
+跳	tiu3
+跺	do2
+跪	gwai6
+跤	gaau1
+跦	zyu1
+躲	do2
+較	gaau3
+載	zoi3 zoi2
+軾	sik1
+輊	zi3
+辟	pik1
+農	nung4
+運	wan6
+遊	jau4
+道	dou6
+遂	seoi6
+達	daat6 taat3
+逼	bik1
+違	wai4
+遐	haa4
+遇	jyu6
+遏	aat3 ngaat3
+過	gwo3 gwo1
+遍	pin3
+遑	wong4
+逾	jyu4
+遁	deon6
+鄒	zau1
+鄗	haau1 hou6
+酬	cau4
+酪	lok3 lou6
+酩	ming5 ming4
+釉	jau6
+鈷	gu1 gu2
+鉗	kim4
+鈸	bat6 but6
+鈽	bou3
+鉀	gaap3
+鈾	jau4
+鉛	jyun4
+鉋	paau4
+鉤	ngau1
+鉑	bok6
+鈴	ling4
+鉉	jyun5
+鉍	bei3 bit1
+鉅	geoi6
+鈹	pei1 pei4
+鈿	tin4 din6
+鉚	maau5
+閘	zaap6
+隘	ngaai6 aai6 ngaai3 aai3 ak1 ngak1
+隔	gaak3
+隕	wan5 jyun4
+雍	jung1
+雋	zeon3 syun5
+雉	zi6
+雊	gau3
+雷	leoi4
+電	din6
+雹	bok6
+零	ling4
+靖	zing6
+靴	hoe1
+靶	baa2
+預	jyu6
+頑	waan4
+頓	deon6 deon1 duk6
+頊	juk1
+頒	baan1
+頌	zung6
+飼	zi6
+飴	ji4
+飽	baau2
+飾	sik1
+馳	ci4
+馱	to4 do6
+馴	seon4 ceon4
+髡	kwan1
+鳩	gau1 ji4
+麂	gei2
+鼎	ding2 zi1
+鼓	gu2
+鼠	syu2
+僧	zang1 sang1
+僮	tung4 zong6
+僥	hiu1 jiu4
+僖	hei1
+僭	cim3 zim3
+僚	liu4 lou5
+僕	buk6
+像	zoeng6
+僑	kiu4
+僱	gu3
+僎	zaan6
+僩	haan5
+兢	ging1
+凳	dang3
+劃	waak6
+劂	gyut3 kyut3
+匱	gwai6
+厭	jim3 jim1
+嗾	sau2 zuk6
+嘀	dik1
+嘛	maa4
+嘗	soeng4
+嗽	sau3
+嘔	au2 au1 heoi1 ngau1 ngau2
+嘆	taan3
+嘉	gaa1
+嘍	lau4
+嘎	gaa1
+嗷	ngou4
+嘖	zaak3 zik1
+嘟	dou1
+嘈	cou4
+嘐	haau1
+嗶	bat1
+團	tyun4
+圖	tou4
+塵	can4
+塾	suk6
+境	ging2
+墓	mou6
+墊	zin3 din3 dip6
+塹	cim3
+墅	seoi5
+塽	song2
+壽	sau6
+夥	fo2
+夢	mung6
+夤	jan4
+奪	dyut6
+奩	lim4
+嫡	dik1
+嫦	soeng4
+嫩	nyun6
+嫗	jyu2
+嫖	piu4
+嫘	leoi4
+嫣	jin1
+孵	fu1
+寞	mok6
+寧	ning4 ning6
+寡	gwaa2
+寥	liu4
+實	sat6
+寨	zaai6
+寢	cam2
+寤	ng6
+察	caat3
+對	deoi3
+屢	leoi5
+嶄	zaam2 zaam3
+嶇	keoi1
+幛	zoeng3
+幣	bai6
+幕	mok6
+幗	gwok3
+幔	maan6
+廓	kwok3 gwok3
+廖	liu6
+弊	bai6
+彆	bit3
+彰	zoeng1
+徹	cit3
+慇	jan1
+愿	jyun6
+態	taai3
+慷	hong2 hong4 kong2
+慢	maan6
+慣	gwaan3
+慟	dung6
+慚	caam4
+慘	caam2
+慵	jung4
+截	zit6
+撇	pit3
+摘	zaak6
+摔	seot1
+撤	cit3
+摸	mo2 mou4
+摟	lau5 lau1 lau4
+摺	zip3
+摑	gwaak3 gwok3
+摧	ceoi1
+搴	hin1
+摭	zek3
+摻	caam1
+敲	haau1
+斡	waat3 gun2
+旗	kei4
+旖	ji2
+暢	coeng3
+暨	kei3
+暝	ming5 ming4 ming6
+榜	bong2 pong3
+榨	zaa3
+榕	jung4
+槁	gou2
+榮	wing4
+槓	gong3 lung5
+構	kau3 gau3
+榛	zeon1
+榷	kok3
+榻	taap3
+榫	seon2
+榴	lau4
+槐	waai4
+槍	coeng1
+榭	ze6
+槌	ceoi4
+榦	hon4 gon3
+槃	pun4
+榣	jiu4
+歉	hip3 him3
+歌	go1
+氳	wan1
+漳	zoeng1
+演	jin2 jin5
+滾	gwan2
+漓	lei4
+滴	dik6 dik1
+漩	syun4
+漾	joeng6
+漠	mok6
+漬	zik1 zi3
+漏	lau6
+漂	piu3 piu1
+漢	hon3
+滿	mun5 mun6
+滯	zai6
+漆	cat1
+漱	sau3 sou3
+漸	zim6 zim1
+漲	zoeng3 zoeng2
+漣	lin4
+漕	cou4
+漫	maan6
+漯	lok3 taap3
+澈	cit3
+漪	ji1
+滬	wu6
+漁	jyu4
+滲	sam3
+滌	dik6
+滷	lou5
+熔	jung4
+熙	hei1
+煽	sin3
+熊	hung4
+熄	sik1
+熒	jing4
+爾	ji5
+犒	hou3
+犖	lok3
+獄	juk6
+獐	zoeng1
+瑤	jiu4
+瑣	so2
+瑪	maa5
+瑰	gwai3 gwai1
+瑭	tong4
+甄	jan1 zan1
+疑	ji4
+瘧	joek6
+瘍	joeng4
+瘋	fung1
+瘉	jyu6
+瘓	wun6
+盡	zeon6
+監	gaam1 gaam3
+瞄	miu4
+睽	kwai4
+睿	jeoi6
+睡	seoi6
+磁	ci4
+碟	dip6
+碧	bik1
+碳	taan3
+碩	sek6
+碣	kit3
+禎	zing1
+福	fuk1
+禍	wo6
+種	zung3 zung2
+稱	cing3 can3 cing1
+窪	waa1
+窩	wo1
+竭	kit3
+端	dyun1
+管	gun2
+箕	gei1
+箋	zin1
+筵	jin4
+算	syun3
+箝	kim4
+箔	bok6
+箏	zaang1
+箸	zyu6
+箇	go3
+箄	bei6 paai4
+粹	seoi6
+粽	zung3
+精	zing1 zeng1
+綻	zaan6
+綰	waan2
+綜	zung1
+綽	coek3
+綾	ling4
+綠	luk6
+緊	gan2
+綴	zyut3 zeoi3
+網	mong5
+綱	gong1
+綺	ji2
+綢	cau4
+綿	min4
+綵	coi2
+綸	gwaan1 leon4
+維	wai4
+緒	seoi5
+緇	zi1
+綬	sau6
+罰	fat6
+翠	ceoi3
+翡	fei2
+翟	zaak6 dik6
+聞	man4 man6
+聚	zeoi6
+肇	siu6
+腐	fu6
+膀	pong4 bong2
+膏	gou1 gou3
+膈	gaak3
+膊	bok3
+腿	teoi2
+膂	leoi5
+臧	zong1 cong4 zong6
+臺	toi4
+與	jyu5 jyu4 jyu6
+舔	tim2
+舞	mou5
+艋	maang5
+蓉	jung4
+蒿	hou1
+蓆	zek6 zik6
+蓄	cuk1
+蒙	mung4
+蒞	lei6
+蒲	pou4 bok6
+蒜	syun3
+蓋	goi3 gap3 hap6 koi3
+蒸	zing1
+蓀	syun1
+蓓	pui5
+蒐	sau1
+蒼	cong1
+蓑	so1
+蓊	jung2
+蜿	jyun1
+蜜	mat6
+蜻	cing1
+蜢	maang2 maang5
+蜥	sik1
+蜴	jik6
+蜘	zi1
+蝕	sik6 sit6
+蜷	kyun4
+蜩	tiu4
+裳	soeng4
+褂	gwaa3
+裴	pui4
+裹	gwo2
+裸	lo2
+製	zai3
+裨	bei1 pei4
+褚	cyu5 cyu2
+裯	cau4 dou1
+誦	zung6
+誌	zi3
+語	jyu5 jyu6
+誣	mou4
+認	jing6
+誡	gaai3
+誓	sai6
+誤	ng6
+說	syut3 jyut6 seoi3
+誥	gou3
+誨	fui3
+誘	jau5
+誑	kong4
+誚	ciu3
+誧	pou4
+豪	hou4
+貍	lei4
+貌	maau6
+賓	ban1 ban3
+賑	zan3
+賒	se1
+赫	haak1
+趙	ziu6
+趕	gon2
+跼	guk6
+輔	fu6
+輒	zip3
+輕	hing1 heng1
+輓	waan5
+辣	laat6
+遠	jyun5 jyun6
+遘	gau3
+遜	seon3
+遣	hin2
+遙	jiu4
+遞	dai6
+遢	taap3
+遝	daap6
+遛	lau4 lau6
+鄙	pei2
+鄘	jung4
+鄞	ngan4
+酵	haau1 gaau3
+酸	syun1
+酷	huk6
+酴	tou4
+鉸	gaau2 gaau3
+銀	ngan4
+銅	tung4
+銘	ming4
+銖	zyu1
+鉻	gok3
+銓	cyun4
+銜	haam4
+銨	ngon1 on1
+鉼	beng2 ping4
+銑	sin2
+閡	hat6 goi1 ngoi6
+閨	gwai1
+閩	man5
+閣	gok3
+閥	fat6
+閤	gok3 hap6
+隙	gwik1
+障	zoeng3
+際	zai3
+雌	ci1
+雒	lok3
+需	seoi1
+靼	daat3
+鞅	joeng1 joeng2
+韶	siu4
+頗	po2
+領	ling5 leng5
+颯	saap3
+颱	toi4
+餃	gaau2
+餅	beng2 bing2
+餌	nei6
+餉	hoeng2
+駁	bok3
+骯	hong1 ong1 ngong1
+骰	gwat1 sik1 tau4
+髦	mou1 mou4
+魁	fui1
+魂	wan4
+鳴	ming4
+鳶	jyun1
+鳳	fung6
+麼	mo1
+鼻	bei6
+齊	cai4 zaai1 zi1
+億	jik1
+儀	ji4
+僻	pik1 bui6
+僵	goeng1
+價	gaa3
+儂	nung4
+儈	kui2 kui3
+儉	gim6
+儅	dong1
+凜	lam5
+劇	kek6
+劈	pek3 pik1
+劉	lau4
+劍	gim3
+劊	kui2
+勰	hip3
+厲	lai6
+嘮	lou4
+嘻	hei1
+嘹	liu4
+嘲	zaau1
+嘿	hei1
+嘴	zeoi2
+嘩	waa1
+噓	heoi1
+噎	jit3
+噗	pok3
+噴	pan3 fan5 pan1
+嘶	si1 sai1
+嘯	siu3 cik1
+嘰	gei1
+墀	ci4
+墟	heoi1
+增	zang1 cang4
+墳	fan4
+墜	zeoi6
+墮	do6 fai1
+墩	deon1 dan1
+墦	faan4
+奭	sik1
+嬉	hei1
+嫻	haan4
+嬋	sim4
+嫵	mou5
+嬌	giu1
+嬈	jiu4
+寮	liu4
+寬	fun1
+審	sam2
+寫	se2
+層	cang4
+履	lei5 leoi5
+嶝	dang3
+嶔	jam1
+幢	dung6 cong4 tong4 zong6
+幟	ci3
+幡	faan1
+廢	fai3
+廚	cyu4 ceoi4
+廟	miu6
+廝	si1
+廣	gwong2
+廠	cong2
+彈	taan4 daan2 daan6
+影	jing2
+德	dak1
+徵	zing1 cing4 zi2
+慶	hing3
+慧	wai6
+慮	leoi6
+慝	tik1
+慕	mou6
+憂	jau1
+慼	cik1
+慰	wai3
+慫	sung2
+慾	juk6
+憧	cung1
+憐	lin4
+憫	man5
+憎	zang1
+憬	ging2
+憚	daan1 daan6
+憤	fan5
+憔	ciu4
+憮	mou5
+戮	luk6
+摩	mo1
+摯	zi3
+摹	mou4
+撞	zong6
+撲	pok3
+撈	laau4 lou1 lou4 naau4
+撐	caang1
+撰	zaan6
+撥	but6
+撓	naau5 naau4
+撕	si1
+撩	liu4 liu1
+撒	saat3
+撮	cyut3
+播	bo3
+撫	fu2
+撚	nan2 nin2
+撬	giu6 hiu3
+撙	zyun2
+撢	taam3 taam2
+撳	gam6
+敵	dik6
+敷	fu1
+數	sou3 cuk1 sok3 sou2
+暮	mou6
+暫	zaam6
+暴	bou6 buk6
+暱	nik1
+樣	joeng6
+樟	zoeng1
+槨	gwok3
+樁	zong1
+樞	syu1
+標	biu1
+槽	cou4
+模	mou4
+樓	lau4
+樊	faan4
+槳	zoeng2
+樂	lok6 ngaau6 ngok6 ok6
+樅	cung1
+槭	cik1
+樑	loeng4
+歐	au1 au2 ngau1 ngau2
+歎	taan3
+殤	soeng1
+毅	ngai6
+毆	ngau2 au2
+漿	zoeng1
+潼	tung4
+澄	cing4 dang6
+潑	put3
+潦	lou5 liu4
+潔	git3
+澆	hiu2 giu1 hiu1 ngou6
+潭	taam4
+潛	cim4
+潸	saan1
+潮	ciu4
+澎	paang4 paang1
+潺	saan4
+潰	kui2
+潤	jeon6
+澗	gaan3 gaan2
+潘	pun1
+滕	tang4
+潯	cam4
+潠	seon3
+潟	sik1
+熟	suk6
+熬	ngou4
+熱	jit6
+熨	tong3 wan6
+牖	jau5
+犛	lei4 mou4
+獎	zoeng2
+獗	kyut3
+瑩	jing4
+璋	zoeng1
+璃	lei4
+瑾	gan2
+璀	ceoi1 ceoi2
+畿	gei1
+瘠	zik3
+瘩	daap3
+瘟	wan1
+瘤	lau2 lau4
+瘦	sau3
+瘡	cong1
+瘢	baan1
+皚	ji4 ngoi4
+皺	zau3
+盤	pun4
+瞎	hat6
+瞇	mei1
+瞌	hap6
+瞑	ming4
+瞋	can1
+磋	co1
+磅	bong6 pong4
+確	kok3
+磊	leoi5
+碾	zin2 nin5
+磕	hap6
+碼	maa5
+磐	pun4
+稿	gou2
+稼	gaa3
+穀	guk1
+稽	kai1 kai2
+稷	zik1
+稻	dou6
+窯	jiu4
+窮	kung4
+箭	zin3
+箱	soeng1
+範	faan6
+箴	zam1
+篆	syun6
+篇	pin1
+篁	wong4
+箠	seoi4 ceoi4
+篌	hau4
+糊	wu4
+締	tai3 dai3
+練	lin6
+緯	wai5
+緻	zi3
+緘	gaam1 zin1
+緬	min5
+緝	cap1
+編	pin1
+緣	jyun4
+線	sin3
+緞	dyun6
+緩	wun6
+綞	seoi4
+緙	kaak3
+緲	miu5
+緹	tai4
+罵	maa6
+罷	baa6 pei4
+羯	kit3
+翩	pin1
+耦	ngau5
+膛	tong4
+膜	mok6 mok2 mou4
+膝	sat1
+膠	gaau1
+膚	fu1
+膘	biu1
+蔗	ze3
+蔽	bai3
+蔚	wai3 wat1
+蓮	lin4
+蔬	so1
+蔭	jam3
+蔓	maan6 maan4
+蔑	mit6
+蔣	zoeng2
+蔡	coi3
+蔔	baak6
+蓬	pung4
+蔥	cung1
+蓿	suk1
+蔆	ling4
+螂	long4
+蝴	wu4
+蝶	dip6
+蝠	fuk1
+蝦	haa1 haa4
+蝸	wo1
+蝨	sat1
+蝙	pin1 bin1 piu1
+蝗	wong4
+蝌	fo1
+蝓	jyu4
+衛	wai6
+衝	cung1 cung3
+褐	hot3
+複	fuk1
+褒	bou1
+褓	bou2
+褕	jyu4
+褊	bin2
+誼	ji4 ji6
+諒	loeng6 loeng4
+談	taam4
+諄	zeon1
+誕	daan3
+請	cing2 ceng2
+諸	zyu1
+課	fo3
+諉	wai2
+諂	cim2
+調	tiu4 diu6
+誰	seoi4
+論	leon6 leon4
+諍	zaang1 zaang3
+誶	seoi6
+誹	fei2
+諛	jyu4
+豌	wun2 wun1
+豎	syu6
+豬	zyu1
+賠	pui4
+賞	soeng2
+賦	fu3
+賤	zin6
+賬	zoeng3
+賭	dou2
+賢	jin4
+賣	maai6
+賜	ci3
+質	zat1 zi3
+賡	gang1
+赭	ze2
+趟	tong3
+趣	ceoi3 ceoi1 cuk1
+踫	pung3
+踐	cin5 zin6
+踝	waa5
+踢	tek3
+踏	daap6
+踩	coi2 caai2
+踟	ci4
+踡	kyun4
+踞	geoi3
+躺	tong2
+輝	fai1
+輛	loeng6
+輟	zyut3
+輩	bui3
+輦	lin5
+輪	leon4
+輜	zi1
+輞	mong5
+輥	gwan2
+適	sik1 dik1 zaak6
+遮	ze1
+遨	ngou4
+遭	zou1
+遷	cin1
+鄰	leon4
+鄭	zeng6
+鄧	dang6
+鄱	bo3 po4
+醇	seon4
+醉	zeoi3
+醋	cou3
+醃	jip3 jim1
+鋅	san1
+銻	tai1
+銷	siu1
+鋪	pou1 pou3
+銬	kaau3
+鋤	co4
+鋁	leoi5
+銳	jeoi6
+銼	co3
+鋒	fung1
+鋇	bui3
+鋰	lei5
+銲	hon6
+閭	leoi4
+閱	jyut6
+霄	siu1
+霆	ting4
+震	zan3
+霉	mui4 mei4
+靠	kaau3
+鞍	ngon1 on1
+鞋	haai4
+鞏	gung2
+頡	kit3 git3
+頫	tiu3 fu2
+頜	gap3 hap6
+颳	gwaat3
+養	joeng5
+餓	ngo6
+餒	neoi5 noi5
+餘	jyu4
+駝	to4
+駐	zyu3
+駟	si3
+駛	sai2
+駑	nou4
+駕	gaa3
+駒	keoi1
+駙	fu6
+骷	fu1
+髮	faat3
+髯	jim4
+鬧	naau6
+魅	mei6
+魄	paak3 tok3
+魷	jau4
+魯	lou5
+鴆	zam6
+鴉	ngaa1 aa1
+鴃	kyut3
+麩	fu1
+麾	fai1
+黎	lai4
+墨	mak6
+齒	ci2
+儒	jyu4
+儘	zeon6 zeon2
+儔	cau4
+儐	ban3
+儕	caai4
+冀	kei3
+冪	mik6
+凝	jing4
+劑	zai1
+劓	ji6
+勳	fan1
+噙	kam4
+噫	ji1
+噹	dong1
+噩	ngok6
+噤	gam3
+噸	deon1
+噪	cou3
+器	hei3
+噥	nung4
+噱	koek6
+噯	aai1 ngoi2 oi2
+噬	sai6
+噢	o1
+噶	gaa1
+壁	bik1 bek3
+墾	han2
+壇	taan4
+壅	ngung1 jung1 jung2
+奮	fan5
+嬝	niu5
+嬴	jing4
+學	hok6
+寰	waan4
+導	dou6
+彊	goeng1 goeng6 koeng4
+憲	hin3
+憑	pang4
+憩	hei3
+憊	bei6 baai6
+懍	lam5
+憶	jik1
+憾	ham6
+懊	ngou3 ou3
+懈	haai6
+戰	zin3
+擅	sin6
+擁	jung2 ung2
+擋	dong2 dong3
+撻	taat3 daat3
+撼	ham6
+據	geoi3
+擄	lou5
+擇	zaak6
+擂	leoi4
+操	cou1 cou3
+撿	gim2
+擒	kam4
+擔	daam1 daam3
+撾	tai3 wo1 zaa1
+整	zing2
+曆	lik6
+曉	hiu2
+暹	cim3
+曄	jip6
+曇	taam4
+暸	liu4
+樽	zeon1
+樸	pok3 buk6
+樺	waa4 waa6
+橙	caang2
+橫	waang4 waang6
+橘	gwat1
+樹	syu6
+橄	gam2
+橢	to5
+橡	zoeng6
+橋	kiu4 kiu2
+橇	ceoi3 hiu1
+樵	ciu4
+機	gei1
+橈	naau4 jiu4
+歙	kap1 sip3
+歷	lik6
+氅	cong2
+濂	lim4
+澱	din6
+澡	cou3
+濃	nung4
+澤	zaak6
+濁	zuk6
+澧	lai5
+澳	ngou3 juk1 ou3
+激	gik1
+澹	daam6 taam4
+澶	sim4 sin4
+澦	jyu6
+澠	sing4
+澴	waan4
+熾	ci3
+燉	dan6 deon6
+燐	leon4
+燒	siu1
+燈	dang1
+燕	jin3 jin1
+熹	hei1
+燎	liu4
+燙	tong3
+燜	mun6
+燃	jin4
+燄	jim6 jim4
+獨	duk6
+璜	wong4
+璣	gei1
+璘	leon4
+璟	ging2
+璞	pok3
+瓢	piu4
+甌	ngau1 au1
+甍	mang4
+瘴	zoeng3
+瘸	ke4
+瘺	lau6
+盧	lou4
+盥	fun2 gun3
+瞠	caang1
+瞞	mun4
+瞟	piu5
+瞥	pit3
+磨	mo4 mo6
+磚	zyun1
+磬	hing3
+磧	zik1
+禦	jyu6
+積	zik1
+穎	wing6
+穆	muk6
+穌	sou1
+穋	luk6
+窺	kwai1
+篙	gou1
+簑	so1
+築	zuk1
+篤	duk1
+篛	joek6
+篡	saan3
+篩	sai1
+篦	bei6
+糕	gou1
+糖	tong4
+縊	ngai3 ai3
+縑	gim1
+縈	jing4
+縛	bok3 fok3
+縣	jyun6 jyun4
+縞	gou2
+縝	zan2
+縉	zeon3
+縐	zau3
+罹	lei4
+羲	hei1
+翰	hon6
+翱	ngou4
+翮	hat6
+耨	nau6
+膳	sin6
+膩	nei6
+膨	paang4
+臻	zeon1
+興	hing1 hing3
+艘	sau2
+艙	cong1
+蕊	jeoi5
+蕙	wai6
+蕈	seon3 cam5
+蕨	kyut3
+蕩	dong6
+蕃	faan1 faan4
+蕉	ziu1
+蕭	siu1
+蕪	mou4
+蕞	zeoi3
+螃	pong4
+螟	ming4
+螞	maa5 maa1 maa6
+螢	jing4
+融	jung4
+衡	hang4 waang4
+褪	teoi3 tan3
+褲	fu3
+褥	juk6
+褫	ci2
+褡	daap3
+親	can1 can3
+覦	jyu4
+諦	dai3
+諺	jin6
+諫	gaan3
+諱	wai5
+謀	mau4
+諜	dip6
+諧	haai4
+諮	zi1
+諾	nok6
+謁	jit3
+謂	wai6
+諷	fung3
+諭	jyu6
+諳	ngam1 am1
+諶	sam4
+諼	hyun1
+豫	jyu6
+豭	gaa1
+貓	maau1
+賴	laai6
+蹄	tai4
+踱	dok6
+踴	jung2
+蹂	jau4
+踹	cyun2 caai2 jaai2
+踵	zung2 dung2
+輻	fuk1
+輯	cap1
+輸	syu1
+輳	cau3
+辨	bin6
+辦	baan6
+遵	zeon1
+遴	leon4
+選	syun2 syun3
+遲	ci4
+遼	liu4
+遺	wai4 wai6
+鄴	jip6
+醒	sing2 seng2
+錠	ding6
+錶	biu1
+鋸	goe3 geoi3
+錳	maang5
+錯	co3 cik3 cou3
+錢	cin4 cin2 zin2
+鋼	gong3 gong1
+錫	sek3 sik3
+錄	luk6
+錚	zaang1
+錐	zeoi1
+錦	gam2
+錡	kei4
+錕	kwan1
+錮	gu3
+錙	zi1
+閻	jim4
+隧	seoi6
+隨	ceoi4
+險	him2
+雕	diu1
+霎	saap3
+霑	zim1
+霖	lam4
+霍	fok3
+霓	ngai4
+霏	fei1
+靛	din6
+靜	zing6
+靦	min5 tin2
+鞘	ciu3 saau1
+頰	gaap3
+頸	geng2
+頻	pan4
+頷	ham5
+頭	tau4
+頹	teoi4
+頤	ji4
+餐	caan1
+館	gun2
+餞	zin3
+餛	wan4
+餡	haam6
+餚	ngaau4
+駭	haai5 hoi5
+駢	ping4 pin4
+駱	lok3
+骸	haai4 hoi4
+骼	gaak3
+髻	gai3
+髭	zi1
+鬨	hung6
+鮑	baau1 baau6
+鴕	to4
+鴣	gu1
+鴦	joeng1
+鴨	ngaap3 aap3 ngaap1
+鴒	ling4
+鴛	jyun1
+默	mak6
+黔	kim4
+龍	lung4
+龜	gwai1 gau1
+優	jau1
+償	soeng4
+儡	leoi5
+儲	cyu5
+勵	lai6
+嚎	hou4
+嚀	ning4
+嚐	soeng4
+嚅	jyu4
+嚇	haak3 haak1
+嚏	tai3
+壕	hou4
+壓	ngaat3 aat3
+壑	kok3
+壎	fan1 hyun1
+嬰	jing1
+嬪	ban1 pan4
+嬤	maa1
+孺	jyu4 jyu6
+尷	gaam1
+屨	geoi3
+嶼	zeoi6 jyu4
+嶺	leng5 ling5
+嶽	ngok6
+嶸	wing4 jing4
+幫	bong1
+彌	nei4 mei4
+徽	fai1
+應	jing3 jing1
+懂	dung2
+懇	han2
+懦	no6
+懋	mau6
+戲	hei3 fu1
+戴	daai3
+擎	king4
+擊	gik1
+擘	maak3
+擠	zai1
+擰	ning6 ning4
+擦	caat3
+擬	ji5
+擱	gok3
+擢	zok6
+擭	wok6
+斂	lim6
+斃	bai6
+曙	cyu5 syu5
+曖	ngoi3 oi5
+檀	taan4
+檔	dong3 dong2
+檄	hat6
+檢	gim2
+檜	kui2
+櫛	zit3
+檣	coeng4
+橾	ciu1
+檗	paak3
+檐	jim4 sim4
+檠	king4
+歜	cuk1
+殮	lim6
+毚	caam4
+氈	zin1
+濘	ning6
+濱	ban1
+濟	zai3 zai2
+濠	hou4
+濛	mung4
+濤	tou4
+濫	laam6
+濯	zok6
+澀	gip3 sap1
+濬	zeon3
+濡	jyu4
+濩	wok6 wu6
+濕	sap1
+濮	buk6
+濰	wai4
+燧	seoi6
+營	jing4
+燮	sit3
+燦	caan3
+燥	cou3
+燭	zuk1
+燬	wai2
+燴	wui6
+燠	juk1
+爵	zoek3
+牆	coeng4
+獰	ning4
+獲	wok6
+璩	keoi4
+環	waan4
+璦	ngoi3 oi5
+璨	caan3
+癆	lou4
+療	liu4
+癌	ngaam4
+盪	dong6
+瞳	tung4
+瞪	dang1 dang6
+瞰	ham3
+瞬	seon3
+瞧	ciu4
+瞭	liu4 liu5
+矯	giu2
+磷	leon4 leon6
+磺	wong4
+磴	dang3
+磯	gei1
+礁	ziu1
+禧	hei1 hei2
+禪	sim4 sin4 sin6
+穗	seoi6
+窿	lung1 lung4
+簇	cuk1
+簍	lau5
+篾	mit6
+篷	pung4
+簌	cuk1
+篠	siu2
+糠	hong1
+糜	mei4
+糞	fan3
+糢	mou4
+糟	zou1
+糙	cou3
+糝	saam2
+縮	suk1
+績	zik1
+繆	mau6 mau4 miu6 muk6
+縷	leoi5
+縲	leoi4
+繃	bang1 mang2
+縫	fung4 fung6
+總	zung2
+縱	zung1 zung3
+繅	sou1
+繁	faan4 po4
+縴	hin1 hin3
+縹	piu5
+繈	koeng5
+縵	maan6
+縿	sam1
+縯	jing2
+罄	hing3
+翳	ngai3 ai3
+翼	jik6
+聱	ngou4
+聲	sing1 seng1
+聰	cung1
+聯	lyun4
+聳	sung2
+臆	jik1
+臃	jung2
+膺	jing1
+臂	bei3
+臀	tyun4
+膿	nung4
+膽	daam2 taam4
+臉	lim5
+膾	kui2
+臨	lam4
+舉	geoi2
+艱	gaan1
+薪	san1
+薄	bok6
+蕾	leoi5
+薜	bai6
+薑	goeng1
+薔	coeng4
+薯	syu4
+薛	sit3
+薇	mei4
+薨	gwang1
+薊	gai3
+虧	kwai1
+蟀	seot1
+蟑	zoeng1
+螳	tong4
+蟒	mong5
+蟆	maa4
+螫	zik6 cik1 sik1
+螻	lau4
+螺	lo4
+蟈	gwok3
+蟋	sik1
+褻	sit3 dip6
+褶	zaap3 dip6
+襄	soeng1
+褸	lau1 leoi5
+褽	wai3
+覬	gei3
+謎	mai4
+謗	pong3
+謙	him1
+講	gong2
+謊	fong1 fong2
+謠	jiu4
+謝	ze6
+謄	tang4
+謐	mat6
+豁	kut3
+谿	kai1
+豳	ban1
+賺	zaan6
+賽	coi3
+購	kau3 gau3
+賸	sing6
+賻	fu6
+趨	ceoi1 cuk1
+蹉	co1
+蹋	taap3
+蹈	dou6
+蹊	hai4
+轄	hat6
+輾	zin2 nin5
+轂	guk1
+轅	jyun4
+輿	jyu4
+避	bei6
+遽	geoi6
+還	waan4 syun4
+邁	maai6
+邂	haai6
+邀	jiu1
+鄹	zau1
+醣	tong4
+醞	wan3
+醜	cau2
+鍍	dou6
+鎂	mei5
+錨	naau4 maau4
+鍵	gin6
+鍊	lin6
+鍥	kit3
+鍋	wo1
+錘	ceoi4
+鍾	zung1
+鍬	ciu1
+鍛	dyun3
+鍰	waan4
+鍚	joeng4
+鍔	ngok6
+闊	fut3
+闋	kyut3
+闌	laan4
+闈	wai4
+闆	baan2
+隱	jan2
+隸	dai6 lai6
+雖	seoi1
+霜	soeng1
+霞	haa4
+鞠	guk1
+韓	hon4
+顆	fo2
+颶	geoi6
+餵	wai3
+騁	ping3 cing2
+駿	zeon3
+鮮	sin1 sin2
+鮫	gaau1
+鮪	fui2
+鮭	gwai1
+鴻	hung4
+鴿	gap3
+麋	mei4
+黏	nim4
+點	dim2
+黜	zyut3 ceot1 zeot1
+黝	jau2
+黛	doi6
+鼾	hon4
+齋	zaai1
+叢	cung4
+嚕	lou1
+嚮	hoeng2 hoeng3
+壙	kwong3 kong3
+壘	leoi5 leot6
+嬸	sam2
+彝	ji4
+懣	mun6
+戳	coek3 cik3
+擴	kwong3 kong3 kwok3
+擲	zaak6
+擾	jiu2 jiu5
+攆	lin5
+擺	baai2
+擻	sau2 sau3
+擷	kit3 git3
+斷	dyun6 dyun3 tyun5
+曜	jiu6
+朦	mung4
+檳	ban1
+檬	mung4
+櫃	gwai6
+檻	laam6 haam5
+檸	ning4
+櫂	zaau6
+檮	tou4
+檯	toi4
+歟	jyu4
+歸	gwai1
+殯	ban3
+瀉	se3
+瀋	sam2
+濾	leoi6
+瀆	duk6 dau6
+濺	cin2 zin1 zin3
+瀑	buk6
+瀏	lau4
+燻	fan1
+燼	zeon2 zeon6
+燾	dou6 tou4
+燸	zyu1
+獷	gwong2
+獵	lip6
+璧	bik1
+璿	syun4
+甕	ngung3 ung3
+癖	pik1
+癘	lai6
+癒	jyu6
+瞽	gu2
+瞿	keoi4 geoi3
+瞻	zim1
+瞼	gim2
+礎	co2
+禮	lai5
+穡	sik1
+穢	wai3
+穠	nung4
+竄	cyun2 cyun3
+竅	hiu3 kiu3
+簫	siu1
+簧	wong4
+簪	zaam1
+簞	daan1
+簣	gwai6
+簡	gaan2
+糧	loeng4
+織	zik1
+繕	sin6
+繞	jiu5
+繚	liu4
+繡	sau3
+繒	zang1
+繙	faan1
+罈	taam4
+翹	kiu4
+翻	faan1
+職	zik1
+聶	nip6
+臍	ci4
+臏	ban3
+舊	gau6
+藏	cong4 zong1 zong6
+薩	saat3
+藍	laam4
+藐	miu5
+藉	zik6 ze6
+薰	fan1
+薺	cai4 cai5 ci4
+薹	toi4
+薦	zin3
+蟯	naau4 jiu4
+蟬	sim4 sin4
+蟲	cung4
+蟠	pun4 faan4
+覆	fuk1
+覲	gan2 gan6
+觴	soeng1
+謨	mou4
+謹	gan2
+謬	mau6
+謫	zaak6
+豐	fung1
+贅	zeoi3
+蹙	cuk1
+蹣	mun4 pun4
+蹦	bang1
+蹤	zung1
+蹟	zik1
+蹕	bat1
+軀	keoi1
+轉	zyun3 zyun2
+轍	cit3
+邇	ji5
+邃	seoi6
+邈	miu5 mok6
+醫	ji1
+醬	zoeng3
+釐	lei4 hei1 hei2
+鎔	jung4
+鎊	bong6
+鎖	so2
+鎢	wu1
+鎳	nip1 nip6
+鎮	zan3
+鎬	hou6 gou2
+鎰	jat6
+鎘	gaak3
+鎚	ceoi4
+鎗	coeng1
+闔	hap6
+闖	cong2
+闐	tin4
+闕	kyut3
+離	lei4
+雜	zaap6
+雙	soeng1
+雛	co1 co4
+雞	gai1
+霤	lau6
+鞣	jau4
+鞦	cau1
+鞭	bin1
+韹	wong4
+額	ngaak3 ngaak2 ngaak6
+顏	ngaan4
+題	tai4
+顎	ngok6
+顓	zyun1
+颺	joeng4
+餾	lau6
+餿	sau1
+餽	gwai6
+餮	tit3
+馥	fuk1
+騎	ke4 gei6 kei4
+髁	fo1
+鬃	zung1
+鬆	sung1
+魏	ngai6
+魎	loeng5
+魍	mong5
+鯊	saa1
+鯉	lei5
+鯽	zak1 zik1
+鯈	tiu4
+鯀	gwan2
+鵑	gyun1
+鵝	ngo4
+鵠	guk1 huk6
+黠	kit3 hat6 waat6
+鼕	dung1
+鼬	jau6
+儳	caam3
+嚥	jin3
+壞	waai6
+壟	lung5
+壢	lik6
+寵	cung2
+龐	pong4
+廬	lou4
+懲	cing4
+懷	waai4
+懶	laan5
+懵	mung2 mung4
+攀	paan1
+攏	lung5
+曠	kwong3 kong3
+曝	buk6
+櫥	cyu4 ceoi4
+櫝	duk6
+櫚	leoi4
+櫓	lou5
+瀛	jing4
+瀟	siu1
+瀨	laai6
+瀚	hon6
+瀝	lik6
+瀕	pan4 ban1
+瀘	lou4
+爆	baau3
+爍	soek3
+牘	duk6
+犢	duk6
+獸	sau3
+獺	caat3
+璽	saai2
+瓊	king4
+瓣	faan5 baan6 faan6
+疇	cau4
+疆	goeng1
+癟	bit6
+癡	ci1
+矇	mung4
+礙	ngoi6
+禱	dou2 tou2
+穫	wok6
+穩	wan2
+簾	lim4
+簿	bou2 bou6
+簸	bo3
+簽	cim1
+簷	jim4 sim4
+籀	zau6
+繫	hai6
+繭	gaan2
+繹	jik6
+繩	sing4
+繪	kui2 kui3
+羅	lo4
+繳	giu2 zoek3
+羶	saan1 zin1
+羹	gang1
+羸	leoi4
+臘	laap6
+藩	faan4
+藝	ngai6
+藪	sau2
+藕	ngau5
+藤	tang4
+藥	joek6
+藷	syu4
+蟻	ngai5
+蠅	jing4
+蠍	hit3
+蟹	haai5
+蟾	sim4
+襠	dong1
+襟	kam1
+襖	ngou3 ou3
+襞	bik1
+譁	waa1
+譜	pou2
+識	sik1 zi3
+證	zing3
+譚	taam4
+譎	kyut3
+譏	gei1
+譆	hei1
+譙	ciu4
+贈	zang6
+贊	zaan3
+蹼	buk6
+蹲	deon1 cyun4
+躇	cyu4
+蹶	kyut3
+蹬	dang1 dang6
+蹺	hiu1
+蹴	cuk1
+轔	leon4 leon6
+轎	kiu2 giu6
+辭	ci4
+邊	bin1
+邋	laap6
+醱	put3
+醮	ziu3
+鏡	geng3
+鏑	dik6 dik1
+鏟	caan2
+鏃	zuk6
+鏈	lin6
+鏜	tong1
+鏝	maan6
+鏖	ngou4 ou1
+鏢	biu1
+鏍	saat3
+鏘	coeng1
+鏤	lau6
+鏗	hang1
+鏨	zaam6
+關	gwaan1
+隴	lung5
+難	naan4 naan6
+霪	jam4
+霧	mou6
+靡	mei5 mei4
+韜	tou1
+韻	wan5 wan6
+類	leoi6
+願	jyun6
+顛	din1
+颼	sau1
+饅	maan6 maan4
+饉	gan2
+騖	mou6
+騙	pin3
+鬍	wu4
+鯨	king4
+鯧	coeng1
+鯖	cing1 zing1
+鯛	diu1
+鶉	ceon1 seon4
+鵡	mou5
+鵲	zoek3 coek3
+鵪	ngam1 am1
+鵬	paang4
+麒	kei4
+麗	lai6
+麓	luk1
+麴	guk1
+勸	hyun3
+嚨	lung4
+嚷	joeng6
+嚶	jing1
+嚴	jim4
+嚼	zoek3 ziu6
+壤	joeng6
+孀	soeng1
+孃	noeng2
+孽	jit6 jip6
+寶	bou2
+巉	caam4
+懸	jyun4
+懺	caam3
+攘	joeng6 joeng5 joeng4
+攔	laan4
+攙	caam1
+曦	hei1
+朧	lung4
+櫬	can3
+瀾	laan4
+瀰	nei4
+瀲	lim6
+爐	lou4
+獻	hin3
+瓏	lung4
+癢	joeng5
+癥	zing1
+礦	kwong3 kong3
+礪	lai6
+礬	faan4
+礫	lik1
+竇	dau3 dau6
+競	ging6
+籌	cau4
+籃	laam4
+籍	zik6
+糯	no6
+糰	tyun4
+辮	bin1
+繽	ban1
+繼	gai3
+纂	zyun2
+罌	ngang1 ang1 ngaang1 aang1
+耀	jiu6
+臚	lou4
+艦	laam6
+藻	zou2
+藹	ngoi2 oi2
+蘑	mo4
+藺	leon6
+蘆	lou4
+蘋	ping4 pan4
+蘇	sou1
+蘊	wan5 wan3
+蠔	hou4
+蠕	jyu4
+襤	laam4
+覺	gok3
+觸	zuk1
+議	ji5
+譬	pei3
+警	ging2
+譯	jik6
+譟	cou3
+譫	zim1
+贏	jeng4 jing4
+贍	sim6 sin6
+躉	dan2
+躁	cou3
+躅	zuk6
+躂	taat3
+醴	lai5
+釋	sik1
+鐘	zung1
+鐃	naau4
+鏽	sau3
+闡	zin2 cin2 sin6
+霰	sin3
+飄	piu1
+饒	jiu4
+饑	gei1
+馨	hing1
+騫	hin1
+騰	tang4
+騷	sou1
+騵	jyun4
+鰓	soi1
+鰍	cau1
+鹹	haam4
+麵	min6
+黨	dong2 tong2
+鼯	ng4
+齟	zeoi2
+齣	ceot1
+齡	ling4
+儷	lai6
+儸	lo4
+囁	zip3
+囀	zyun2
+囂	hiu1
+夔	kwai4
+屬	suk6 zuk1
+巍	ngai4
+懼	geoi6
+懾	sip3
+攝	sip3
+攜	kwai4
+斕	laan4
+曩	nong5
+櫻	jing1
+欄	laan4
+櫺	ling4
+殲	cim1
+灌	gun3
+爛	laan6
+犧	hei1
+瓖	soeng1
+瓔	jing1
+癩	laai3
+矓	lung4
+籐	tang4
+纏	cin4 zin6
+續	zuk6
+羼	caan3
+蘗	paak3
+蘭	laan4
+蘚	sin2
+蠣	lai6
+蠢	ceon2
+蠡	lai5
+蠟	laap6
+襪	mat6 maat6
+襬	baai2
+覽	laam5
+譴	hin2
+護	wu6
+譽	jyu6
+贓	zong1
+躊	cau4
+躍	joek6 tik1
+躋	zai1
+轟	gwang1
+辯	bin6
+醺	fan1
+鐮	lim4
+鐳	leoi4
+鐵	tit3
+鐺	dong1 caang1
+鐸	dok6
+鐲	zuk6
+鐫	zeon3 zyun1
+闢	pik1
+霸	baa3
+霹	pik1
+露	lou6 lau6
+響	hoeng2
+顧	gu3
+顥	hou6
+饗	hoeng2
+驅	keoi1
+驃	biu1 piu3
+驀	mak6
+騾	leoi4 lo4
+髏	lau4
+魔	mo1
+魑	ci1
+鰭	kei4
+鰥	gwaan1
+鶯	ngang1 ang1
+鶴	hok6
+鷂	jiu6
+鶸	jek6
+麝	se6
+黯	ngam2 am2
+鼙	pei4
+齜	zi1
+齦	ngan4
+齧	ngaat6 ngit6
+儼	jim5
+儻	tong2
+囈	ngai6
+囊	nong4
+囉	lo3 lo1
+孿	lyun4
+巔	din1
+巒	lyun4
+彎	waan1
+懿	ji3
+攤	taan1
+權	kyun4
+歡	fun1
+灑	saa2
+灘	taan1
+玀	lo4
+瓤	nong4
+疊	dip6
+癮	jan5
+癬	sin2
+禳	joeng6 joeng4
+籠	lung4 lung5
+籟	laai6
+聾	lung4
+聽	ting3 teng1 ting1
+臟	zong6
+襲	zaap6
+襯	can3
+觼	kyut3
+讀	duk6 dau6
+贖	suk6
+贗	ngaan6
+躑	zaak6
+躓	zi3
+轡	bei3
+酈	lik6
+鑄	zyu3
+鑑	gaam3
+鑒	gaam3
+霽	zai3
+霾	mai4 maai4
+韃	taat3
+韁	goeng1
+顫	zin3
+饕	tou1
+驕	giu1
+驍	hiu1
+髒	zong1
+鬚	sou1
+鱉	bit3
+鰱	lin4
+鰾	piu5
+鰻	maan4
+鷓	ze3
+鷗	ngau1 au1
+鼴	jin2
+齬	jyu5
+齪	cuk1
+龔	gung1
+囌	sou1
+巖	ngaam4
+戀	lyun2 lyun5
+攣	lyun4
+攫	fok3
+攪	gaau2
+曬	saai3
+欐	lai6
+瓚	zaan3
+竊	sit3
+籤	cim1
+籣	laan4
+籥	joek6
+纓	jing1
+纖	cim1
+纔	coi4
+臢	zim1
+蘸	zaam3
+蘿	lo4
+蠱	gu2
+變	bin3
+邐	lei5
+邏	lo4
+鑣	biu1
+鑠	soek3
+鑤	paau4
+靨	jip3
+顯	hin2
+饜	jim3
+驚	ging1 geng1
+驛	jik6
+驗	jim6
+髓	seoi5
+體	tai2
+髑	duk6
+鱔	sin5
+鱗	leon4
+鱖	gwai3 kyut3
+鷥	si1
+麟	leon4
+黴	mei4
+囑	zuk1
+壩	baa3
+攬	laam5
+灞	baa3
+癱	taan2 taan1
+癲	din1
+矗	cuk1
+罐	gun3
+羈	gei1
+蠶	caam4
+蠹	dou3
+衢	keoi4
+讓	joeng6
+讒	caam4
+讖	cam3
+艷	jim6
+贛	gam3
+釀	joeng6
+鑪	lou4
+靂	lik6
+靈	ling4 leng4
+靄	ngoi2 oi2
+韆	cin1
+顰	pan4
+驟	zau6
+鬢	ban3
+魘	jim2
+鱟	hau6
+鷹	jing1
+鷺	lou6
+鹼	gaan2
+鹽	jim4
+鼇	ngou4
+齷	ngak1 ak1
+齲	geoi2
+廳	teng1
+欖	laam5
+灣	waan1
+籬	lei4
+籮	lo4
+蠻	maan4
+觀	gun1 gun3
+躡	nip6
+釁	jan6
+鑲	soeng1
+鑰	joek6
+顱	lou4
+饞	caam4
+髖	fun1
+鬣	lip6
+黌	hung4
+灤	bok6 lyun4
+矚	zuk1
+讚	zaan3
+鑷	nip6
+韉	zin1
+驢	lou4 leoi4
+驥	kei3
+纜	laam6
+讜	dong2
+躪	leon6
+釅	jim6
+鑽	zyun3
+鑾	lyun4
+鑼	lo4
+鱷	ngok6
+鱸	lou4
+黷	duk6
+豔	jim6
+鑿	zok6 zok2
+鸚	jing1
+爨	cyun3
+驪	lei4
+鬱	wat1
+鸛	gun3
+鸞	lyun4
+籲	joek6 jyu6
+乂	ngaai6
+乜	mat1 me1
+凵	ham3
+匚	fong1
+厂	hon3 am1 ngam1
+万	maan6 mak6
+丌	gei1
+乇	tok3 zaak6
+亍	cuk1
+兀	ngat6
+彳	cik1
+丏	min5
+冇	mou5
+亓	kei4
+仂	lak6
+仉	zoeng2
+冘	jam4 jau4
+勼	gau1
+卬	joeng5 ngong4
+厹	jau4 kau4
+圠	caak3
+夬	gwaai3
+巿	si5
+旡	mou4 mou5
+殳	syu4
+爿	coeng4
+仨	saam1
+仡	ngat6 go1
+仝	tung4
+刌	cyun2
+匜	ji4
+卌	se3
+圢	ting5
+圣	sing3
+夗	jyun2 jyun3
+夯	ban6 haang1
+宁	cyu5
+宄	gwai2
+尒	ji5
+尻	haau1
+屴	lak6 lik6
+庀	pei2
+庂	zak1
+忉	dou1
+戉	jyut6
+扐	lak6
+氕	pit3
+汃	ban1 paak3
+氿	gwai2
+犰	kau4
+禸	jau5
+阞	lak6
+伎	gei6
+优	jau1
+仵	ng5
+伀	zung1
+价	gaai3
+伈	sam2
+伢	ngaa4
+冱	wu6
+刓	jyun4
+刉	gei1
+匟	kong3
+厊	ngaa5
+囡	naam4
+囟	seon3
+圮	ji4 pei2
+圪	ngat6
+夼	kong3
+奼	caa3
+孖	maa1
+尥	liu6
+屼	ngat6
+屺	hei2
+幵	hin1
+庄	zong1
+异	ji3
+忕	taai3
+忔	hat1 ngat6
+扜	jyu1
+扞	gon2 hon2 hon6
+扤	ngaat6 ngat1
+扡	ci2 to1
+扦	cin1
+扢	gwat1 ngat6
+扠	caa1
+旯	lo1
+旮	go1
+朾	caang2 ting1
+朹	gwai2 kau4
+朸	lak6 lik6
+朻	gau1
+机	gei1
+朿	ci3
+氘	dou1
+汆	cyun1 tan2
+汒	mong4
+汜	ci5
+汏	daai6
+汊	caa3
+汔	ngat6
+汋	joek6 zoek3
+犴	hon4 hon6 ngon6
+玎	ding1
+网	mong5
+艸	cou2
+艼	ding2
+芀	siu4 tiu4
+艽	kau4
+艿	jing4 naai5
+虍	fu1
+邙	mong4
+邗	hon4
+邘	jyu1
+邛	kung4
+阢	ngat6
+阤	to4 zi6
+佖	bit1
+伻	ping1
+佢	keoi5
+佉	keoi1
+体	tai2
+佤	ngaa5
+伾	pei1
+佧	kaa1
+佒	joeng5
+佟	tung4
+佁	ji5
+佘	se4
+冏	gwing2
+刜	fat1
+劭	siu6
+劮	jat6
+匉	paang1
+卣	jau5
+卲	siu6
+厎	zi2
+厏	zaa3
+吰	wang4
+吷	hyut3
+吪	ngo4 faa4
+呔	taai1
+吥	bat1
+吽	hau1 hung1 ngau6
+呏	sing1
+囮	jau4 ngo4
+坁	zi2
+坅	jam2
+坌	ban6
+坉	nang4 tyun4
+坋	fan5
+坒	bai6
+夆	fung1
+奀	ngan1
+妘	wan4
+妠	naap6
+妗	kam5
+妢	fan4
+妐	zung1
+宎	jiu2
+尪	wong1
+岍	hin1
+岏	jyun4
+岈	haa1 ngaa4
+岒	kim4
+岊	zit3
+庋	gei2 gwai2
+庉	gau3
+庌	ngaa5
+弝	baa3
+彸	zung1
+忒	tik1
+忑	tik1
+忐	taan2
+忭	bin6
+忨	wun6
+忮	zi3
+忳	tyun4 zeon1
+忡	cung1
+忤	ng5
+忣	gap1
+忺	him1
+忷	hung1
+忻	jan1
+戺	si6
+抃	bin6
+抌	dam2
+抎	wan5
+抏	jyun4 waan4 wun6
+抔	pau4
+抇	wat6
+扱	caap3 kap1
+扻	ham2 zit3
+扺	zi2
+抈	jyut6
+扽	dan3 dan6
+扲	ngam4 ning1
+攷	haau2
+旰	hon6
+旴	heoi1
+旳	dik1
+杅	jyu1
+杇	wu1
+杙	jik6
+杕	dai6
+杌	ngat6
+杈	caa1 caa3
+杝	ji4
+毐	oi2
+氙	sin1
+氚	cyun1
+汸	fong1 pong4
+汧	hin1
+汫	zeng2
+沄	wan4
+沋	jau4
+沏	cai3 cit3
+汯	faat3
+汩	gwat1
+沚	zi2
+汭	jeoi6
+沇	jin5
+沕	mat6
+沜	pun3
+汳	bin6
+灺	se3
+牣	jan6
+犿	faan1 fun1
+狃	nau2
+狁	wan5
+犺	kong3
+玕	gon1
+玓	dik1
+玔	cyun3
+町	ding1 ting1 ting5
+甹	ping1
+疔	deng1 ding1
+皁	zou6
+礽	jing4
+肐	gat1
+肜	jung4
+芐	haa6 wu6
+芏	dou6
+芅	jik6
+芎	hung1 gung1 kung4
+芑	hei2
+芓	zi2 zi6
+芊	cin1
+芃	pung4
+芄	jyun4
+豸	zi6 zaai6
+邟	kong3
+邡	fong1
+邥	sam2
+邧	jyun4
+邠	ban1
+阰	pei4
+阨	aai3 ak1 ngaai3 ngak1
+阯	zi2
+侘	caa3
+佼	gaau2
+侅	goi1
+佽	ci3
+侀	jing4
+侇	ji4
+佶	git3 gat1
+佴	ji5 ji6
+侉	kwaa2
+侄	zat6
+佷	han2
+佌	ci2
+侗	dung6 tung4
+佪	wui4
+侚	seon1 seon6
+佹	gwai2
+侁	san1
+佸	wut6
+侐	gwik1
+侜	zau1
+侔	mau4
+侂	tok3
+冞	mei4
+冼	sin2
+刵	ji6
+刲	gwai1
+刳	fu1
+剆	caan2
+刱	cong1 cong3
+劼	kit3
+匊	guk1
+匋	tou4
+匼	o1
+厔	zat6
+咇	bit1
+呿	keoi1
+咁	gam3
+咑	daa1
+咂	zaap3
+咈	fat6
+呫	cip3 tip3
+呺	hiu1 hou4
+呾	daat3
+呥	jim4
+呬	hei3
+呴	heoi1
+呦	jau1
+咍	hoi1
+呤	ling4
+囷	kwan1
+囹	ling4
+坯	pui1
+坲	fat6
+坭	nai4
+坫	dim3
+坱	joeng5
+坰	gwing1
+坵	jau1
+坻	ci4 dai2 zi2
+坳	ngaau3 aau3
+坨	to4
+奅	paau3
+妺	mut6
+姏	maan4
+妲	taan2 daat3
+姌	jim5
+姁	heoi2
+姈	kam5
+孢	baau1
+孥	nou4
+宓	fuk6 mat6
+宕	dong6
+屄	bei1
+岠	geoi6
+岵	wu6
+岨	zeoi1 zeoi2
+岬	gaap3
+岣	gau2
+岭	ling4
+岢	ho2
+岪	fat6
+岧	tiu4
+岥	po1
+帗	fat1
+帔	pei3
+帙	dit6
+弨	ciu1
+弢	tou1
+弣	fu2
+弤	dai2
+彔	luk6
+徂	cou4
+彽	dai1
+忞	man4
+怭	bit1
+怦	ping1
+怙	wu6
+怲	bing2
+怊	ciu1 tiu4
+怗	tip3
+怳	fong2
+怚	zeoi6
+怞	jau4 zau6
+怢	dat6
+怍	zok6
+怐	kau3
+怓	naau4
+戔	zin1
+戽	fu3
+抭	jiu5
+抴	jai6
+拑	kim4
+抾	gip3 keoi1
+抶	cik1
+拊	fu2
+抮	zan2
+抻	can2
+抰	joeng2
+攽	baan1 ban1
+斨	coeng1
+斻	hong4
+昉	fong2
+旼	man4
+昄	baan2
+昒	fat1
+旻	man4
+昃	zak1
+曶	fat1
+朊	gun2 jyun2
+枅	gai1
+杬	laam5 jyun4
+枎	fu4
+枒	ngaa4
+杶	ceon1
+杻	nau2 cau2
+枘	jeoi6
+杴	hin1
+枍	jai6
+枌	fan4
+枑	wu6
+极	gik6
+杹	faa3
+殀	jiu2
+歾	mut6
+氝	noi6
+沓	daap6
+泬	kyut3 hyut3
+泫	jyun5
+泮	pun3
+泙	paang1
+泔	gam1
+沭	seot6
+泐	lak6
+泂	gwing2
+沺	tin4
+泃	keoi1 gau1
+泆	jat6
+泭	fu1
+泲	zai3
+泝	sou3
+沴	leoi6
+沊	dam2
+泇	gaa1
+泑	jau2
+炔	kyut3 gai3
+炘	jan1
+炅	gwing2
+炆	man1
+炖	dan6 deon6
+炂	gung1
+狖	jau6
+狋	ji4 ngan4
+狘	hyut3
+狉	pei1
+狒	fei6
+狌	sang1 sing1
+狑	ling6
+玤	bung2
+玭	pan4
+玦	kyut3
+玢	ban1 fan1
+玠	gaai3
+瓝	bok6
+瓨	gong1
+甿	mong4
+畀	bei2 bei3
+甾	zi1 zoi1
+疌	zaam2
+疘	gong1
+皯	gon2
+盳	maang4 mong6
+盱	heoi1
+矸	gon1 gon3
+矼	gong1 hong1
+矹	ngat6
+矻	ngat6
+矺	zaak3
+祂	taa1
+礿	joek6
+秅	caa4
+穸	zik6
+耵	ding1
+肮	hong4
+肸	jat6
+肵	kei4
+肭	nat3
+舠	dou1
+芫	jyun4 jim4
+芚	tyun4 teon1
+芘	bei3 pei4
+芧	cyu5 zeoi6
+芮	jeoi6
+芼	mou4 mou6
+芺	ngou3 ou3
+芴	fat1 mat6
+芨	gap1
+芡	him3
+芩	kam4 sam4
+芤	kau1
+芶	gau2
+虯	kau4
+迒	hong4
+迋	kwaang3 wong6
+迓	ngaa6
+迍	tyun4 zeon1
+迕	ng6
+邲	bei3
+邴	bing2
+邯	hon4
+邳	pei4
+邰	toi4
+阹	keoi1
+阽	dim3 jim4
+阼	zou6
+阺	dai2
+俍	loeng4
+俅	kau4
+俓	ging3
+侲	zan3
+俉	ng6
+俋	jap1
+俁	jyu5
+俔	jin5
+俜	ping1
+俙	hei1
+侻	tyut3
+侳	co3 zo6
+俛	fu2 min5
+俇	hong1 gwaang6
+侹	ting5
+俬	si1
+剄	ging2
+剉	co3
+匽	jin2
+卼	ngat6
+厙	se3
+厘	lei4
+咺	hyun2
+咡	ji6
+咭	gat1 kat1
+咥	dit6 hei3
+哏	gan1 han2
+茍	gau2
+咷	tou4
+咮	zau3
+哅	hung1
+哆	ce2 ci2 do1
+咠	cap1
+呰	zi1 zi2
+咼	waa1
+咢	ngok6
+咾	lou1
+呲	zi1
+哞	mau4
+垵	am2
+垞	caa4
+垟	joeng4
+垤	dit6
+垌	dung6
+垝	gwai2
+垛	do2
+垔	jan1
+垚	jiu4
+垕	hau6
+奓	ce1 ci2 se1 zaa1 zaa3
+姞	gat1
+姮	hang4
+娀	sung1
+姱	kwaa1
+姝	zyu1 syu1
+姺	sin2
+姽	gwai2
+姼	ci2 si4
+姤	gau3
+屌	diu2
+峘	wun4
+峋	seon1
+峉	ngaak6
+峇	baa1
+峊	fau6
+峎	gan3
+巹	gan2
+帡	ping4
+帢	hap1
+帣	gyun3
+庤	zi6
+庢	zat6
+庛	ci3
+庣	tiu1
+庥	jau1
+弇	jim2
+弮	hyun1
+彖	teon3
+怹	taa1
+恔	haau6
+恲	paang1
+恓	sai1
+恇	hong1
+恉	zi2
+恛	wui4
+恌	tiu1
+恀	ci2
+恂	seon1
+扂	dim3
+扃	gwing2 gwing1
+拏	naa4 jyu4
+挎	fu1 kwaa3
+挃	zat6
+拫	han4
+挏	dung6
+挌	gaak3
+拶	zaat3
+挓	zaa1
+敁	dim1
+斿	jau4 lau4
+昶	cong2
+昡	jyun6
+昲	fai3
+昵	nik1
+昦	hou6
+昢	pui3
+昳	dit6 jat6
+昫	heoi2
+昺	bing2
+昝	zaan2
+昴	maau5
+朐	keoi4
+柁	to4 to5
+柲	bei3
+柈	bun6
+柜	gwai6 geoi2
+枻	jai6
+柸	pui1
+柘	ze3
+柀	bei2
+枷	gaa1
+柅	nei5
+柤	zaa1 zo2
+柟	naam4
+枵	hiu1
+柍	joeng1 joeng2
+枳	zi2
+柷	zuk1
+柶	si3
+柮	deot1
+柣	dit6
+柂	ji4 to4
+枹	fu1
+柎	fu1
+柧	gu1
+柰	noi6
+枲	saai2 sai2
+柼	jyut6
+柊	dung1
+柃	ling4
+欨	heoi2
+殂	cou4
+殄	tin5
+殶	zyu3
+毖	bei3
+毘	bei2 pei4
+氠	san1
+氡	dung1
+洨	ngaau4
+洴	ping4
+洭	hong1
+洟	ji4
+洼	waa1 gwai1
+洿	wu1
+洒	saa2 sai2
+洊	zin3
+泚	ci2
+洳	jyu6
+洄	wui4
+洙	zyu1
+洺	ming4
+洚	gong3
+洑	fuk6
+洀	zau1
+洏	ji4
+洇	jan1
+炷	zyu3
+炱	toi4
+炰	paau4
+牁	o1
+牉	pun3
+牮	zin3
+狨	jung4
+狫	lou5
+狟	wun4
+玅	miu6
+珌	bit1
+珂	o1
+珈	gaa1
+珅	san1
+瓬	fong2
+瓮	ngung1
+畇	wan4
+畈	faan3
+疧	kei4
+疪	ci1 ci4
+盄	diu3
+眈	daam1
+眄	min5
+眊	mou6
+盷	jyun4
+盻	hai6
+矧	can2
+砆	fu1
+砑	ngaa6
+砒	pei1
+砅	lai6
+砏	fan1
+砉	waak6
+祊	bang1
+祋	doi6
+祅	hin1 jiu1
+秕	bei2
+种	cung4
+秏	hou3
+秖	kei4 zi2
+窀	zeon1
+穾	jiu3
+竑	wang4
+籺	hat6
+籹	jyu5
+紃	ceon4
+紈	jyun4
+罘	fau4
+羑	jau5
+羍	taat3
+耇	gau2
+耎	jyun5
+耏	ji4
+耔	zi2
+耷	daap3
+胇	fat1
+胠	keoi1
+胈	bat6
+胂	san6
+胐	fei2
+胣	ci2
+胙	zou6
+胜	saang1
+胊	keoi4
+胕	fu1 fu4
+胉	bok3
+胏	zi2
+胗	zan1
+胍	gwaa1
+臿	caap3
+舡	gong1 syun4
+苙	lap1
+苾	bat6
+苹	ping4
+茇	pui3 baat6
+苨	nei5
+茀	but6 fat1
+苕	siu4 tiu4
+茺	cung1
+苫	sim1 sim3
+苖	miu4
+苴	zeoi1
+苡	ji5
+苲	zaa3
+苵	dit6
+茌	ci4
+苻	fu4
+苶	nip6
+苤	pei2
+苠	man4
+虷	gon1 hon4
+虼	gat1
+衁	fong1
+衎	hon3
+衧	jyu1
+衪	ji4
+衩	caa3
+觓	kau4
+訄	kau4
+訇	gwang1
+迣	lai6 lit6
+迮	zaak3
+郱	ping4
+邽	gwai1
+邿	si1
+郕	sing4
+郅	zat6
+邾	zyu1
+郇	seon1
+郋	hai4 ngai4
+郈	hau6
+釔	jyut3
+釓	gaa1
+陔	goi1
+陏	do6
+陑	ji4
+陓	jyu1 wu1
+陊	do6
+倞	loeng6
+倅	ceoi3 zeot1
+倓	daam6 taam4
+倢	zit3
+倛	hei1
+俵	biu2
+俴	cin5
+倳	zi3
+倷	noi6
+倬	coek3
+俶	cuk1 tik1
+俷	fai3
+倜	tik1
+倠	seoi1
+倧	zung1
+冔	heoi2
+冓	gau3
+凊	zing6
+凄	cai1
+凈	zeng6 zing6
+凎	gam3
+剡	jim5 sim6
+剚	zi3
+剒	cik3
+剞	gei1 gei2
+剕	fei6
+勍	king4
+唦	saa1
+哢	lung6
+唗	dau1
+哧	ci1
+哳	zaat3
+唚	cam3
+哿	go2 ho2
+唄	baai6 bui6
+唈	jap1
+哫	zuk1
+唑	zo6
+唅	ham3 ham4
+哱	but6
+哷	lyut3
+唎	li1
+唃	guk1
+圁	ngan4
+圂	wan6
+埌	long6
+堲	zik1
+埕	cing4
+埒	lyut3
+垺	fu1 pau4
+埆	kok3
+垽	ngan6
+垼	jik6
+垸	jyun6
+埇	cung1 jung2
+奊	hai5
+娙	jing4
+娖	cuk1
+娭	aai1 ngaai1
+孬	bou2
+宧	ji4
+宭	kwan4
+宬	sing4
+尃	fu1
+峬	bou1
+峿	jyu5
+峱	naau4
+崀	long5
+帩	ciu3
+帨	seoi3
+庮	jau4 jau5
+庪	gei2 gwai2
+弳	ging3
+弰	saau1
+彧	juk1
+恝	aat3 gaat3 ngaat3
+恚	wai6
+恧	nuk6
+恁	jam6
+悢	loeng6 long5
+悒	jap1
+悁	gyun1 gyun3
+悝	fui1
+悃	kwan2
+悕	hei1
+悛	syun1
+悗	mun4 mun5
+悇	tou4
+戙	dung6
+扆	ji2
+拲	gung2
+挐	naa4 naau4
+捖	gwaat3 jyun4
+捄	gau3 geoi1
+捅	tung2
+挶	guk6
+捃	kwan2
+挹	jap1
+捋	lyut3
+挼	no4
+挩	seoi3 tyut3
+挴	mui5
+捘	zyun3
+挭	gaang3
+旆	pui3
+旃	zin1
+旄	mou4 mou6
+旂	kei4
+晟	sing4
+朒	nuk6
+朓	tiu3 tiu5
+栟	bing1
+栚	zam6
+桉	ngon1 ngon3 on1 on3
+栲	haau2
+栳	lou5
+栻	sik1
+桋	ji4
+栖	cai1
+栱	gung2
+栜	saak3
+栵	lai6
+栫	zin3
+栭	ji4
+桎	zat6
+桄	gwong1 gwong3
+栴	zin1
+栝	gwaa1 kut3
+栒	ceon4 seon2
+栔	kai3
+栺	zi2
+欬	kat1 koi3
+欱	hap6
+歭	ci4
+肂	si3
+殈	gwik1
+毦	nei6
+毨	sin2
+毣	muk6
+毧	jung4
+氥	sai1
+浺	cung1
+浣	wun5
+浤	wang4
+浶	lou4
+浡	but6
+涒	tan1
+浢	dau6
+浭	gang1 gaang3
+浯	ng4
+淯	juk6
+浿	bui3
+涆	hon6
+浞	zok6 zuk1
+浠	hei1
+涗	seoi3
+浰	lei6 lin6
+浼	mui5
+浟	jau4
+涂	tou4 ceoi4
+涘	zi6
+烜	hyun2
+烝	zing1
+烋	haau1 jau1
+缹	fau2
+烔	tung4
+烚	hap6
+牂	zong1
+牸	zi6
+牷	cyun4
+狺	ngan4
+狴	bai6
+狾	zai3
+狶	hei1
+狳	jyu4
+狻	syun1
+猁	lei6
+珓	gaau3
+珙	gung2
+珥	ji5
+玼	ci2
+珧	jiu4
+珣	seon1
+珩	hang4
+瓞	dit6
+瓟	bok6
+瓴	ling4
+甡	san1
+畛	zan2
+畟	cak1
+疰	zyu3
+痁	dim3
+疻	zi2
+痄	zaa3
+痀	keoi1
+疿	fei2 fai6
+盉	wo4
+眛	mit6 mui6 mut6
+眐	zing1
+眕	zan2
+眙	ci3 ji4
+眚	saang2
+眢	jyun1
+砣	to4
+砬	laa1
+砢	lo2
+砵	but3
+砮	nou5
+砫	zyu2
+砳	laak6
+祔	fu6
+祛	keoi1
+祏	sek6
+祜	wu2
+祓	fat1
+秫	seot6
+秬	geoi6
+秠	pei1
+秭	zi2
+秜	nei4
+秝	lik6
+窆	bin2
+窅	jiu2
+窋	zyut3
+窌	gaau3
+窊	waa1
+竘	keoi5
+笐	hong4
+笄	gai1
+笓	pei4
+笏	fat1
+笈	kap1
+笊	zaau3
+粑	baa1
+紞	daam2
+紝	jam4
+紑	fau4
+紘	wang4
+紖	zan3
+紓	syu1
+紟	gam1 gam3
+紒	gai3
+罜	zyu3
+罡	gong1
+罠	man4
+罝	ze1
+罛	gu1
+羖	gu2
+羒	fan4
+翃	wang4
+翂	fan1
+翀	cung1
+耖	caau1
+耾	wang4
+耹	ling4
+胺	ngon1 on1
+胲	goi2
+胹	ji4
+胵	ci1 ci3
+脁	tiu3 tiu5
+胻	hang4
+脀	zing1
+舁	jyu4
+舯	zung1
+茳	gong1
+茭	gaau1
+荄	goi1
+茙	jung4
+荑	ji4 tai4
+荖	lou5
+荁	wun4
+茦	caak3
+茜	sai1 sin6
+茢	lit6
+荎	ci4
+茛	gan3
+茈	caai4 ci4 zi2
+茼	tung4
+荍	kiu4
+茖	gaak3 gok3
+茠	hou1 jau1
+茷	fat6 pui3
+茯	fuk6
+茩	hau6
+荇	hang6
+荅	daap3 taap3
+荓	ping4
+茬	caa4 ci4
+茧	gaan2
+荈	cyun2
+虓	haau1
+虒	si1
+蚢	hong4
+蚨	fu4
+蚖	jyun4
+蚍	pei4
+蚑	kei4
+蚋	jeoi6
+蚚	sik1
+蚡	fan4
+蚧	gaai3
+蚕	caam4
+蚘	wui4
+蚝	ci3
+衃	pui1
+衄	nuk6
+衭	fu1 fu3
+衵	jat6 nik1
+衲	naap6
+袀	gwan1
+衿	gam1 kam1
+衾	kam1
+訒	jan6
+豇	gong1
+豗	fui1
+豻	hon6 ngon6
+貣	tik1
+赶	gon2
+趵	paau3
+趷	gat6
+軑	daai6
+迾	laat6 lit6
+适	kut3
+迿	seon6
+迻	ji4
+逄	pong4
+郖	dau1 dau6
+郠	gang2
+郙	fu2
+郚	ng4
+郟	gaap3
+郘	leoi5
+郛	fu1
+郗	ci1
+郜	gou3
+郤	gwik1
+酐	gon1 hong5
+酎	zau6
+酏	ji4
+釕	liu5 liu6
+釢	naai5
+陜	haap6
+陟	zik1
+隼	zeon2
+飣	ding3
+髟	biu1
+鬯	coeng3
+偰	sit3
+偪	bik1
+偞	jip6
+偠	jiu5
+偓	ak1 ngak1
+偋	bing2
+偝	bui3
+偲	caai1 si1
+偈	gai2 gai6 git6
+偍	tai4
+偁	cing1
+偊	geoi2 jyu2
+偢	ciu2
+倕	seoi4
+偟	wong4
+偩	fu6
+偫	zi6
+剫	dok6
+剭	nguk1 uk1
+剬	tyun4 zai3
+剮	gwaa2
+勖	juk1
+匭	gwai2
+厜	seoi4
+啵	bo1
+啶	ding6
+唼	zaap3
+啍	teon1
+啐	ceoi3 seoi6
+唴	goeng6
+唪	baang6 fung2
+啑	dip6 saap3
+啢	loeng5
+唶	zaak3 ze3
+唵	am2
+唰	caat3
+啅	doek3
+唌	jin4
+唲	ji4 waa1
+啥	saa2
+啎	ng5
+啈	hang1
+啀	ngaai4
+啋	coi1
+圊	cing1
+圇	leon4
+埻	zeon2
+埶	ngai6 sai3
+埜	je5
+埴	zik6
+堀	fat1 gwat6
+埭	dai6
+埽	sou3
+埸	jik6
+堋	bang1 pang4
+埳	ham2 ham3
+埏	jin4 saan1
+堇	gan2
+埲	bong6 bung6 pung1
+埡	aa3 ngaa3
+堎	ling4
+埼	kei4
+埧	baa3
+堁	fo3
+堌	gu3
+堍	tou3
+堄	ngai6
+婠	wun1
+婘	gyun3 kyun4
+婕	cap1 zit3
+婧	zing6
+婞	hang6
+娸	hei1
+娵	zeoi1
+婭	aa3 ngaa3
+婐	o1 wo2
+婥	coek3
+婬	jam4
+婓	fei1 fei4
+婗	ngai4
+婄	pau3
+婑	wo2
+寀	coi2
+屙	ngo1
+崞	gwok3
+崋	waa4 waa6
+崝	zang1
+崚	ling4
+崠	dung3
+崌	geoi1
+崍	loi4
+崦	jim1
+崒	zeot1
+崟	jam4
+崮	gu3
+帴	zin1 zin2
+庹	tok3
+庳	pei5
+弶	koeng5
+弸	pang4
+徛	gei3
+悊	zit3
+悐	tik1
+悆	jyu6
+悾	hung1
+悰	cung4
+悺	gun3
+惓	gyun3 kyun4
+惔	daam6 taam4
+惏	laam4 lam4
+惙	zyut3
+惝	cong2 tong2
+惈	gwo2
+悱	fei2
+惛	fan1
+悷	lai6
+惊	ging6
+惀	leon4
+挲	so1
+捥	wun2
+掊	pau2 pau4
+掂	dim6 dim1
+捽	cyut3 zeot1
+掽	pung3
+掞	sim3
+掭	tim5 tim3
+掗	ngaa3 aa3 ngaa6
+掫	zau1
+掎	gei2
+捯	dou3
+掇	zyut3
+掐	haap3
+据	geoi1
+掯	kang3
+捵	can2 din2
+掜	ngai5 nip6
+捭	baai2
+掮	kin4
+捼	no4
+掤	bing1
+挻	saan1
+掟	deng3
+掁	caang2
+掍	gwan2 wan6
+旍	zing1
+晥	wun5
+晡	bou1
+晛	jin5
+晜	kwan1
+晢	zai3
+朘	zeoi1 zeon1
+桹	long4
+梐	bai6
+梜	gaap3
+桭	san4
+桮	bui1
+梮	guk6
+梫	caam1
+桯	ting1
+梣	sam4
+梩	lei4
+桵	jeoi4
+桴	fau4 fu1
+梲	zyut3
+梏	guk1
+桷	gok3
+桼	cat1
+桫	so1
+桲	but6
+梪	dau6
+梠	leoi5
+欶	sok3
+欷	hei1
+欸	aai2 ei6 oi1
+殑	ging6 king4
+殍	piu5
+氪	hak1
+淀	din6
+涫	gun3
+涴	wo3
+涳	hung1
+湴	baan6
+涬	hang6
+淩	ling4
+淢	wik6 gwik1
+涷	dung1 dung3
+淶	loi4
+淈	gwat1
+淠	pei3
+淟	tin2
+淖	naau6 zoek3
+涾	taap3
+淥	luk6
+淜	pang4 ping1
+淝	fei4
+淛	zit3
+淴	fat1
+涽	fan1
+淰	naam5 nam4 sam2
+淏	hou6
+烺	long5
+烷	jyun2
+焗	guk6
+烴	ting1
+焌	zeon3
+烰	fau4
+焄	fan1
+焐	ng6
+焓	ham4
+焂	suk1
+牾	ng5
+牼	hang1
+牿	guk1
+猝	cyut3
+猗	ji1
+猇	haau1
+猑	kwan1
+猘	zai3
+猊	ngai4
+狿	jin4
+猞	se3
+玈	lou4
+珸	ng4
+琄	jyun6
+琁	syun4
+珽	ting5
+琀	ham3
+珺	gwan6
+珼	bui3
+畤	zi6
+畣	daap3
+痎	gaai1
+痒	joeng4
+痏	fui2
+痌	tung1
+痐	wui4
+眹	zan2
+眯	mai4 mai5 mei1
+眭	seoi1
+眱	ji4
+眲	nei6 ngak1
+眴	hyun3 jyun6 seon1
+眳	ming4
+眽	mak6
+眥	zaai6 zi6
+眵	ci1
+硒	sai1
+硉	leot6
+硌	gok3 lok6
+砦	zaai6
+硅	gwai1
+硐	dung6
+祧	tiu1
+祫	haap6
+离	lei4
+秺	dou6
+秸	gaai1
+窔	jiu2
+窐	waa1
+笵	faan6
+筇	kung4
+笴	go2
+笥	zi6
+笰	fat1
+笤	tiu4
+笳	gaa1
+笘	sim1
+笪	daat3
+笱	gau2
+笫	zi2
+笭	ling4
+笯	nou4
+笲	faan4
+笸	po2
+粔	geoi6
+粘	zim1 nim4
+粣	saan2
+紵	cyu5
+紽	to4
+紸	zyu3
+紺	gam3
+絅	gwing2
+紬	cau1 cau4
+紩	dit6
+絁	si1
+絇	keoi4
+紾	zan2
+紿	doi6
+罣	gwaa3
+羕	joeng6
+羜	cyu5
+羝	dai1
+羛	hei3 ji6
+翊	jik6
+翋	laap6
+翍	pei1
+翐	dit6
+翏	lau6 liu4
+耞	gaa1
+聃	daam1
+脘	wun2
+脥	haap3
+脛	ging3 hing5
+脭	cing4
+脟	lyut3
+脬	paau1
+脞	co2
+脡	ting5
+脕	maan5 maan6
+脧	zeoi1 zeon1
+脝	hang1
+脢	mui4
+舸	go2 ho2
+舳	zuk6
+舺	gaap3
+舴	zaak3
+舲	ling4
+艴	fat1
+莨	loeng4 long4
+荺	wan5
+荳	dau6
+荴	fu1
+莏	co1
+莙	gwan1
+荵	jan2
+莩	fu1 piu5
+荽	seoi1
+莌	tyut3
+莝	co3
+莛	ting4
+莪	ngo4
+莋	zok6
+荾	seoi1
+莰	ham2
+莚	jin4
+虙	fuk6
+虖	fu1 fu4
+蚿	jin4
+蚷	geoi6
+蛁	diu1
+蛅	jim4 zim1
+蚺	jim4 naam4
+蚰	jau4
+蚹	fu6
+蚳	ci4
+蛌	gu2
+蚴	jau3
+蚻	zaat3
+袨	jyun6
+袢	paan3
+袪	keoi1
+袚	fat1
+袑	siu6
+袟	dit6
+袘	ji4
+袧	gau1
+袛	dai1 zi1
+袗	zan2
+袤	mau6
+袌	pou5
+袓	zou2
+覂	fung2
+觖	kyut3
+觕	cou1
+訧	jau4
+訬	caau2
+谹	wang4
+豜	gin1
+豝	baa1
+趼	gaan2 gin2
+跂	kei4 kei5
+趹	kyut3
+趿	saap3 taat3
+軘	tyun4
+軝	kei4
+軜	naap6
+逋	bou1
+逑	kau4
+逌	jau4
+逡	seon1
+郯	taam4
+郪	cai1
+郴	sam1
+郲	loi4
+郫	pei4
+酖	daam1 zam6
+酘	tau4
+酚	fan1
+酕	mou4
+釬	hon6
+釱	daai6 dai6
+釤	saam1 sin3
+釹	neoi5
+釷	tou2
+镺	ou2
+閆	jim4
+閈	hon6
+陼	zyu2
+陭	ji2 kei1
+陫	fei2
+靪	ding1
+頄	kwai4
+飥	tok3
+馗	kwai4
+傛	jung4 jung6
+傕	gok3
+傔	him3
+傞	co1
+傣	daai2 taai3
+傃	sou3
+傌	maa6
+傎	din1
+偨	ci1 zi1
+傜	jiu4
+傒	hai4 hai6
+傂	zi6
+兟	san1
+凔	cong1
+匒	daap3
+厤	lik6
+喑	jam1 ngam6
+喨	loeng6
+喭	jin6
+啷	long1
+噅	ngai1
+喢	saap3
+喓	jiu1
+喈	gaai1
+喵	miu1
+喁	jung4 jyu4
+喣	heoi2
+喒	zaa1
+喤	wong4
+啽	ngam4
+喌	zau1
+喦	ngaam4
+喎	waa1 wo3 wo5
+圌	cyun4 seoi4
+堩	gang2
+堙	jan1
+堞	dip6
+堧	jyun4
+堨	aat3 ngaat3 ngoi2 oi2
+埵	do2 do3
+塈	hei3 kei3
+堳	mei4
+堿	haam4 ham3
+堶	to4
+堮	ngok6
+媯	gwai1
+媔	min4
+媟	sit3
+婺	mou6
+媢	mou6
+媞	tai4
+媦	wai6
+婼	coek3 joek6
+媥	pin1
+媕	ngam1 am1
+媮	jyu4 tau1
+媌	maau4
+寪	wai2
+寍	ning4 ning6
+寔	sat6
+寑	cam2
+寎	bing2
+尰	zung2
+崷	cau4
+嵫	zi1
+嵁	ham1
+嵋	mei4
+崿	ngok6
+嵑	hot3 kit3
+嵎	jyu4
+嵕	zung1
+崺	ji5
+嵒	ngaam4
+崽	zoi2
+崱	zak1
+嵂	leot6
+幄	ngak1 ak1
+彘	zi6
+惉	zim1
+悹	gun3
+惌	jyun1
+惢	so2
+惎	gei6
+惄	nik6
+愔	jam1
+惲	wan6
+愊	bik1
+愅	gaak3
+惵	dip6
+愓	dong6 soeng1
+惸	king4
+惼	bin2
+惾	zung1
+愐	min5
+愋	wun4
+扊	jim5
+掔	haan1
+掱	paa4
+掰	baai1
+揎	syun1
+揥	dai3
+揃	zin1 zin2
+撝	fai1
+揳	sip3 sit3
+揊	bik1
+揠	aat3
+揶	je4
+揕	zam3
+揲	dip6 sit3
+揵	gin6 kin4
+揝	zaan6
+揜	jim2
+揄	jiu5 jyu4
+揇	naam5
+揌	sak1
+揰	cung3
+揗	tan4
+敧	kei1
+敜	nip6
+斌	ban1
+斝	gaa2
+斞	jyu5
+斮	zoek3
+旐	siu6
+旒	lau4
+晼	jyun2
+晬	zeoi3
+晻	am2 am3 ngam3
+椌	hong1
+棓	bui6 paang5
+椄	zip3
+棜	jyu3
+椪	pung3
+棬	hyun1
+棱	ling4
+椏	aa1 ngaa1
+棖	caang2
+棷	sau2 zau1
+棫	wik6
+棶	loi4
+椓	doek3
+椐	geoi1
+棡	gong3
+椇	geoi2
+椈	guk1
+楰	jyu4
+梴	cin1
+椑	bei1 pei4
+棯	nim1 nim6
+棸	zau1
+棐	fei2
+棽	cam1
+棼	fan1 fan4
+棨	kai2
+椋	loeng4
+椗	ding3
+棑	paai4
+棔	fan1 gwaa1
+椥	zi1
+欹	ji1 kei1
+欻	fat1
+欿	ham2
+殙	fan1
+殽	ngaau4
+毰	pui4
+毳	ceoi3
+氰	cing1
+淼	miu5
+湆	jap1
+湇	jap1
+渟	ting4
+溈	gwai1
+渼	mei5
+渽	zoi1
+湅	lin6
+湢	bik1
+渫	sit3
+湝	gaai1
+渜	nyun5
+渳	mai5
+湋	wai5
+湑	seoi1 seoi2
+渻	saang2 sing2
+渃	joek6
+湞	zing1
+湨	gwik1
+湜	sat6 zik6
+湡	jyu4
+渨	wui1
+湱	waak6
+湫	zau1 ziu2
+渹	gwang1
+渢	fung1
+渰	jim2
+湓	pun4
+渧	dai3
+焠	ceoi3 seoi6
+焞	seon4
+焯	coek3
+烻	jin3
+焮	jan1
+焱	jim6
+牋	zin1
+牚	caang1
+犉	seon4
+犆	dat6 zik6
+犅	gong1
+犋	geoi6
+猒	jim3 ngaat3
+猋	biu1
+猰	jaak3
+猢	wu4
+猱	naau4
+猧	wo1
+猲	hit3 hot3
+猵	bin1
+琮	cung4
+琬	jyun2
+琰	jim5
+琫	bung2
+琖	zaan2
+琚	geoi1
+琭	luk6
+琱	diu1
+琤	zaang1
+琲	pui3
+瓻	ci1
+甯	ning4 ning6
+畯	zeon3
+畬	jyu4 se4
+痧	saa1
+痡	fu1 pou1
+痦	ng6
+痟	siu1
+痤	co4
+痗	mui6
+皕	bik1
+睆	wun2
+睇	tai2
+睄	ciu4 saau3
+睍	jin5
+睅	hon6
+睊	gyun3
+睎	hei1
+睋	ngo4
+矞	wat6
+矬	co4
+硠	long4
+硤	haap6
+硜	hang1
+硭	mong4
+硪	ngo4
+确	kok3
+硩	zit3
+硨	ce1
+祴	goi1
+祲	zam1
+稂	long4
+稊	tai4
+稃	fu1
+稌	tou4
+竦	sung2
+筊	gaau2
+笻	kung4
+筄	jiu6
+筈	kut3
+筌	cyun4
+筀	gai3
+筘	kau3
+筅	sin2
+粢	zi1
+粞	sai1
+絘	ci3
+絯	goi1
+絣	bang1
+絓	gwaa3
+絖	kong3 kwong3
+絪	jan1
+絏	sit3
+絭	gyun3
+絜	git3 kit3
+絫	leoi5
+絎	hong4
+缾	ping4
+缿	hong6
+罥	gyun3
+罦	fau4 fu1
+羢	jung4
+羠	ji4
+羡	sin6 jin4
+聏	ji4
+聐	gat1
+胔	zi3
+腊	sik1
+腒	geoi1
+腏	zyut3
+腇	neoi5
+脽	seoi4
+腍	jam6 nam4
+臷	dit6
+舄	sik1
+菏	go1 ho4
+菹	zeoi1
+菀	jyun2
+菼	taam2
+菶	bung2
+萐	saap3
+菆	zau1
+莿	ci3
+萁	gei1 kei4
+菥	sik1
+菘	sung1
+菡	haam5
+菋	mei6
+菎	kwan1
+菖	coeng1
+菵	mong5
+菉	luk6
+萏	daam6
+萑	wun4
+萆	bei1
+菂	dik1
+菕	leon4
+菺	gin1
+菇	gu1
+菑	zi1 zoi1
+菪	dong6
+菻	lam4
+菢	bou6
+菾	tim4
+蛘	joeng4 joeng5 mai5
+蛓	ci3
+蛣	kit3
+蛚	lit6
+蛜	ji1
+蛬	gung2
+蛩	kung4
+蛑	mau4
+衈	nei6
+衖	hong6 lung6
+衕	dung6 tung4
+袺	git3
+裀	jan1
+袾	zyu1
+袼	gok3
+袷	gaap3
+袽	jyu4
+袲	ji4
+裉	kang3
+覘	zim1
+覗	zi6
+觝	dai2
+觚	gu1
+詎	geoi6
+詍	jai6
+詀	cip3 zaam1
+詗	gwing2 hing3
+詘	wat1 zeot1
+詄	dit6
+詅	ling4
+詒	doi6 ji4
+詈	lei6
+貺	fong3
+貰	sai3
+趄	cit3 zeoi1
+跇	jai6
+跖	zek3
+跏	gaa1
+跕	dip6 tip3
+跙	zeoi1
+跈	nin2
+跗	fu1
+跅	tok3
+軯	paang1
+軷	bat6
+軺	jiu4
+軹	zi2
+軮	ong3
+軥	keoi4
+軵	fu2 jung5
+軧	dai2
+軨	ling4
+軶	ngaak1 aak1
+軫	zan2
+軱	gu1
+軬	faan6
+逭	wun6
+逴	coek3
+逯	luk6
+鄆	wan6
+鄬	wai4
+鄄	gyun3
+郿	mei4
+郼	ji1
+郹	gwik1
+鄀	joek6
+鄇	hau6
+鄅	jyu5
+鄃	syu1
+酡	to4
+酤	gu1
+酟	tim1
+酢	zok6
+鈁	fong1
+鈥	fo2
+鈃	jing4 gin1
+鈦	taai3
+鈀	baa2 paa4
+鈒	zaap6 kap1
+釿	gan1
+釽	pik1
+鈆	jyun4
+鈄	dau2
+鈧	kong3
+閌	kong3
+隈	wui1
+隉	nip6
+隃	jyu4
+雈	wun4
+雱	pong4
+雰	fan1
+靬	gin1
+靰	wu1
+靮	dik1
+頇	hon1
+颩	biu1
+飫	jyu3
+鳦	jyut3
+黹	zi2
+亶	taan2
+僆	lin5
+傮	cou4 zou1
+僄	piu3
+僊	sin1
+傴	jyu2
+僈	maan6
+僂	lau4
+傺	cai3
+傱	sung2
+僉	cim1
+傶	cau3
+剺	lei4
+剸	tyun4
+嗃	haau1 haau3 hok3
+嗛	ham4 him1 hip3
+嗌	aai3 jik1 ngaai3
+嗐	hoi6
+嗋	hip3
+嗊	gung3 hung2
+嗝	gaak3
+嗀	hok3
+嗔	can1
+嗄	aa2 saa3
+嗩	so2
+嗒	daap1 daat3 taap3
+嗏	caa1
+嗢	wat1
+嗖	sau1
+嗈	jung1
+嗲	de1 de2
+嗍	sok3
+嗙	pong3
+塨	gung1
+塤	fan1 hyun1
+塏	hoi2
+塍	sing4
+塕	jung2
+塙	kok3
+塥	gaak3
+堽	gong1
+塱	long5
+壼	kwan2
+嫇	ming4
+嫄	jyun4
+嫋	niu5 niu1
+媺	mei5
+媸	ci1
+媵	jing6
+媰	co4
+媿	kwai3 gwai2
+嫈	jing1
+媻	pun4
+媐	hei1
+寖	zam3
+寘	tin4 zi3
+寙	jyu5
+尟	sin2
+嵱	jung4
+嵊	sing6
+嵬	ngai4
+巰	kau4
+幏	gaa3
+幎	mik6
+幋	pun4
+廌	zaai6 zi6
+廆	gwai1 wai2
+廋	sau1
+廇	lau6
+彀	gau3
+徯	hai4
+徭	jiu4
+惷	ceon2
+慉	cuk1
+慊	him3 hip3
+愫	sou3
+慅	cou2 sou1
+愲	gwat1
+慆	tou1
+酨	zoi6
+戣	kwai4
+戥	dang6 dang2
+戤	koi3
+揅	jin4
+揱	sok3 siu1
+揫	zau1
+搐	cuk1
+搒	pong3
+搉	kok3 kok1
+搠	sok3
+搤	ngak1 ak1
+搳	hat6
+摃	gong1
+搕	hap6
+搹	ngak1 ak1
+搷	tin4
+搢	zeon3
+搣	mit1
+搌	zin2
+搦	nik1 nok6
+搰	wat6
+搨	taap3
+摁	ngon3 on3
+搵	wan2 wan3
+搯	tou1 tou4
+搊	cau1
+搚	lap6
+摀	wu2
+搥	ceoi4
+搧	sin3
+搋	caai1
+搛	gim1
+搡	song2
+搎	syun1
+斒	baan1
+旓	saau1
+暌	kwai4
+暐	wai5
+暋	man5
+楦	hyun3
+椸	ji4
+楎	fai1 wan4
+楢	jau4
+楱	cau3
+椿	ceon1
+楅	bik1
+楪	dip6 jip6
+椹	sam6 zam1
+楂	zaa1 caa4
+楗	gin6
+楙	mau6
+楉	joek6
+椵	gaa1 gaa2
+楬	kit3
+椳	wui1
+椽	jyun6 cyun4
+楥	hyun3 jyun4
+棰	ceoi4
+楸	cau1
+椴	dyun6
+楩	pin4
+楀	jyu5
+楯	teon5 seon5
+楄	pin4
+楶	zit3
+楘	mou6
+椷	gaam1
+歆	jam1
+歅	jan1
+歃	saap3
+歂	cyun2 cyun4
+歈	jyu4
+殛	gik1
+嗀	hok3
+毼	hot3
+毹	syu1
+毷	mou6
+毸	soi1
+滈	hou6
+溏	tong4
+滀	cuk1
+溟	ming4
+溓	lim5 lim4
+溔	jiu5
+溠	zaa3
+溱	ceon4 zeon1
+滆	gaak3
+滒	go1
+溽	juk6
+滁	cyu4
+滉	fong2
+溷	wan6
+滍	zi6
+溦	mei4
+溲	sau1
+滃	jung1 jung2
+滘	gaau3
+溎	gwai3
+溳	wan4
+滊	hei3
+溮	si1
+煇	fai1 wan6
+煔	sim2
+煒	wai5
+煣	jau2
+煠	zaa3
+煁	sam4
+煝	mei6
+煲	bou1
+煸	pin1
+煟	wai6
+煚	gwing2
+牏	jyu4 tau4
+犍	gin1
+犎	fung1
+猼	bok3 pok3
+獂	wun4
+猻	syun1
+獀	sau1
+獉	zeon1
+瑄	syun1
+瑊	zam1
+瑋	wai5
+瑒	coeng3 dong6 joeng4
+瑑	syun6
+瑗	jyun6
+瑀	jyu5
+瑂	mei4
+瑆	sing1
+瓿	pau2
+瓽	dong6
+甝	hon4
+畹	jyun2
+畷	zyut3
+榃	dam4
+痯	gun2
+瘏	tou4
+瘃	zuk6
+痾	ngo1 o1
+痼	gu3
+痹	bei3
+瘐	jyu5
+痻	seon6
+痶	din2
+痵	gwai3
+皙	sik1
+皵	coek3
+盝	luk6
+睕	jyun2 waan1
+睟	seoi6
+睠	gyun3
+睒	sim2
+睖	ling6
+睚	ngaai4
+睩	luk1
+睔	gwan3
+睭	zau2
+碇	ding3
+碚	pui5
+碔	mou5
+碏	coek3
+碕	kei4
+碅	kwan1
+碆	bo1
+碡	duk6
+碙	gong1
+祼	gun3
+稑	luk6
+稘	gei1
+稙	zik6
+稒	gu3
+稗	pei4 baai6 bai6
+稛	kwan2
+窣	seot1
+窢	wik6
+窞	daam6
+竫	zing6
+筦	gun2
+筤	long4
+筭	syun3
+筴	caak3 gaap3
+筩	tung4
+筲	saau1
+筥	geoi2
+筳	ting4
+筱	siu2
+筰	zok6
+筸	gon2
+粲	caan3
+綈	tai4
+綆	gang2
+綍	fat1
+絿	kau4
+綅	cim1
+絺	ci1
+綎	ting4
+絻	man6
+綃	siu1
+絼	zi6
+綌	gwik1
+罭	wik6
+罫	gwaai2 waa6
+罧	sam1
+罨	jim2 ngap1
+羦	wun4
+羥	coeng1 koeng5
+羧	so1
+翛	siu1
+耡	co4
+腤	am3 ngam3
+腠	cau3
+腷	bik1
+腜	mui4
+腩	naam5 naam3
+腛	ak1 ngak1
+腢	ngau5
+腲	wai2
+朡	zong1
+腞	syun6
+腶	dyun3
+腧	syu6
+腯	dat1
+腄	ceoi4
+腡	lo4
+舝	hat6
+艉	mei5
+艄	saau1
+艅	jyu4
+蓱	ping4
+葖	dat6
+葶	ting4
+葹	si1
+蒍	wai2
+葑	fung1
+葧	but6
+葍	fuk1
+葽	jiu1
+葚	sam6
+葙	soeng1
+葴	zam1
+葳	wai1
+蔇	gei3
+萷	siu1
+萴	zak1
+葺	cap1
+葸	saai2
+萲	hyun1
+葅	zeoi1
+萩	cau1
+菙	ceoi4
+萭	geoi2 jyu5
+葰	seoi1 zeon3
+萹	bin1
+葎	leot6
+葌	gaan1
+葒	hung4
+葯	joek6
+蒎	paai3
+葇	jau4
+葄	zou6
+葠	sam1
+蜋	long4
+蛷	kau4
+蜌	bai6
+蛺	gaap3
+蝍	zik1
+蛸	saau1 siu1
+蜎	jyun1
+蜉	fau4
+蜍	cyu4 syu4
+蜅	fu2
+裖	zan3
+裋	syu6
+裎	cing4
+裞	seoi3
+裛	jap1
+裌	gaap3
+覛	mak6 mik6
+觟	haai6 waa6
+觥	gwang1
+觡	gaak3
+觜	zeoi2 zi1
+詶	cau4 zau3
+誆	hong1
+詿	gwaa3
+詡	heoi2
+訿	zi2
+誂	diu3 tiu1
+誄	leoi6 loi6
+詵	san1
+誃	ci2
+谼	hung4
+豊	lai5
+豤	han2
+貆	wun4
+貅	jau1
+賌	goi1
+赨	cung4 tung4
+赩	sik1
+趑	zi1
+趌	gat6
+趎	zyu1
+趍	ceoi1
+趔	lit6
+跰	pin4
+跠	ji4
+跬	kwai2
+跱	si6
+跮	ci3
+跐	caai2 ci2
+跩	jai6
+跣	sin2
+跧	cyun4
+跲	gaap3
+跫	kung4
+跴	caai2
+軿	ping4
+輁	gung2
+輀	ji4
+輅	lou6
+輇	cyun4
+輈	zau1
+輂	guk6
+輋	ce4
+遒	cau4
+逿	dong6 tong4
+遄	cyun4
+遉	zing1
+鄐	cuk1
+鄍	ming4
+鄏	juk6
+鄑	zi1
+鄖	wan4
+鄔	wu1
+鄋	sau1
+鄎	sik1
+酮	tung4
+酯	zi2
+鉈	taa1 to4
+鉒	zyu3
+鈰	si5
+鈺	juk6
+鉦	zing1 zing3
+鈳	ko1
+鉥	seot6
+鉞	jyut6
+銃	cung3
+鈮	nei6
+鉆	zyun3
+鉭	daan3
+鉬	muk6
+鉏	ceoi4 co4
+鉠	joeng1
+鉌	wo4
+閟	bei3
+閜	haa1 ho2
+閛	ping1
+隒	jim2
+隑	goi1 kei4
+隗	kwai4 ngai5
+雎	zeoi1
+雺	mung4
+靳	gan3
+靷	jan5
+靸	saap3 taat3
+靲	kam4
+頏	hong4
+頍	kwai2
+頎	kei4
+颬	haa1
+飶	bit1
+馯	hon4 hon6
+馲	tok3
+馵	zyu3
+骭	gon3
+骫	wai2
+魛	dou1
+鳭	diu1 dou1
+鳧	fu4
+麀	jau1
+黽	man5
+僦	zau6
+僔	zyun2
+僗	lou4
+僨	fan5
+僳	leot6 suk1
+僛	hei1
+僝	saan4
+僤	daan6
+僓	teoi4
+僬	ziu1
+凘	si1
+劀	gwaat3
+劁	ziu1
+勩	jai6 ji6
+匰	daan1
+厬	gwai2
+嘧	mat6
+嘕	hin1
+嘌	piu1 piu3
+嘒	wai3
+嘏	gaa2 gu2
+嘜	mak1
+嘁	ci1
+嘓	gwok3
+嘂	giu3
+嗺	ceoi1
+嘝	huk6
+嗿	taam2
+嗹	lin4
+墉	jung4
+塼	zyun1
+墐	gan2 gan6
+墆	dai3 dit6
+墁	maan6
+塿	lau4 lau5
+墋	cam2
+塺	mo6 mui4
+墑	soeng1
+墎	gwok3
+墈	ham3
+奫	jyun1
+嫜	zoeng1
+嫮	wu6
+嫥	zyun1
+嫕	ji3
+嫪	lou6
+嫚	maan6
+嫭	wu6
+嫫	mou4
+嫳	pit3
+嫢	kwai1
+嫠	lei4
+嫛	ji1
+嫟	nik1
+寠	geoi6 lau4
+寣	fu1
+屣	saai2
+嶂	zoeng3
+嶁	lau5
+嵷	zung1 sung2
+嵾	cam1
+嶍	zaap6
+嵹	koeng4
+幘	zik1
+幙	mok6
+幓	saam1
+廑	gan2 kan4
+廎	king2
+廕	jam3
+廙	ji6
+廒	ngou4
+廔	lau4
+彄	kau1
+彃	bat1
+彯	piu1
+徶	pit3
+愬	sou3
+愨	kok3
+慁	wan6
+慞	zoeng1
+慱	tyun4
+慳	haan1
+慓	piu5
+慬	kan4
+憀	liu4
+慴	sip3
+慺	lau4
+慥	cou3 zou6
+慪	au1 ngau1
+戩	zin2
+戧	coeng3
+戫	juk1
+摛	ci1
+摝	luk6
+摴	syu1
+摶	tyun4
+摲	saam3
+摳	kau1
+摽	piu1 piu5
+摵	cik1 saak3
+摦	waa6
+撦	ce2
+摎	gau1 lau4
+撂	liu1
+摞	lo3
+摜	gwaan3
+摋	saat3
+摓	fung4
+摠	zung2
+摐	cung1
+搿	gaap3 gap3
+摙	lin5
+摷	ziu6
+斠	gaau3 gok3
+暠	hou6
+朅	kit3
+朄	jan5
+朢	mong6
+榱	ceoi1
+榠	ming4
+槎	caa4
+榖	guk1
+榬	jyun4
+榼	hap6
+榑	fu4
+榎	gaa2
+榧	fei2
+榍	sit3
+榾	gwat1
+榯	si4
+榿	hei1
+槄	tou1
+榤	git6
+槔	gou1
+槊	sok3
+榳	ting4
+榪	maa6
+榥	fong2
+歊	hiu1
+歍	wu1
+殞	wan5
+殟	wan1
+殠	cau3
+毄	gai3 gik1
+毾	taap3
+滎	jing4
+滵	mat6
+滱	kau3
+漃	zik6
+漥	waa1
+滸	fu2 heoi2 wu2
+漷	gwok3
+滻	caan2
+漉	luk6
+潎	pit3
+漙	tyun4
+漚	ngau1 au1 au3 ngau3
+漧	gon1
+漘	seon4
+漻	lau4 liu4
+漒	koeng5 koeng2
+滭	bat1
+漊	lau4
+漶	waan6
+滹	fu1
+滮	biu1
+漭	mong5
+潀	zung1
+漰	paang1
+漼	ceoi2
+漵	zeoi6
+滫	sau1 sau2
+漎	cung4 sung2
+滶	ngou4
+漈	zai3
+熇	huk6 hok3
+熀	fong2
+熅	wan1
+熏	fan1
+煻	tong4
+熗	coeng3
+牓	bong2
+犗	gaai3
+犓	co1
+獃	daai1 ngoi4
+獍	ging3
+獑	caam4
+獌	maan6
+瑢	jung4
+瑳	co1
+瑱	zan3 tin3
+瑵	zou2
+瑲	coeng1
+瑧	zeon1
+瑮	leot6
+甀	zeoi6
+甂	pin1
+甃	zau3
+畽	teon2
+疐	zi3 dai3
+瘖	jam1
+瘈	kai3 zai3
+瘌	laat6
+瘕	gaa2 haa4
+瘊	hau4
+皸	gwan1
+瞅	cau2
+瞂	fat6
+睮	jyu4
+瞀	mau6
+睾	gou1
+碲	dai3
+碪	zam1
+碴	zaa1
+碭	dong6
+碨	wai3
+硾	zeoi6
+碫	dyun3
+碞	ban2
+碥	bin2
+禘	dai3
+禊	hai6
+禋	jan1
+禖	mui4
+禕	ji1
+禔	tai4
+禓	joeng4
+禗	si1
+穊	gei3
+稯	zung1 zung3
+窨	fan1 jam3
+窫	jaak3
+窬	jyu4
+竮	ping4
+箈	ci4
+箜	hung1
+箑	saap3 zit6
+箐	zing1
+箍	ku1
+箛	gu1
+箎	ci4
+箅	bei3
+箘	kwan3
+劄	zaap3
+箙	fuk6
+粻	zoeng1
+粼	leon4
+粺	baai6 bai6
+綧	zeon2
+綷	ceoi3
+緂	taam1
+綣	hyun3
+綪	sin6 zang1
+緅	zau1
+綝	sam1
+緎	wik6
+緄	gwan2
+緆	sik1
+緋	fei1
+緌	jeoi4
+綯	tou4
+綹	lau5
+綖	jin4 ting1
+綼	bik1
+綟	lit6
+綦	kei4
+綮	hing3 kai2
+緉	loeng5
+罳	si1
+翣	saap3
+翥	zyu3
+耤	zik6
+膉	jik1
+膆	sou3
+膃	wat1
+膇	deoi3 zeoi6
+膍	pei4
+膌	zek3
+膋	liu4
+舕	taam3
+蒗	long6
+蒡	bong2
+蒟	geoi2
+蒺	zat6
+蓂	ming4
+蒹	gim1
+蒴	sok3
+蓁	zeon1
+蓍	si1
+蒪	pok3
+蒱	pou4
+蓐	juk6
+蒧	dim2
+蒻	joek6
+蒔	si4
+蓇	gwat1
+蒯	gwaai2
+蒨	sin6
+蓖	bai3 bei1 bei6
+蒶	fan4
+蓏	lo2
+蒠	sik1
+虡	geoi6
+蜣	goeng1
+蜨	dip6
+蝀	dung1 dung3
+蜮	wik6
+蜞	kei4
+蜡	zaa3
+蝃	dai3
+蜾	gwo2
+蜭	ham5
+蜼	wai2
+蜒	jin4
+蜺	ngai4
+蜱	pei4
+蝂	baan2
+蜚	fei1 fei2
+蜰	fei4
+蜑	daan6
+裷	gwan2
+裧	sim4
+裱	biu2
+裲	loeng5
+裺	jim2
+裾	geoi1
+裼	sik3
+裻	duk1
+裰	zyut3
+覡	hat6
+觩	kau4
+觫	cuk1
+誙	hang1
+誋	gei6
+誒	e6
+誖	bui6
+谽	ham1
+豨	hei1
+賕	kau4
+踉	loeng4 long4
+跿	tou4
+跽	gei6
+踊	jung2
+踆	cyun1 seon1
+踅	cyut3 ci3 zai6
+輐	wun6
+鄣	zoeng1
+鄜	fu1
+鄠	wu6
+鄢	jin1
+鄟	zyun1
+鄝	liu5
+鄚	mok6
+鄤	maan6
+鄡	hiu1
+鄛	caau4
+酺	pou4
+酲	cing4
+酹	laai6 lyut3
+酳	jan6
+銥	ji1
+鉶	jing4
+銛	cim1
+鉺	ji5
+銠	lou5
+銪	jau5
+銍	zat6
+銦	jan1
+銚	diu6 jiu4
+銫	sik1
+銗	hau4
+鉿	haa1 hap6
+銣	jyu4 jyu6
+鋮	sing4
+銎	kung4
+銕	tit3
+銙	kwaa1
+銩	diu1
+銋	jam4
+隞	ngou4
+靽	bun3
+靺	mut6
+鞃	wang4
+鞀	tou4
+靻	zou2
+鞄	paau4 pok3
+鞁	bei6
+靿	aau3 ngaau3
+韍	fat1
+頖	pun3
+颭	zim2
+颮	biu1
+餂	tim5
+馝	bit6
+駃	kyut3
+馹	jat6
+馺	saap3
+駂	bou2
+馽	zap1
+骱	gaai3
+髣	fong2
+髧	daam6 dam3
+鬾	gei6
+鬿	kei4
+魠	tok3
+魟	gung1 hung4
+鳱	gon1 hon6
+鳲	si1
+僿	si1
+儃	sin4
+僸	gam3
+儆	ging2
+儇	hyun1
+僶	man5
+僾	ngoi3 oi5
+儋	daam1
+儌	giu1 giu2
+僽	zau3
+劌	gwai3
+勱	maai6
+噂	zyun2
+噌	zang1 cang1
+嘵	hiu1
+噁	ngok1 ok3
+噉	daam6 gam2
+噆	cam2 zam2
+噘	kyut3
+噚	cam4
+噀	seon3
+嘳	kwaai3
+嘽	cin2 taan1 zin2
+嘬	caai3 zyut3
+嘸	fu2 mou5
+墫	cyun4 deon1
+墝	haau1
+墱	dang3
+墣	pok3
+墯	do6 fai1
+墬	dei6
+壿	cyun4 deon1
+嫿	waak6
+嫽	liu4
+嫶	ciu4 ziu1
+嬃	seoi1
+嬅	waa4
+屧	sit3
+嶙	leon4
+嶗	lou4
+嶒	cang4
+嶢	jiu4
+嶓	bo1
+嶕	ciu4
+嶠	giu6 kiu4
+嶜	zam1
+嶚	liu4
+嶞	do6
+幩	fan4
+幝	cin2
+幠	fu1
+幜	ging2
+廛	cin4
+廡	mou5
+彉	kwok3
+憋	bit3
+憃	zung1
+慹	zap1 zip3
+憛	taam4
+憓	wai6
+憯	caam2
+憭	liu4 liu5
+憒	kui2
+憪	haan4 haan6
+憍	giu1
+戭	jan5 jin2
+摰	zi3 jit6
+撖	hon6
+撠	gik1
+撅	gwat6 kyut3
+撜	caang2 cing2
+撏	cam4 cim4
+撋	jeon6 no4
+撊	haan6
+撌	gwai6
+撣	daan1 daan6 sin6
+撟	giu2
+敺	keoi1
+敹	liu4
+敻	hing3 hyun3
+斲	doek3
+斳	kan4
+暵	hon3
+樗	syu1
+槥	seoi6 wai6
+樕	cuk1
+槱	jau5
+槤	lin4
+樠	mun4
+槿	gan2
+槬	waa6
+槢	zaap6
+樛	gau1
+樝	zaa1
+槾	maan6
+樧	saat3
+槲	huk6
+槮	sam1
+樔	caau4 ziu2
+槷	jit6
+槧	cim3
+槻	kwai1
+槼	kwai1
+樏	leoi4
+樖	po1
+歑	fu1
+殥	jan4
+殣	gan2
+殢	tai3
+氀	leoi4
+毿	saam1
+氂	lei4
+潁	wing6
+漦	lei4
+潾	leon4
+澇	lou4 lou6
+濆	pan3 fan4
+澒	hung6
+澍	syu6
+澉	gam2
+潢	wong4
+潏	wat6 kyut3
+潚	siu1
+澂	cing4
+潕	mou5
+潲	saau3
+潒	dong6
+澔	hou6
+潝	kap1
+潫	waan1
+澐	wan4
+潩	ji6
+潿	wai4
+潷	bei3
+熲	gwing2
+熯	hon3 naan5
+熛	biu1
+熰	ngau1 au1
+熠	jap1 saap6
+熵	soeng1
+熜	zung2
+熳	maan6
+獘	bai6
+獒	ngou4
+獞	tung4
+獟	hiu1
+獠	liu4 lou5
+獝	wat6
+獢	hiu1
+璇	syun4
+璉	lin4 lin5
+璊	mun4
+璆	kau4
+璁	cung1
+瑽	cung4
+璅	so2
+璈	ngou4
+甈	hei3
+瘥	co4 caai3
+瘞	ji3
+瘙	sou3
+瘝	gwaan1
+瘨	din1
+瘛	kai3
+皜	hou6
+皝	fong2
+皞	hou6
+皛	kiu5
+瞍	sau2
+碻	kok3
+磏	lim4
+磌	tin4
+磑	hoi2
+磎	kai1
+磈	faai3
+磉	song2
+禚	zoek3
+禡	maa6
+禠	si1
+禜	wing6
+禛	zan1
+稹	zan2
+窳	jyu5
+篋	haap6
+箾	sok3
+箬	joek6
+箯	bin1
+糅	jau2 nau6
+糈	seoi2
+糌	zaam1
+緪	gang1 gang2
+緧	cau1
+緗	soeng1
+緡	man4
+緺	gwaa1
+緦	si1
+緶	pin4
+緱	gau1
+罶	lau5
+羰	tong1
+羭	jyu4
+翭	hau4
+翫	waan4 wun6
+翪	zung1
+翬	fai1
+翦	zin2
+膣	zat6
+膟	leot6
+膞	zyun1
+膕	gwok3
+膢	lau4 leoi4
+膙	zoeng2
+膗	ceoi4
+舖	pou3
+艏	sau2
+艓	dip6
+艒	muk6
+艎	wong4
+艑	bin6
+蔤	mat6
+蔻	kau3
+蔏	dik6 soeng1
+蔀	bou6
+蔎	cit3
+蔉	gwan2
+蔟	cuk1
+蔊	hon6
+蔧	seoi6 wai6
+蔫	jin1
+蓺	ngai6
+蔈	biu1
+蔌	cuk1
+蓴	seon4
+蔪	kei4
+蓲	jau1
+蔕	dai3
+蓷	teoi1
+蓫	zuk6
+蓼	liu5 luk6
+蓪	tung1
+蓽	bat1
+蔞	lau5
+蔱	saat3
+蔦	niu5
+蓧	diu6
+蓨	tiu1 tiu4
+蓰	saai2
+蓯	cung1
+蔘	sam1
+蔠	zung1
+蔯	can4
+虢	gwik1
+蝣	jau4
+蝤	cau4 jau4
+蝳	doi6
+蝘	jin2
+蝛	wai1
+蝡	jyu4
+蝪	jik6
+蝐	mou6 mui6
+蝎	hit3 hot3
+蝟	wai6
+蝝	jyun4
+蝯	jyun4
+蝮	fuk1
+蝜	fu6
+蝥	maau4
+蝻	naam4
+衚	wu4
+褌	gwan1
+褔	fu3
+褋	dip6
+褘	fai1
+褙	bui3
+褖	teon3
+褎	jau6 zau6
+覤	gwik1
+觭	gei1 kei1
+觰	zaa1
+諏	zau1
+諆	hei1
+諓	zin2
+諑	doek3
+諔	cuk1
+諕	haak3
+誻	taap3
+諗	nam2 sam2
+誾	ngan4
+諅	mou4
+諃	cam1
+賥	seoi6
+賙	zau1
+賨	cung4
+賚	loi6
+賧	daam6
+趠	coek3
+趡	ceoi2
+踠	jyun2
+踣	baak6
+踥	cip3
+踤	seoi6 zeot1
+踮	dim3
+踛	luk6
+踖	zik1
+踑	kei1
+踦	gei1 gei2 ji2
+踧	cuk1 dik6
+踔	coek3
+踒	wo1
+踘	guk1
+輬	loeng4
+輘	ling4
+輚	zaan6
+輠	gwo2
+輣	paang4
+輖	zau1
+輗	ngai4
+遰	dai6 sai6
+遯	deon6
+遫	cuk1
+鄯	sin6
+鄫	cang4
+鄩	cam4
+鄪	bei3
+鄲	daan1
+鄦	heoi2
+鄮	mau6
+醅	pui1
+醆	zaan2
+醊	zeoi3 zyut3
+醁	luk6
+醄	tou4
+鋐	wang4
+鋃	long4
+鋄	faan6
+鋀	dau6
+鋙	jyu5 ng4
+銶	kau4
+鋏	gaap3
+鋱	tik1
+鋟	cim1
+鋘	ng4 waa4
+鋗	hyun1
+鋝	lyut3
+鋌	ting5
+鋯	gou3
+鋂	mui4
+鋨	ngo4
+鋊	juk6
+鋈	juk1
+鋦	guk6
+鋧	jin6
+鋆	wan4
+镼	gwat6
+閬	long5
+閫	kwan2
+閰	jim4
+隤	teoi4
+霅	saap3 zip3
+霈	pui3
+霂	muk6
+靚	leng3 zeng3 zing6
+鞈	gaap3
+韐	gaap3
+頞	ngaat3 aat3
+頦	hoi4 hoi5
+頩	ping1
+頠	ngai5
+颲	lit6
+餈	ci4
+飺	ci1
+餑	but6
+餔	bou1 bou3
+餖	dau6
+餗	cuk1
+餕	zeon3
+駜	bit1
+駏	geoi6
+駓	pei1
+駔	cong2 zong2 zou2
+駉	gwing1
+駘	toi4 toi5
+骳	bei6
+髫	tiu4
+髳	maau4
+髲	bei6
+魆	fat1
+魴	fong4
+魱	wu4
+魦	saa1
+魵	fan5
+魨	tyun4
+魬	baan2
+鳺	fu1
+鳿	juk6
+鳷	zi1
+鴇	bou2
+鴀	fau4
+麃	biu1 paau4
+黓	jik6
+鼏	mik6
+鼐	naai5
+儜	ning4
+儓	toi4
+儗	ji5
+匴	syun3
+叡	jeoi6
+噰	jung1
+噠	daat6
+噳	jyu5
+噦	jyut6 wai3
+噣	doek3 zau3
+噭	kiu3
+噲	faai3
+噞	jim1
+圜	jyun4 waan4
+圛	jik6
+壈	lam5
+墺	ngou3 ou3
+墼	gik1
+壆	bok3
+嬗	sin6
+嬙	coeng4
+嬛	king4 waan4
+嬡	ngoi3 oi5
+嬐	cim1
+嬖	pei3
+寯	zeon3
+嶱	got3
+嶧	jik6
+嶰	haai5
+嶮	him2
+嶪	jip6
+嶨	hok6
+嶲	seoi5
+嶭	jit6
+嶴	ngou3 ou3
+幧	ciu1
+幨	zim1
+幦	mik6
+廩	lam5
+廧	coeng4
+廨	gaai3 haai6
+廥	kui2
+彋	wang4
+徼	giu3 hiu1 jiu1
+憝	deoi6
+憨	ham1
+憖	jan6
+懅	keoi4
+懆	cou2
+懁	hyun1
+懌	jik6
+憺	daam6
+憸	cim1
+擗	pek6 pik1
+擖	kaa1
+擐	gwaan3
+擏	king4
+擉	cik3
+撽	gik1
+擙	ngou1
+敿	giu2
+曈	tung4
+暾	tan1
+曀	ai3 ngai3
+曏	hoeng3
+曌	ziu3
+朣	tung4
+樴	zik1
+橦	cong4 tung4
+橉	leon6
+橧	zang1
+樲	ji6
+樾	jyut6
+橝	taam4
+橛	gyut6 kyut3
+橑	liu4
+樨	sai1
+橚	suk1
+樿	sin6
+橁	ceon1
+橪	jim5
+橤	jeoi5
+橐	tok3
+樼	zeon1
+歕	pan3 fan5 pan1
+歔	heoi1
+殪	ji3
+殫	daan1
+毈	dyun6
+毇	wai2
+氄	jung5
+氃	tung4
+氆	pou2
+澭	jung1
+澣	wun5
+濇	gip3 sap1 sik1
+澼	pik1
+濎	ding2 ting5
+濈	cap1
+潞	lou6
+濄	wo1
+澽	geoi6
+澞	sau3
+濊	kut3 wai3
+瀄	zit1 zit3
+澥	haai5
+澮	kui2
+澺	jik1
+濉	seoi1
+澰	lim6
+燅	cam4 cim4
+燂	cim4 taam4
+熸	zim1
+燖	cam4
+燀	cin2 daan6
+燁	jip6
+燋	ciu4 ziu1
+燔	faan4
+燊	san1
+燏	wat6
+燚	jik6
+獧	gyun3
+獬	haai5
+獫	him2
+獪	kui2
+瑿	ji1
+璚	king4 kyut3
+璠	faan4
+璡	zeon3
+甋	dik1
+瘯	cuk1
+瘭	biu1
+瘱	ji3
+瘳	cau1
+瘼	mok6
+瘵	zaai3
+瘲	sin2 zung3
+瘰	lo2
+皻	zaa1
+盦	am1 ngam1
+瞚	seon3
+瞡	kwai1
+瞜	lau1
+瞢	mung4
+磝	ngou4
+磩	cik1
+磣	cam2
+磡	ham3
+磢	cong2
+磟	luk1
+磠	lou5
+禤	hyun1
+穄	zai3
+穈	mun4
+穇	saam1
+窶	geoi6 lau4
+窸	sik1
+窵	diu3
+窱	tiu5
+篣	pong4
+篝	gau1
+篥	leot6
+篚	fei2
+篨	ceoi4
+篔	wan4
+篪	ci4
+篘	cau1
+糔	sau1
+糗	cau3 jau2
+縡	zoi2
+縗	ceoi1
+縟	juk6
+縠	huk6
+縓	cyun3 cyun4
+縜	wan4
+縕	wan1 wan3
+縚	tou1
+縋	zeoi6
+罃	aang1 ngaang1
+罻	wai3 wat1
+羱	jyun4
+翯	hok6
+耪	pong1 pong5
+耩	gong2
+膱	zik1
+膦	leon4
+膮	hiu1
+膵	seoi6
+膰	faan4
+膬	ceoi3
+膴	fu1 mou5
+膲	ziu1
+膷	hoeng1
+膧	tung4
+臲	jit6
+艕	pong3
+艖	caa1
+艗	jik6
+蕖	keoi4
+蕫	dung2
+蕍	jyu4
+蕓	wan4
+蕡	fan4
+蕘	jiu4
+蕆	cin2 zin2
+蕤	jeoi4
+蕁	cam4
+蕢	gwai6
+蕑	gaan1
+蕣	seon3
+蔾	lai4
+蕛	tai4
+蕎	kiu4
+蕮	sik1
+蕕	jau4
+蕧	fuk6
+蕠	jyu4
+薌	hoeng1 hoeng2
+蕝	zyut3
+虣	bou6
+虤	ngaan4
+螗	tong4
+螓	ceon4
+螒	hon6
+螈	jyun4
+螘	ngai5
+螣	dak6 tang4
+螅	sik1
+螄	si1
+螔	ji4
+螉	jung1
+褦	le5 naai6
+褰	hin1
+褭	niu5
+褧	gwing2
+褱	waai4
+褢	waai4
+褯	zik6
+褟	taap3
+觱	bit1
+諠	hyun1
+諢	wan6
+諴	haam4
+諵	naam4
+諝	seoi1
+謔	joek6
+諤	ngok6
+諟	si6
+諰	si2
+諞	pin4 pin5
+諡	si3
+貒	teon1
+貐	jyu5
+賵	fung3
+賮	zeon2
+赬	cing1
+赮	haa4
+踳	cyun2
+踸	cam2
+蹀	dip6
+蹅	caa1
+踶	dai6 tai4
+踼	dong6 tong4
+踽	geoi2
+蹁	pin4
+踰	jyu4
+躽	jin2
+輶	jau4
+輮	jau4
+輵	got3
+輲	syun4
+輹	fuk1
+輷	gwang1
+遶	jiu5
+遹	wat6
+遻	ng6 ngok6
+邆	tang4
+鄳	maang4
+鄵	cou3
+鄶	kui2 kui3
+醓	taam2
+醐	wu4
+醑	seoi2
+醍	tai4
+錧	gun2
+錞	deoi6 seon4
+錟	taam4
+錆	coeng1
+鍺	ze2
+錸	loi4
+錛	ban1
+錣	zyut3
+錒	aa1 o1
+錁	gwo2
+鍆	mun4
+錭	diu1
+錍	pai1
+鋋	jin4 sin4
+鋹	cong2
+錤	gei1
+錩	coeng1
+錔	taap3
+閼	aat3 jin1 ngaat3
+闍	dou1 ze1
+閾	wik6
+閹	jim1
+閶	coeng1
+閿	man4
+閵	leon6
+閽	fan1
+隩	juk1 ngou3
+鞙	gyun1 jyun5
+鞗	tiu4
+鞔	mun4 mun6
+韰	haai6
+頵	wan1
+頯	kwai4
+頲	ting5
+餤	daam6 taam4
+餟	zyut3 zeoi3
+餧	neoi5 noi5 wai3
+餩	ak1
+馞	but6
+駮	bok3
+駬	ji5
+駤	zi3
+駰	jan1
+駣	tou4
+駪	san1
+骹	haau1
+骿	pin4
+骴	ci1
+骻	kwaa2
+髺	kut3
+髹	jau1
+鬳	jeoi6
+鮀	to4
+鮅	bit1
+鮇	mei6 mut6
+魼	keoi1
+魾	pei1 pei4
+鮓	zaa2
+鮒	fu6
+鮐	toi4
+鮈	keoi1
+鴥	wat6
+鴗	lap6
+鴠	daan3
+鴞	hiu1
+鴔	fuk6
+鴝	keoi4
+鴐	gaa1
+鴟	ci1
+麈	zyu2
+麆	cyu4
+麇	gwan1 kwan4
+黕	dam2
+鼒	zi1
+鼽	kau4
+儦	biu1
+儢	leoi5
+儩	ci3
+勴	leoi6
+嚓	caat3
+嚌	zai6
+嚆	hou1
+嚄	o2 wok6
+嚃	daap6
+嚂	laam4 laam6
+壖	jyun4
+壔	dou2 tou2
+壏	haam5
+壒	oi2
+嬭	naai5
+嬥	tiu5
+嬲	nau1 niu5
+嬮	jim1 jim3
+孻	laai1
+嶷	ji4 jik6
+幬	cau4 dou6
+幪	mung4
+懃	kan4
+憼	ging2
+懧	no6
+懠	cai4
+懥	zi3
+懤	cau4
+懨	jim1
+懞	mung5
+擯	ban3
+擩	jeoi5 jyu5
+擣	dou2
+擫	jip3
+擤	sang3
+斁	dou3 jik6
+斶	cuk1
+檍	jik1
+檁	ban2 lam5
+檥	ngai5
+檉	cing1
+檟	gaa2
+檛	zaa1
+檞	gaai2 haai5
+檇	zeoi3
+檎	kam4
+檕	hai6
+檨	ce1
+檑	leoi4
+橿	goeng1
+歛	lim5
+殭	goeng1
+氉	cou3
+澩	hok6
+濴	jing4
+濔	mei5
+濜	zeon6
+濦	jan2
+濲	guk1
+燡	jik6
+獳	nau6
+獮	sin2
+獯	fan1
+璲	seoi6
+璫	dong1
+璐	lou6
+璪	zou2
+璱	sat1
+甑	zang6
+甒	mou5
+甏	bong3
+癃	lung4
+癈	fai3
+癉	daan1 daan3
+癇	gaan2 haan4
+皤	po4
+盩	zau1
+瞵	leon4
+瞫	sam2
+瞲	hyut3
+瞷	gaan3
+瞶	gwai3 kui2
+矰	zang1
+磳	zang1
+磽	haau1
+磻	bo1 pun4
+磲	keoi4
+礅	deon1
+磾	dai1
+礄	kiu4
+禫	taam5
+禨	gei1
+穜	tung4 zung3
+窾	fun2
+竀	cang1
+竁	ceoi3
+簏	luk1
+篲	seoi6 wai6
+簀	zaak3
+篿	tyun4 zyun1
+篻	piu3
+篴	dek6
+簋	gwai2
+篳	bat1
+簂	gwok3
+簉	zou6
+簃	ji4
+篸	caam2 cam1
+篰	bou6
+篱	lei4
+糨	goeng6
+縭	lei4
+繂	leot6
+顈	gwing2 wing6
+縪	bat1
+繀	seoi3
+繇	jau4 jiu4 zau6
+縩	coi3
+縰	saai2
+縻	mei4
+縶	zap1
+繄	ji1
+罅	laa3
+罿	cung1 tung4
+罾	zang1
+罽	gai3
+耬	lau4
+膻	saan1
+臄	koek6
+臌	gu2
+臊	sou1 sou3
+臅	zuk1
+臇	zeon3
+艚	cou4
+薃	hou6
+薀	wan3
+薏	ji3
+薧	haau2 hou1
+薠	faan4
+薋	ci4
+蕻	hung4 hung6
+薤	haai6
+蕷	jyu6
+蕼	sei3
+薉	wai3
+薡	ding2
+蕺	cap1
+蕸	haa4
+蕗	lou6
+薖	gwo1
+薆	oi5
+薍	waan6
+薙	tai3
+薝	zim1
+薁	juk1
+薢	gaai1 gaai3
+薈	kui2 wai3
+薅	hou1
+蕹	ngung3 ung3
+薘	daat6
+薐	ling4
+薟	cim1 lim6
+螾	jan5
+螭	ci1
+蟅	ze3
+螬	cou4
+螹	zim6
+螵	piu1
+螮	dai3
+蟉	lau4
+螷	pei4
+螯	ngou4
+蟄	zik6 zat6
+蟊	maau4
+螿	zoeng1
+螽	zung1
+螲	dit6 zat6
+褵	lei4
+褳	lin4
+褼	sin1
+褾	biu2
+襁	koeng5
+襒	bit6
+褷	si1
+襂	sam1
+覯	gau3
+觳	huk6 kok3
+謞	hok6
+謖	suk1
+謑	hai5
+謅	zau1 zau3
+謋	waak6
+謏	sau2 siu2
+謕	tai4
+謇	gin2
+謍	jing4
+謈	bok6
+謚	si3
+豏	haam5
+豲	wun4
+貕	hai4
+貔	pei4
+赯	tong4
+蹎	din1
+蹍	zin2
+蹓	lau4
+蹐	zik3
+蹌	coeng1
+蹇	hin1 gin2
+轃	zeon1
+轀	wan1
+邅	zin1
+醚	mai4
+醢	hoi2
+醛	cyun4
+醟	wing6
+醡	zaa3
+醝	co4
+醠	ong3
+鎡	zi1
+鎃	pik1
+鍤	caap3
+鍖	zam1
+鍇	kaai2
+鍼	kim4 zam1
+鍘	zaap6
+鍶	si1
+鍉	dik6 si4
+鍑	fuk1
+鍠	wong4
+鍭	hau4
+鎏	lau4
+鍪	mau4
+鍧	gwang1
+闇	am2 am1 ngam2
+闀	hung6
+闉	jan1
+闃	gwik1
+闅	man4
+閷	saat3
+隮	zai1
+隰	zaap6
+霠	jam1
+霝	ling4
+霙	jing1
+鞚	hung3
+鞡	laa1
+鞜	daap6
+鞞	bei2 bing2 pei4
+鞝	soeng5
+韔	coeng3
+顄	ham5
+顉	ham6 jam1
+餫	wan4 wan6
+餬	wu4
+餪	nyun5
+餳	cing4
+餲	ngaat3 aai3 aat3
+餭	wong4
+餱	hau4
+馘	gwik1
+馡	fei1
+騂	sing1
+駴	haai5
+駷	sung2
+駸	cam1
+駻	hon6
+駽	hyun1
+駾	teoi3
+駼	tou4
+騃	daai1 ngoi4
+骾	gang2
+髾	saau1
+髽	zaa1
+鬁	lei1
+髼	pung4
+魈	siu1
+鮚	git3
+鮨	kei4 ngai6 zi1
+鮞	ji4
+鮛	suk1
+鮦	tung4 zau6
+鮤	lit6
+鮆	zai1
+鮠	wai4
+鴳	ngaan3 aan3
+鵁	gaau1
+鵧	jik6
+鴯	ji4
+鴸	zyu1
+鴰	kut3
+鵂	jau1
+鵃	zau1
+鴷	lit6
+鵀	jam4
+鴽	jyu4
+麰	mau4
+黈	tau2
+黚	kim4
+黻	fat1
+黿	jyun4
+鼤	man4
+鼢	fan4
+齔	can3
+龠	joek6
+儱	lung5
+儭	can3
+嚘	jau1
+嚜	mak1 maa1 mak6
+嚗	bok3
+嚚	ngan4
+嚙	ngaat6 ngit6
+奰	bei6
+屩	goek3
+巀	zit6
+幭	mit6
+幮	cyu4
+懘	cit3
+懟	deoi6
+懭	kong3 kwong3
+懮	jau1 jau2
+懰	lau4
+懫	zi3
+擿	tik1 zek3
+攄	syu1
+擸	laap6 lip6
+擼	lou5
+旛	faan1
+曚	mung4
+曛	fan1
+檽	nau6
+櫡	zoek3 zyu6
+櫆	fui1
+檷	nei4
+毉	ji1
+氋	mung4
+瀇	wong2
+瀌	biu1
+瀍	cin4
+瀁	joeng5 joeng6
+瀅	jing4
+瀔	guk1
+濿	lai6
+瀦	zyu1
+濼	lok6
+爁	laam6
+燿	jiu6 soek3
+獶	naau4
+璸	ban1
+瓀	jyun5
+璵	jyu4
+瓁	wok6
+甔	daam1
+甓	pik1
+癜	din6
+癤	zit3
+癙	syu2
+癐	zang2 gui6
+癗	leoi5
+皦	giu2
+皽	zin2
+盬	gu2
+矂	cou3
+磿	lik6
+礌	leoi5 leoi6
+礓	goeng1
+礉	hat6
+礐	kok3
+礒	ngai5
+禬	kui2 wui6
+穟	seoi6
+簜	dong6
+簩	lou4
+簙	bok3
+簠	fu2
+簟	tim5 dim3
+簭	sai6
+簝	liu4
+簦	dang1
+簨	seon3
+簰	paai4 bei6
+繐	seoi6
+繖	saan3
+繣	waak6
+繘	wat6
+繢	kui2
+繑	hiu1 kiu5
+繠	jeoi5
+聵	kui2 kui3
+臑	ji4 naau6
+臐	fan1
+艟	cung1 tung4
+薴	ning4
+藃	hiu1 hou3
+藂	cung4
+薳	jyun5
+藇	jyu6 zeoi6
+薿	ji5
+藋	diu3
+藎	zeon2
+薱	deoi6
+薶	maai4 wo1
+蘤	faa1
+薸	piu1
+薷	jyu4
+薾	ji5
+虩	gwik1
+蟧	lou4
+蟢	hei2
+蟛	paang4
+蟪	wai6
+蟥	wong4
+蟟	liu4
+蟔	mat6
+蟜	giu2
+蟓	zoeng6
+蟭	ziu1
+蟘	dat6
+蟣	gei2 kei4
+蟙	zik1
+蠁	hoeng2
+蟴	si1
+蟝	keoi4
+襋	gik1
+襏	but6
+襌	daan1
+襆	buk6
+襐	zoeng6
+謣	jyu4
+謳	au1 ngau1
+謰	lin4
+謼	fu1
+謾	maan6 maan4
+謱	leoi5 lou4
+謷	ngou4 ngou6
+謦	hing3
+謮	zaak3
+謻	ci2
+豂	liu4
+豵	zung1
+貙	ceoi1
+貘	mok6
+賾	zaak3
+贄	zi3
+蹜	suk1
+蹢	zaak6
+蹠	zik3
+蹞	kwai2
+蹧	zou1
+蹛	daai3 zai6
+蹚	tong2
+蹡	coeng1
+蹝	saai2
+蹩	bit6
+蹔	zaam6
+轆	luk1
+轇	gaau1
+轈	caau4
+鄺	kwong3 kong3
+鄾	jau1
+醨	lei4
+醧	jyu3
+醯	hei1
+醪	lou4
+鎵	gaa1
+鎌	lim4
+鎒	nau6
+鎷	maa5
+鎛	bok3
+鎝	saap3
+鎧	hoi2
+鎪	sau2
+鎞	pei1
+鎦	lau4 lau6
+鎣	jing4
+闒	taap3
+闓	hoi2
+闑	jit6
+隳	fai1
+雚	gun3
+巂	kwai1
+雟	kwai1
+雘	wok3
+雝	jung1
+霣	wan5
+霢	mak6
+鞬	gin1
+鞮	dai1
+鞨	hot3
+鞫	guk1
+鞪	mau4 mou6
+鞢	sit3
+鞥	ngang1 ang1
+韗	wan6
+韙	wai5
+韘	sip3
+顐	wan6
+顑	ham2
+顒	jung4
+颸	si1
+饁	jip3
+餼	hei3
+餺	bok3
+騏	kei4
+騋	loi4
+騉	kwan1
+騍	fo3
+騄	luk6
+騑	fei1
+騊	tou4
+騅	zeoi1
+騇	se3
+髀	bei2
+鬈	kyun4
+鬄	tai3
+鬅	pang4
+鬩	jik1
+鬵	cam4 cim4
+魊	wik6
+魌	hei1
+魋	teoi4 zeoi1
+鯇	waan5
+鯆	pou1
+鮿	zip3
+鯁	gang2
+鮸	min5
+鮶	gwan1
+鵜	tai4
+鵓	but6
+鵏	bou2
+鵛	ging1
+鵙	gwik1
+鵖	gip3
+鵌	tou4
+鵒	juk6
+鵔	zeon3
+鵟	kong4
+鵚	tuk1
+麌	jyu5
+黟	ji1
+鼖	fan4
+鼥	bat6
+鼫	sek6
+鼪	sang1
+鼩	keoi4
+齌	zai1
+齕	ngaat6 hat6
+儴	joeng4
+劖	caam4 caam5
+勷	joeng4 soeng1
+厴	jim2
+嚫	can3
+嚭	pei2
+嚦	lik6
+嚧	lou4
+嚪	daam6
+嚬	pan4
+壚	lou4
+壝	wai2
+壛	jim4
+嬽	jyun1
+嬾	laan5
+嬿	jin3
+巃	lung4
+幰	hin2
+攐	hin1
+攉	fok3
+攌	waan6
+斄	lei4 toi4
+櫧	zyu1
+櫠	fai3
+櫌	jau1
+櫑	leoi4 leoi5
+櫋	min4
+櫟	lik1
+櫜	gou1
+櫐	leoi5
+櫫	zyu1
+櫍	zat1
+櫞	jyun4
+歠	zyut3
+殰	duk6
+氌	lou5
+瀙	can3
+瀧	lung4 soeng1
+瀠	jing4
+瀫	huk6
+瀡	seoi5
+瀣	haai6
+瀜	jung4
+爌	kwong3 kong3
+爊	ngou4 ou1
+爇	jyut3
+犦	bok6
+犤	bei1
+瓅	lik1
+甖	ngaang1 aang1
+癠	zik3
+矉	pan4
+矊	min4
+矱	wok3
+礝	jyun5
+礛	laam4
+礡	bok6
+礞	mung4
+禰	nei4 nei5
+穧	zai6
+穨	teoi4
+簳	gon3
+簹	dong1
+簬	lou6
+簻	gwo1
+繶	jik1
+繸	seoi6
+繰	ciu1 sou1 zou2
+繯	waan4 waan6
+繨	daat6
+罋	ngung3 ung3
+羃	mik6
+翽	wai3
+翾	hyun1
+臗	fun1
+臕	biu1
+艤	ngai5
+艣	lou5
+藭	kung4
+藨	biu1
+藚	zuk6
+藸	zyu1
+藟	leoi5
+藣	bei1
+藜	lai4
+藑	king4
+藦	mo4
+蟺	sin6
+蠃	lo2 lo4
+蟶	cing1
+蟷	dong1
+蠉	hyun1
+蠋	zuk1
+蠆	caai3
+蟿	kai3
+蠊	lim4
+襢	taan2
+襚	seoi6
+襛	nung4
+襗	dok6 zaak6
+襡	suk6
+襜	sim4
+襘	kui2
+襝	lim6
+覈	hat6
+覷	ceoi3
+覶	lo4
+觶	zi3
+譈	deoi6
+譊	naau4
+譓	wai6
+譖	cam3 zam3
+譔	zaan6
+豷	ngai3 ai3
+豶	fan4
+贇	wan1
+贉	taam5
+趬	hiu1
+趪	wong4
+趭	ziu3
+趫	kiu4
+蹭	sang3
+蹸	leon6
+蹳	but6
+蹯	faan4
+蹻	giu2 goek3 hiu1
+轒	fan4
+轑	lou5
+轏	zaan6
+轐	buk6
+轓	faan1
+醰	taam4
+醭	pok3
+鏞	jung4
+鏇	syun4
+鏏	wai6
+鏂	ngau1 au1
+鏚	cik1
+鏐	lau4
+鏹	koeng5
+鏌	mok6
+鏙	ceoi1
+鎩	saat3
+鏦	cung1
+鏊	ngou4 ngou6
+鏮	hong1
+闚	kwai1
+闛	coeng1 tong1 tong4
+霩	gwok3
+霫	zap6
+霨	wai3
+鞳	daap6
+鞶	pun4
+韝	bai6 gau1
+韞	wan3
+顙	song2
+顗	ngai5
+颿	faan4
+颽	hoi2
+颻	jiu4
+饈	sau1
+饇	jyu3
+饃	mo4
+騕	jiu5
+騤	kwai4
+騢	haa4
+騠	tai4
+騧	waa1
+騣	zung1
+騞	waak6
+騜	wong4
+髂	kaa3
+鬋	zin1
+鬌	do6
+鬷	zung1
+鯪	leng4 ling4
+鯫	zau1
+鯞	zau2
+鯤	kwan1
+鯰	nim4
+鯔	zi1
+鯗	soeng2
+鯥	luk6
+鯕	kei4
+鯡	fei1
+鯚	gwai3
+鵷	jyun1
+鶊	gang1
+鶄	zing1
+鶆	loi4
+鶋	geoi1
+鶌	gwat6
+鵰	diu1
+鵩	fuk6
+鵳	gin1
+鵻	zeoi1
+鶂	jik6
+鵯	bei1
+鵹	lei4
+鶇	dung1
+鵨	am1
+麑	ngai4
+黀	zau1
+黼	fu2
+齁	hau1
+齍	zi1
+齗	ngan4
+齘	haai6
+嚲	do2
+嚳	guk1
+孅	cim1
+巇	hei1
+忀	soeng1
+攗	kwan2 mei4
+攖	jing1
+攕	cim1
+攓	hin1
+曨	lung4
+曣	jin3
+櫳	lung4
+櫰	waai4
+櫪	lik1
+櫨	lou4
+櫹	siu1
+櫱	jip6 jit6
+瀼	joeng4
+瀵	fan3
+瀯	jing4
+瀷	jik6
+瀴	jing1 jing2
+灂	ziu3 zok6
+瀸	zim1
+瀿	faan4
+瀺	caam4
+瀹	joek6
+爓	cam4 jim4 jim6
+爔	hei1
+犨	cau4
+獼	mei4 nei4
+璺	man6
+皫	piu5
+皪	lik6
+盭	leoi6
+矎	hing3 hyun3
+矍	fok3
+礧	leoi6
+礨	leoi5
+礤	caat3
+礩	zat6 zi3
+穮	biu1
+穬	kong3 kwong3
+穭	leoi5
+籊	dik6 tik1
+繻	seoi1
+繾	hin2
+纁	fan1
+纀	buk6
+翿	dou6 tou4
+聹	ning4
+臛	fok3
+臙	jin1
+舋	jan6 man6
+艨	mung4
+蘢	lung4
+藿	fok3
+蘁	ngok6 ng6
+藾	laai6
+蘀	tok3
+藶	lik6
+蘉	mong4
+蘅	hang4
+蘌	jyu5
+蠙	ban1 pan4
+蠐	cai4
+蠑	wing4
+蠓	mung5
+蠖	wok6
+襣	bei6
+襦	jyu4
+觷	hok6
+譨	nung4
+譥	giu3
+譭	wai2
+趮	cou3
+躈	kiu3
+躄	bik1
+轙	ngai5
+轖	sik1
+轗	ham2
+轕	got3
+轘	waan6
+轚	gik1
+酃	ling4
+醷	jik1
+醵	geoi6 koek6
+醲	nung4
+醳	jik6 sik1
+鐋	tong2
+鐓	deoi6
+鏻	leon4
+鐠	pou2
+鐏	zyun3
+鐔	taam4
+鏾	sin3
+鐐	liu4
+鐨	fai3
+鐙	dang1 dang3
+鐍	kyut3
+鏵	waa4
+鐀	gwai6
+鏷	pok3
+鐇	faan4
+鐎	ziu1
+鐖	gei1
+鐒	lou4
+鏺	put3
+鐉	syun2
+闞	ham3
+闠	gwai6 kui2
+闟	hap6 kap1
+霮	daam6
+鞹	kwok3
+鞻	lau4
+韽	ngam1
+顠	piu5
+顢	mun1 mun4
+顣	cuk1
+飂	lau4 liu4
+饐	ji3
+饎	ci3
+饙	fan1
+饌	zaan6 syun2
+饋	gwai6
+騲	cou2
+騱	hai4
+騶	zau1
+騩	kwai5 kwai3 gwai1
+騮	lau4
+騸	sin3
+騭	zat1
+髇	hou1
+髊	ci1
+髆	bok3
+鬐	kei4
+鬒	zan2
+鬑	lim4
+鰋	jin2
+鰈	dip6
+鯷	tai4
+鰅	jung4 jyu4
+鰒	fuk1
+鯸	hau4
+鰆	ceon1
+鰉	wong4
+鶙	tai4
+鶤	gwan1
+鶘	wu4
+鶠	jin2
+鶪	gwik1
+鶗	tai4
+鶡	hot3
+鶚	ngok6
+鶿	ci4
+鶩	mou6
+鶖	cau1
+鶦	wu4
+麙	haam4 ngaam4
+麛	mai4
+黥	king4
+黤	jim2
+黧	lai4
+黦	wat1
+鼮	ting4
+齠	tiu4
+齞	jin6
+齝	ci1
+齙	baau6
+龑	jim2
+儺	no4
+儹	zaan2
+劘	mo4
+劗	zin2
+嚾	fun1
+巋	kwai1
+巏	kyun4
+廱	jung1
+懽	fun1
+攛	cyun3
+欂	bok3
+櫼	cim1
+欃	caam4
+櫸	geoi2
+灃	fung1
+灄	sip3
+灊	cim4
+灈	keoi4
+灉	jung1
+灅	leoi5
+爝	zoek3
+爚	joek6
+獾	fun1
+甗	jin5
+癪	zik1
+矐	hok6
+礱	lung4
+籔	sau2 sou2
+糲	lai6
+纊	kong3 kwong3
+纇	leoi6
+纈	kit3 lit3
+纋	jau1
+纆	mak6
+纍	leoi6 leoi4 leoi5
+罍	leoi4
+耰	jau1
+臝	lo2
+蘘	joeng4
+蘦	ling4
+蘜	guk1
+蘡	jing1
+蘩	faan4
+蘞	lim6
+蘥	joek6
+蠝	leoi5
+蠛	mit6
+蠜	faan4
+衊	mit6
+襭	kit3
+襮	bok3 buk6
+襫	sik1
+觺	ji4
+譸	zau1
+譅	sap1
+贐	zeon2
+贔	bei6
+趯	tik1
+轞	laam6
+轛	deoi3
+轝	jyu4
+酆	fung1
+酅	kwai4
+醹	jyu4
+鐿	ji3
+鐻	geoi6 keoi4
+鐶	waan4
+鐽	daat6
+鑀	oi5
+闥	taat3
+闤	waan4
+鞿	gei1
+韡	wai5
+飉	liu4
+飆	biu1
+飀	lau4
+饘	zin1
+騹	kei4
+驄	cung1
+驂	caam1
+驁	ngou4
+騺	zi3
+鬘	maan4
+鬖	saam1
+鬺	soeng1
+鰫	jung4 sung4
+鰝	hou6
+鰜	gim1
+鰬	kin4
+鰣	si4
+鰨	taap3
+鰩	jiu4
+鰤	si1
+鰡	lau4
+鶼	gim1
+鷇	kau3
+鷊	jik6
+鶾	hon6
+鷅	leot6
+鷃	ngaan3 aan3
+鶻	gwat1 wat6
+鶵	co4
+鶹	lau4
+鶺	zik3
+鶬	coeng1 cong1
+鶱	hin1
+鶲	jung1
+鹺	co4
+麜	leot6
+黫	jan1
+黮	sam6 taam5
+黭	jim2
+鼛	gou1
+鼘	jyun1
+鼚	coeng1
+鼱	zing1
+齎	zai1
+齤	kyun4
+亹	mei5 mun4
+囅	cin2
+囋	zaan3
+孋	lei4 saai2
+孌	lyun5
+攡	ci1
+攠	mei4
+攦	lai6
+攢	cyun4 zaan2
+欉	cung1
+氍	keoi4
+灕	lei4
+爞	cung4
+爟	gun3
+犩	ngai4
+獿	naau4
+瓘	gun3
+癭	jing2
+皭	ziu6 zoek3
+禴	joek6
+穰	joeng4 joeng6
+籜	tok3
+籙	luk6
+籛	zin1
+籚	lou4
+糴	dek6
+糱	jit6
+纑	lou4
+罏	lou4
+羇	gei1
+臞	keoi4
+艫	lou4
+蘴	fung1
+蠨	siu1
+蠪	lung4
+蠥	jip6 jit6
+襱	lung4
+覿	dik6
+譾	zin2
+讆	wai6
+讅	sam2
+躕	cyu4
+躔	cin4
+躚	sin1
+躒	lik1 lok3
+躐	lip6
+躗	wai6
+轠	leoi4
+轢	lik1
+酇	zaan3
+鑌	ban1
+鑐	seoi1
+鑊	wok6
+鑋	hing1
+韣	duk6
+顪	fui3
+顩	jim5
+饔	jung1
+饛	mung4
+驎	leon4
+驔	tim5
+驌	suk1
+驏	zaan2
+驈	wat6
+驊	waa4
+驉	heoi1
+驒	to4
+髐	haau1
+鬙	zang1
+鬫	haam2
+鬻	juk6 zuk1
+魖	heoi1
+鱈	syut3
+鰿	zik1
+鱄	tyun4 zyun1
+鰹	gin1
+鰳	lak6
+鱁	zuk6
+鰼	zaap6
+鰷	tiu4
+鰴	fai1
+鰲	ngou4
+鰶	man5
+鷛	jung4
+鷞	soeng1
+鷚	lau6
+鷋	tou4
+鷐	san4
+鷟	zok6
+鷩	bit3 cong2
+鷙	zi3
+鷘	cik1
+鷖	ji1
+鷕	jiu6
+黰	zan2
+鼵	dat6
+鼲	wan4
+齫	wan5
+龕	ham1
+龢	wo4
+儽	leoi4
+劙	lai5
+奲	do2
+巘	jin5
+彏	fok3
+戁	naan5
+戃	cong2 tong2
+戄	fok3
+攩	dong2 dong3
+攥	zaan6
+欑	cyun4
+欒	lyun4
+欏	lo4
+爢	mei4
+玁	him2
+玃	fok3
+癰	jung1
+籧	keoi4
+纕	soeng1
+蘺	lei4
+虀	zai1
+蘼	mei4
+蘱	leoi6
+蠰	joeng6
+蠲	gyun1
+蠮	jit6
+襶	daai3 de2
+襴	laan4
+襳	sam1 sim1
+讌	jin3
+讎	cau4 sau4
+讋	zip3
+轤	lou4
+轣	lik6
+醼	jin3
+鑢	leoi6
+鑕	zat1
+鑞	laap6
+韄	waak6
+韅	hin2
+頀	wu6
+驖	tit3
+鬟	waan4
+鬠	kut3
+鱒	zyun1
+鱘	cam4
+鱐	suk1
+鱊	wat6
+鱍	but6
+鱎	giu2
+鷻	tyun4
+鷯	liu4
+鷫	suk1
+鷸	wat6 kyut3
+鷤	taan4 tai4
+鷮	giu1
+鷦	ziu1
+鷲	zau6
+鷴	haan4
+鷭	faan4
+黂	fan4
+黐	ci1
+黲	caam2
+鼆	man4
+鼜	cik1
+鼷	hai4
+鼶	si1
+齃	aat3 ngaat3
+齏	zai1
+齱	cuk1 zau1
+齰	zaak3
+齮	ji2
+齯	ngai4
+囓	ngaat6 ngit6
+屭	ngai3 ai3 hei3
+攭	lai5
+曭	tong2
+灡	laan4
+灝	hou6
+灠	laam6
+爣	tong2
+瓛	wun4
+矕	maan5
+礸	zyun3
+禷	leoi6
+籪	dyun6
+艭	soeng1
+蠸	kyun4
+蠷	keoi4
+蠵	kwai4
+衋	sik1
+讔	jan2
+讕	laan4
+躞	sip3 sit3
+躠	sit3
+躝	laan1
+醾	mei4
+醽	ling4
+釂	ziu3
+鑫	jam1
+鑨	lung4
+靆	doi6
+靃	seoi5 fok3
+韇	duk6
+髕	ban3
+魙	zim6
+鱣	zin1
+鱧	lai5
+鱞	gwaan1
+鱠	kui2
+鸂	kai1
+鷾	ji3
+鸇	zin1
+鸃	ji4
+鸆	jyu4
+鸀	suk6 zuk1
+鸉	joeng4
+鷿	pik1
+鷽	hok6
+鼞	tong1
+齆	ngung3 ung3
+齴	jin6
+齵	jyu4
+齶	ngok6
+囔	nong4
+攮	nong5
+斸	zuk1
+欘	zuk1
+欙	leoi4
+爦	laam5
+犪	kwai4
+矘	tong2
+矙	ham3
+籩	bin1
+糶	tiu3
+纘	zyun2
+纛	dou6 duk6
+臠	lyun5
+虆	leoi4
+虈	hiu1
+襹	si1
+襺	gaan2
+襻	paan3
+觿	kwai4
+讘	zip3
+讙	fun1
+躥	cyun1
+躤	zik6
+躣	keoi4
+鑮	bok3
+鑭	laan4
+鑱	caam4
+靉	ngoi2 oi2
+饟	hoeng2
+鱨	soeng4
+鱮	zeoi6
+鱭	cai5
+鸋	ning4
+鸐	dik6
+鸏	mung4
+鸒	jyu4
+鸑	ngok6
+黵	zaam2
+鼉	to4
+齇	zaa1
+齺	zau1
+圞	lyun4
+籯	jing4
+蠼	fok3 keoi4
+趲	zaan2
+躦	zyun1
+釃	si1
+鑴	kwai4
+鑵	gun3
+鱴	mit6
+鱵	zam1
+鸓	leoi5
+黶	jim2
+龤	haai4
+灨	gam3
+糷	laan6
+讞	jin6
+貜	fok3
+躩	fok3
+靋	lik6
+顳	nip6
+顴	kyun4
+飌	fung1
+饡	zaan3
+驤	soeng1
+驦	soeng1
+鸕	lou4
+戇	ngong6 zong3
+欞	ling4
+钂	tong2
+钁	kyut3
+驩	fun1
+鬮	kau1
+爩	wat1
+虋	mun4
+讟	duk6
+钃	suk6
+驫	biu1
+鱺	lei4
+鸝	lei4
+灩	jim6
+麤	cou1
+齾	ngaa3
+齉	nong6
+碁	gei1 kei4
+裏	leoi5
+墻	coeng4
+恒	hang4
+粧	zong1
+嫺	haan4
+攞	lo2
+啱	ngaam1
+攰	gui6
+靜	zing6
+揾	wan2
+嘢	je5
+着	zoek6
+瞓	fan3
+哋	dei2
+者	ze2
+嘅	ge3
+啫	ze1
+都	dou1
+喺	hai2
+起	hei2
+啲	di1
+咗	zo2
+吓	haa2
+吖	aa1
+餸	sung3
+脷	lei6
+響	hoeng2
+嚿	gau6
+嗰	go2
+揸	zaa1
+拎	ling1
+孭	me1
+掹	maang1
+嚟	lai2
+拐	gwaai2
+邨	cyun1
+枱	toi4
+呯	ping4
+氹	tam3
+喐	juk1
+嘭	paang4
+㗎	gaa2 gaa3 gaa4
+揼	dam2

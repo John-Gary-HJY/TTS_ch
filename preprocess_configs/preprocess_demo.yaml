@@ -1,0 +1,28 @@
+dataset: "Canton"
+
+speakers: ["DiDi", "LvDou", "XiaoXing", "XiaoLan"]
+
+path:
+  lexicon_path: "./forced_alignment/dictionary/canton-lexicon.txt"
+  audio_path: "./forced_alignment/speech_corpus"
+  text_path: "./forced_alignment/speech_corpus"
+  textgrid_path: "./forced_alignment/aligned_speech_corpus"
+  preprocessed_path: "./preprocessed_data"
+  train_files_path: "./train_files"
+
+preprocessing:
+  val_size: 32
+  text:
+    text_cleaners: []
+    language: "canton"
+  audio:
+    sampling_rate: 22050
+    max_wav_value: 32768.0
+  stft:
+    filter_length: 1024
+    hop_length: 256
+    win_length: 1024
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000 # please set to 8000 for HiFi-GAN vocoder, set to null for MelGAN vocoder

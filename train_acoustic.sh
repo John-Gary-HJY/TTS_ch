@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 uv run python train_acoustic.py --data_dir ./train_files --model_dir ./experiments/acoustic_model_demo --restore_file pretrained_acoustic.pt --training_file train_DiDi_LvDou_XiaoXing_XiaoLan.txt

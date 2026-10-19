@@ -1,0 +1,34 @@
+# ---- Python / 环境 ----
+.venv/
+__pycache__/
+*.py[cod]
+.python-version
+*.egg-info/
+
+# ---- 大体积原始数据（不入库）----
+recordings/
+data_local/
+preprocessed_data/
+preprocessed_data_multi/
+forced_alignment/speech_corpus/
+forced_alignment/aligned_speech_corpus/
+forced_alignment/acoustic_model.zip
+
+# ---- 训练产物 / 权重（走 Release asset，不进 git 历史）----
+experiments/
+*.pt
+*.pth.tar
+*.onnx
+
+# ---- 由 preprocessing 生成的清单（可复现，不入库）----
+train_files/train_*.txt
+train_files/val_*.txt
+
+# ---- 系统垃圾 ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 注意：forced_alignment/dictionary/ 与 text/canton_dictionary/ 必须保留，
+# 文本前端（TextFrontend）在运行时依赖这两个目录。
