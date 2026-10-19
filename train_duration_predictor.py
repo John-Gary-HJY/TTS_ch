@@ -30,7 +30,7 @@ parser.add_argument(
 parser.add_argument(
     '--validation_file', default='val.txt')
 parser.add_argument(
-    '--lan', default='yue', choices=['yue', 'en'])
+    '--lan', default='yue', choices=['yue', 'en', 'zh'])
 
 def train(model, optimizer, loss_fn, data_loader, params):
     model.train()

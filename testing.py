@@ -36,7 +36,7 @@ parser.add_argument(
 parser.add_argument(
     '--vocoder_dir', default='./experiments/pretrained_hifigan_vocoder/UNIVERSAL_V1')
 parser.add_argument('--vocoder_cp', default='g_02600000')
-parser.add_argument('--lan', default='yue', choices=['yue', 'en'])
+parser.add_argument('--lan', default='yue', choices=['yue', 'en', 'zh'])
 parser.add_argument('--fpath', required=True, help='path to the test_script')
 parser.add_argument('--speaker', required=True, help='test speaker ID')
 

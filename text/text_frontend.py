@@ -5,6 +5,7 @@ from string import punctuation
 import re
 
 from .cleaners import english_cleaners
+from .mandarin import normalize_text
 from .symbols import _arpabet, _pinyin, _jyutping
 
 import ToJyutping
@@ -45,23 +46,29 @@ def preprocess_english(text, lexicon):
     return phones
 
 
-def preprocess_mandarin(text, lexicon):
-    phones = []
+def preprocess_mandarin(text, lexicon, silence=True):
+    raw_text = text
+    text = normalize_text(text)
     pinyins = [
         p[0]
         for p in pinyin(
             text, style=Style.TONE3, strict=False, neutral_tone_with_five=True
         )
     ]
+    phones = []
     for p in pinyins:
         if p in lexicon:
             phones += lexicon[p]
-        else:
-            phones.append("sil")
+        elif silence:
+            # 标点、空白和词典外的字符统一折叠成一个 sil，避免连续静音
+            if not phones or phones[-1] != "sil":
+                phones.append("sil")
 
-    print("Raw Text Sequence: {}".format(text))
-    print("Pinyin Sequence: {}".format(pinyins))
-    print("Phoneme Sequence: {}".format(phones))
+    if silence:
+        print("Raw Text Sequence: {}".format(raw_text))
+        print("Normalized Text Sequence: {}".format(text))
+        print("Pinyin Sequence: {}".format(pinyins))
+        print("Phoneme Sequence: {}".format(phones))
 
     return phones
 

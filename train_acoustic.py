@@ -29,7 +29,7 @@ parser.add_argument(
 parser.add_argument(
     '--training_file', default='train.txt')
 parser.add_argument(
-    '--lan', default='yue', choices=['yue', 'en'])
+    '--lan', default='yue', choices=['yue', 'en', 'zh'])
 parser.add_argument(
     '--finetune', action='store_true')
 
