@@ -1,5 +1,6 @@
 # ---- Python / 环境 ----
 .venv/
+.venv*/
 __pycache__/
 *.py[cod]
 .python-version
@@ -10,9 +11,13 @@ recordings/
 data_local/
 preprocessed_data/
 preprocessed_data_multi/
+preprocessed_data_mandarin/
 forced_alignment/speech_corpus/
+forced_alignment/speech_corpus_sentences/
 forced_alignment/aligned_speech_corpus/
+forced_alignment/aligned_sentences/
 forced_alignment/acoustic_model.zip
+forced_alignment/mandarin_acoustic_model.zip
 
 # ---- 训练产物 / 权重（走 Release asset，不进 git 历史）----
 experiments/

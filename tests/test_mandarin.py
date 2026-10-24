@@ -103,6 +103,15 @@ class TestTextFrontendZh(unittest.TestCase):
                     phone, symbols,
                     msg="词典条目 {} 的音素 {} 不在符号表中".format(key, phone))
 
+    def test_text_to_pinyins_drops_punctuation(self):
+        self.assertEqual(self.tf.text_to_pinyins("今天"), ["jin1", "tian1"])
+        self.assertEqual(self.tf.text_to_pinyins("今天。"), ["jin1", "tian1"])
+
+    def test_text_to_pinyins_normalizes_numbers(self):
+        self.assertEqual(
+            self.tf.text_to_pinyins("2024年"),
+            ["er4", "ling2", "er4", "si4", "nian2"])
+
 
 class TestCorpusSentences(unittest.TestCase):
     @classmethod

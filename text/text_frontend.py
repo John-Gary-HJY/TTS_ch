@@ -184,3 +184,22 @@ class TextFrontend(object):
                 text, self.lexicon, silence=False)
 
         return jyutpings
+
+    def text_to_pinyins(self, text):
+        """
+        把普通话文本转成带声调的拼音音节，供 MFA 的 .lab 使用。
+
+        标点、英文和词典外字符会被丢弃（不做静音填充），
+        静音位置交给 MFA 自己判断。
+        :param text: str, input text.
+        :return: list of str, 拼音音节（如 jin1 tian1）
+        """
+        normalized = normalize_text(text)
+        pinyins = [
+            p[0]
+            for p in pinyin(
+                normalized, style=Style.TONE3,
+                strict=False, neutral_tone_with_five=True
+            )
+        ]
+        return [p for p in pinyins if p in self.lexicon]
