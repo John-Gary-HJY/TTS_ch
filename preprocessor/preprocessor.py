@@ -58,14 +58,17 @@ class Preprocessor:
                     self.tgt_dir, speaker, "{}.TextGrid".format(basename)
                 )
                 print(tg_path)
-                if os.path.exists(tg_path):
-                    ret = self.process_utterance(speaker, basename)
-                    if ret is None:
-                        continue
-                    else:
-                        info, n = ret
-                    out.append(info)
 
+                # 没有对齐结果就跳过；否则 n 会沿用上一条的值，统计会出错
+                if not os.path.exists(tg_path):
+                    continue
+
+                ret = self.process_utterance(speaker, basename)
+                if ret is None:
+                    continue
+
+                info, n = ret
+                out.append(info)
                 n_frames += n
 
             total_time[speaker] = n_frames * self.hop_length / self.sampling_rate
@@ -133,17 +136,23 @@ class Preprocessor:
         print(tg_path)
         mel_spectrogram = self.get_mel(wav)
 
-        if abs(mel_spectrogram.shape[1] - sum(durations)) > 2:
+        total_frames = sum(durations)
+        if abs(mel_spectrogram.shape[1] - total_frames) > 50:
             print(
             "Discarding sample {} because mel frames {} != durations {}".format(
-                basename, mel_spectrogram.shape[1], sum(durations)
+                basename, mel_spectrogram.shape[1], total_frames
             )
             )
             return None
 
-        mel_spectrogram = mel_spectrogram[:, : sum(durations)]
-        if mel_spectrogram.shape[1] != sum(durations):
-            return None
+        # get_alignment 会把每个音素至少算 1 帧，大量短音素累积后总时长
+        # 可能比 mel 多出几帧（实测最多 10 帧）。短则用边缘帧补齐，长则裁掉。
+        if mel_spectrogram.shape[1] < total_frames:
+            pad = total_frames - mel_spectrogram.shape[1]
+            mel_spectrogram = np.pad(
+                mel_spectrogram, ((0, 0), (0, pad)), mode="edge")
+        else:
+            mel_spectrogram = mel_spectrogram[:, :total_frames]
 
         mel_filename = "{}.npy".format(basename)
         mel_savepath = os.path.join(self.out_dir, "mel", speaker, mel_filename)

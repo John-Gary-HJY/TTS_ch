@@ -4,8 +4,8 @@ speakers: ["RenSheng"]
 
 path:
   lexicon_path: "./forced_alignment/dictionary/pinyin-lexicon-r.txt"
-  audio_path: "./forced_alignment/speech_corpus_sentences"
-  text_path: "./forced_alignment/speech_corpus_sentences"
+  audio_path: "./forced_alignment/sentence_corpus"
+  text_path: "./forced_alignment/sentence_corpus"
   textgrid_path: "./forced_alignment/aligned_sentences"
   preprocessed_path: "./preprocessed_data_mandarin"
   train_files_path: "./train_files"
