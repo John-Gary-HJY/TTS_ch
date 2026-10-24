@@ -1,0 +1,19 @@
+{
+    "symbol_embedding_dim":512,
+    "n_symbols": 211,
+
+    "n_speakers":1,
+    "speaker_embedding_dim":16,
+
+    "duration_rnn_dim": 256,
+    "duration_rnn_layer": 2,
+    "predictor_dropout": 0.5,
+    "min_duration": 1,
+
+    "num_epochs":150,
+    "iters_per_checkpoint":25,
+    "save_summary_steps":1,
+    "batch_size":16,
+    "learning_rate":1e-3,
+    "weight_decay":1e-6
+}

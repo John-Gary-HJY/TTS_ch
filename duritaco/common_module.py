@@ -254,6 +254,10 @@ class Duration_Predictor(nn.Module):
         self.n_symbols = hparams.n_symbols
         self.n_speakers = hparams.n_speakers
         self.dropout = hparams.predictor_dropout
+        # Duration_Loss 用的是 log(dur + 1)，推理必须 exp(x) - 1。
+        # 最短时长默认 4 帧以兼容粤语预训练模型；普通话音素更短，可在
+        # hparams 里设 min_duration=1。
+        self.min_duration = int(getattr(hparams, "min_duration", 4))
 
         self.symbol_embedding_dim = hparams.symbol_embedding_dim
         self.speaker_embedding_dim = hparams.speaker_embedding_dim
@@ -329,7 +333,9 @@ class Duration_Predictor(nn.Module):
     def inference(self, inputs, len_text=0):
         # batch_size == 1
         log_duration_outputs, _ = self.forward(inputs)
-        duration_outputs = torch.clamp(torch.round(1.0*torch.exp(log_duration_outputs)), min=4)
+        duration_outputs = torch.clamp(
+            torch.round(1.0 * torch.exp(log_duration_outputs) - 1.0),
+            min=self.min_duration)
         # if len_text > 10:
         #     duration_outputs = torch.exp(log_duration_outputs)
         #     avg_phone_dur = torch.sum(duration_outputs.squeeze(0))/float(len_text)

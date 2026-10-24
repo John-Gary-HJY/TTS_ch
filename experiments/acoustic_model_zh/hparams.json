@@ -1,0 +1,29 @@
+{
+    "n_mel_channels":80,
+    "encoder_kernel_size":5,
+    "encoder_n_convolutions":3,
+    "encoder_embedding_dim":512,
+    "encoder_num_layers":1,
+    "symbol_embedding_dim":512,
+    "n_symbols": 211,
+
+    "n_speakers":1,
+    "speaker_embedding_dim":16,
+
+    "n_frames_per_step":1,
+    "decoder_rnn_dim":1024,
+    "prenet_dim":256,
+    "max_decoder_steps":4000,
+    "gate_threshold":0.5,
+    "p_attention_dropout":0.1,
+    "p_decoder_dropout":0.1,
+    "attention_rnn_dim":1024,
+    "position_embedding_dim":1,
+
+    "num_epochs":200,
+    "iters_per_checkpoint":25,
+    "save_summary_steps":1,
+    "batch_size":16,
+    "learning_rate":2e-4,
+    "weight_decay":1e-6
+}
